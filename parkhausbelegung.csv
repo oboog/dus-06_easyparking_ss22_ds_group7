@@ -1,0 +1,53 @@
+identifier,parkhaus,kapazitaet,tendenz
+PH08,,-1,-1
+PH06,Maastrichter Straße,165,0
+PH07,Im Klapperhof,200,0
+PH10,Cäcilienstraße,338,0
+PH23,Lungengasse,106,1
+PH24,Wolfsstraße,129,1
+PH25,Bazaar de Cologne,69,1
+PH34,,-1,-1
+W_P08W,Stadion P8 PKW - nur bei Veranstaltungen geöffnet,-1,-1
+PH11,Galeria Kaufhof,860,0
+PH12,Hohe Straße,13,0
+PH13,Schildergasse,150,0
+PH14,Theater-Parkhaus,69,0
+PH15,Opernpassagen,0,0
+PH16,Maritim,423,0
+PH17,Am Neumarkt,221,0
+PH18,Alte Wallgasse,47,1
+PH19,Gürzenich,187,0
+PH20,Galeria Karstadt ,292,0
+PH21,Kreissparkasse,0,0
+PH22,Heumarkt,200,0
+W_P007,Stadion P7 - nur bei Veranstaltungen geöffnet,1000,0
+W_P08o,Stadion P8 Bus - nur bei Veranstaltungen geöffnet,40,0
+PH26,Quincy,142,2
+PH27,Sparkasse KölnBonn,-1,-1
+PH28,P+R Stadion,538,0
+PH37-2,Rheinauhafen Bayenturm,60,-1
+PH37-3,Rheinauhafen Oberländer Wall,20,-1
+PH38,Rhein Triadem,485,0
+W_P001,Stadion P1 - nur bei Veranstaltungen geöffnet,600,0
+W_P003,Stadion P3  - nur bei Veranstaltungen geöffnet,937,0
+W_P004,Stadion P4 - nur bei Veranstaltungen geöffnet,500,0
+W_P006,Stadion P6 - nur bei Veranstaltungen geöffnet,1000,0
+D_P001,LANXESS arena 1,999,0
+D_P002,LANXESS arena 2,6,0
+D_P003,,616,0
+D_P004,LANXESS arena 4,81,1
+D_P006,Köln Arcaden,521,0
+PH01,Hauptbahnhof,205,0
+PH02,Am Dom,15,0
+PH03,Groß Sankt Martin,66,0
+PH04,Brückenstraße,228,1
+PH05,REWE,136,0
+PH09,Philharmonie,231,0
+PH29,Kaiser-Wilhelm-Ring,254,2
+PH30,Rudolfplatz,0,0
+PH31,An Farina,57,0
+PH33,Mediapark,253,0
+PH35,Gerling Ring Karree,144,0
+PH36,P+R Marsdorf,551,0
+PH37-1,Rheinauhafen Museen,60,-1
+PH32,Zoo/Flora,-1,-1
