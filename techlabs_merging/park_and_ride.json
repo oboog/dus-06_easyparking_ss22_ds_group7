@@ -1,0 +1,482 @@
+{
+ "displayFieldName": "name",
+ "fieldAliases": {
+  "name": "Name",
+  "strasse": "Straße",
+  "plz": "PLZ",
+  "stadt": "Stadt",
+  "stellplaetze": "Stellplätze",
+  "hyperlink": "Hyperlink",
+  "oeffnungszeiten": "Öffnungszeiten",
+  "verbindungen": "Verbindungen",
+  "objectid": "OBJECTID"
+ },
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 4326,
+  "latestWkid": 4326
+ },
+ "fields": [
+  {
+   "name": "name",
+   "type": "esriFieldTypeString",
+   "alias": "Name",
+   "length": 250
+  },
+  {
+   "name": "strasse",
+   "type": "esriFieldTypeString",
+   "alias": "Straße",
+   "length": 250
+  },
+  {
+   "name": "plz",
+   "type": "esriFieldTypeInteger",
+   "alias": "PLZ"
+  },
+  {
+   "name": "stadt",
+   "type": "esriFieldTypeString",
+   "alias": "Stadt",
+   "length": 50
+  },
+  {
+   "name": "stellplaetze",
+   "type": "esriFieldTypeInteger",
+   "alias": "Stellplätze"
+  },
+  {
+   "name": "hyperlink",
+   "type": "esriFieldTypeString",
+   "alias": "Hyperlink",
+   "length": 250
+  },
+  {
+   "name": "oeffnungszeiten",
+   "type": "esriFieldTypeString",
+   "alias": "Öffnungszeiten",
+   "length": 100
+  },
+  {
+   "name": "verbindungen",
+   "type": "esriFieldTypeString",
+   "alias": "Verbindungen",
+   "length": 100
+  },
+  {
+   "name": "objectid",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "name": "Bensberg, Steinstraße 30/Kauler Straße 4",
+    "strasse": "Bensberg,  Steinstraße 30/Kauler Straße 4",
+    "plz": 51429,
+    "stadt": "Bergisch Gladbach",
+    "stellplaetze": 127,
+    "hyperlink": "https://www.kvb.koeln/mobilitaet/park_and_ride.html",
+    "oeffnungszeiten": "Öffnungszeiten: täglich 24 Stunden Servicezeiten: täglich 24 Stunden",
+    "verbindungen": "Anbindung an die Stadtbahn-Linie 1",
+    "objectid": 321
+   },
+   "geometry": {
+    "x": 7.1616895877317646,
+    "y": 50.963346581730129
+   }
+  },
+  {
+   "attributes": {
+    "name": "Merkenich, Spoerkelhof/Edsel-Ford-Straße",
+    "strasse": "Merkenich, Spoerkelhof/Edsel-Ford-Straße",
+    "plz": 50769,
+    "stadt": "Köln",
+    "stellplaetze": 15,
+    "hyperlink": "https://www.kvb.koeln/mobilitaet/park_and_ride.html",
+    "oeffnungszeiten": "Öffnungszeiten: täglich 24 Stunden",
+    "verbindungen": "Anbindung an die Stadtbahn-Linien 12 und 18",
+    "objectid": 2
+   },
+   "geometry": {
+    "x": 6.9480737243944626,
+    "y": 51.02844839993314
+   }
+  },
+  {
+   "attributes": {
+    "name": "Nippes S-Bahn, Lämmerstraße (gegenüber Haus Nummer 8)",
+    "strasse": "Nippes S-Bahn, Lämmerstraße (gegenüber Haus Nummer 8)",
+    "plz": 50739,
+    "stadt": "Köln",
+    "stellplaetze": 27,
+    "hyperlink": "https://www.kvb.koeln/mobilitaet/park_and_ride.html",
+    "oeffnungszeiten": "Öffnungszeiten: täglich 24 Stunden",
+    "verbindungen": "Anbindung an die S-Bahn-Linien 6 und 11",
+    "objectid": 3
+   },
+   "geometry": {
+    "x": 6.9408264373885515,
+    "y": 50.957569999625271
+   }
+  },
+  {
+   "attributes": {
+    "name": "Ostheim, Frankfurter Straße 745",
+    "strasse": "Ostheim, Frankfurter Straße 745",
+    "plz": 51107,
+    "stadt": "Köln",
+    "stellplaetze": 23,
+    "hyperlink": "https://www.kvb.koeln/mobilitaet/park_and_ride.html",
+    "oeffnungszeiten": "Öffnungszeiten: täglich 24 Stunden",
+    "verbindungen": "Anbindung an die Stadtbahn-Linie 9",
+    "objectid": 4
+   },
+   "geometry": {
+    "x": 7.0421760686933599,
+    "y": 50.928769063238548
+   }
+  },
+  {
+   "attributes": {
+    "name": "Porz-Wahn S-Bahn, Am Bahnhof 85",
+    "strasse": "Porz-Wahn S-Bahn, Am Bahnhof 85",
+    "plz": 51147,
+    "stadt": "Köln",
+    "stellplaetze": 298,
+    "hyperlink": "https://www.kvb.koeln/mobilitaet/park_and_ride.html",
+    "oeffnungszeiten": "Öffnungszeiten: täglich 24 Stunden Servicezeiten: täglich 24 Stunden",
+    "verbindungen": "Anbindung an die S-Bahn-Linien 12 und 19",
+    "objectid": 6
+   },
+   "geometry": {
+    "x": 7.0786384216708269,
+    "y": 50.859983076463315
+   }
+  },
+  {
+   "attributes": {
+    "name": "Porzer Straße/Rath, Am Rande 4/Porzer Straße",
+    "strasse": "Porzer Straße/Rath, Am Rande 4/Porzer Straße",
+    "plz": 51107,
+    "stadt": "Köln",
+    "stellplaetze": 23,
+    "hyperlink": "https://www.kvb.koeln/mobilitaet/park_and_ride.html",
+    "oeffnungszeiten": "Öffnungszeiten: täglich 24 Stunden",
+    "verbindungen": "Anbindung an die Stadtbahn-Linie 9",
+    "objectid": 7
+   },
+   "geometry": {
+    "x": 7.0747065978714936,
+    "y": 50.921752002186587
+   }
+  },
+  {
+   "attributes": {
+    "name": "Parkhaus Stadion (P2), Aachener Straße 1003",
+    "strasse": "Parkhaus Stadion (P2), Aachener Straße 1003",
+    "plz": 50933,
+    "stadt": "Köln",
+    "stellplaetze": 571,
+    "hyperlink": "https://www.kvb.koeln/mobilitaet/park_and_ride.html",
+    "oeffnungszeiten": "Öffnungszeiten: 24 Stunden Servicezeiten: Montag bis Freitag, 6 bis 22 Uhr; Samstag, 7 bis 21 Uhr",
+    "verbindungen": "Anbindung an die Stadtbahn-Linie 1",
+    "objectid": 9
+   },
+   "geometry": {
+    "x": 6.8746801123933761,
+    "y": 50.937380032122292
+   }
+  },
+  {
+   "attributes": {
+    "name": "Stammheim S-Bahn",
+    "strasse": "Stammheim S-Bahn, Dünnwalder Kommunalweg/Höhenhauser Ring",
+    "plz": 50161,
+    "stadt": "Köln",
+    "stellplaetze": 202,
+    "hyperlink": "https://www.kvb.koeln/mobilitaet/park_and_ride.html",
+    "oeffnungszeiten": "Öffnungszeiten: täglich 24 Stunden",
+    "verbindungen": "Anbindung an die S-Bahn-Linie 6",
+    "objectid": 10
+   },
+   "geometry": {
+    "x": 7.0027948632744135,
+    "y": 50.98960724646733
+   }
+  },
+  {
+   "attributes": {
+    "name": "Sürth, Bergstraße (neben Haus Nummer 77)",
+    "strasse": "Sürth, Bergstraße (neben Haus Nummer 77)",
+    "plz": 50999,
+    "stadt": "Köln",
+    "stellplaetze": 72,
+    "hyperlink": "https://www.kvb.koeln/mobilitaet/park_and_ride.html",
+    "oeffnungszeiten": "Einfahrt zwischen 6 und 22 Uhr möglich (24 Stunden geöffnet)",
+    "verbindungen": "Anbindung an die Stadtbahn-Linie 16",
+    "objectid": 11
+   },
+   "geometry": {
+    "x": 7.0036163941605567,
+    "y": 50.863912208948847
+   }
+  },
+  {
+   "attributes": {
+    "name": "Thielenbruch, Thielenbrucher Allee 46/Im Eichenforst",
+    "strasse": "Thielenbruch, Thielenbrucher Allee 46/Im Eichenforst",
+    "plz": 51069,
+    "stadt": "Köln",
+    "stellplaetze": 149,
+    "hyperlink": "https://www.kvb.koeln/mobilitaet/park_and_ride.html",
+    "oeffnungszeiten": "Öffnungszeiten: täglich 24 Stunden",
+    "verbindungen": "Anbindung an die Stadtbahn-Linien 3 und 18",
+    "objectid": 12
+   },
+   "geometry": {
+    "x": 7.087571381172884,
+    "y": 50.978017329523624
+   }
+  },
+  {
+   "attributes": {
+    "name": "Heimersdorf, Volkhovener Weg/Fritz-Wacker-Straße",
+    "strasse": "Heimersdorf, Volkhovener Weg/Fritz-Wacker-Straße",
+    "plz": 50767,
+    "stadt": "Köln",
+    "stellplaetze": 42,
+    "hyperlink": "https://www.kvb.koeln/mobilitaet/park_and_ride.html",
+    "oeffnungszeiten": "Öffnungszeiten: täglich 24 Stunden",
+    "verbindungen": "Anbindung an die S-Bahn-Linie 11",
+    "objectid": 13
+   },
+   "geometry": {
+    "x": 6.8923456234888274,
+    "y": 51.013673026557825
+   }
+  },
+  {
+   "attributes": {
+    "name": "Weiden West, Aachener Straße 1420/Bonnstraße",
+    "strasse": "Weiden West, Aachener Straße 1420/Bonnstraße",
+    "plz": 50859,
+    "stadt": "Köln",
+    "stellplaetze": 685,
+    "hyperlink": "https://www.kvb.koeln/mobilitaet/park_and_ride.html",
+    "oeffnungszeiten": "Öffnungszeiten: täglich 24 Stunden",
+    "verbindungen": "Anbindung an die Stadtbahn-Linie 1 sowie die S-Bahn-Linien 12 und 19",
+    "objectid": 14
+   },
+   "geometry": {
+    "x": 6.8149124762969899,
+    "y": 50.939534010931148
+   }
+  },
+  {
+   "attributes": {
+    "name": "Westhoven, Berliner Straße/Schlawer Straße",
+    "strasse": "Westhoven, Berliner Straße/Schlawer Straße",
+    "plz": 51149,
+    "stadt": "Köln",
+    "stellplaetze": 42,
+    "hyperlink": "https://www.kvb.koeln/mobilitaet/park_and_ride.html",
+    "oeffnungszeiten": "Öffnungszeiten: täglich 24 Stunden",
+    "verbindungen": "Anbindung an die Stadtbahn-Linie 7",
+    "objectid": 16
+   },
+   "geometry": {
+    "x": 7.0257711075665785,
+    "y": 50.901089446572648
+   }
+  },
+  {
+   "attributes": {
+    "name": "Worringen S-Bahn, Berrischstraße/Sinnersdorfer Straße ",
+    "strasse": "Worringen S-Bahn, Berrischstraße/Sinnersdorfer Straße ",
+    "plz": 50769,
+    "stadt": "Köln",
+    "stellplaetze": 197,
+    "hyperlink": "https://www.kvb.koeln/mobilitaet/park_and_ride.html",
+    "oeffnungszeiten": "Öffnungszeiten: täglich 24 Stunden",
+    "verbindungen": "Anbindung an die S-Bahn-Linie 11",
+    "objectid": 17
+   },
+   "geometry": {
+    "x": 6.8504659837196362,
+    "y": 51.052114187712199
+   }
+  },
+  {
+   "attributes": {
+    "name": "Zündorf, Gartenweg",
+    "strasse": "Zündorf, Gartenweg",
+    "plz": 51143,
+    "stadt": "Köln",
+    "stellplaetze": 117,
+    "hyperlink": "https://www.kvb.koeln/mobilitaet/park_and_ride.html",
+    "oeffnungszeiten": "Öffnungszeiten: täglich 24 Stunden",
+    "verbindungen": "Anbindung an die Stadtbahn-Linie 7",
+    "objectid": 20
+   },
+   "geometry": {
+    "x": 7.0502811196467734,
+    "y": 50.866794740073594
+   }
+  },
+  {
+   "attributes": {
+    "name": "Bocklemünd, Venloer Straße (neben Haus Nummer 1152)",
+    "strasse": "Bocklemünd, Venloer Straße (neben Haus Nummer 1152)",
+    "plz": 50829,
+    "stadt": "Köln",
+    "stellplaetze": 280,
+    "hyperlink": "https://www.kvb.koeln/mobilitaet/park_and_ride.html",
+    "oeffnungszeiten": "Öffnungszeiten: 24 Stunden Servicezeiten: Montag bis Freitag, 6 bis 22 Uhr; Samstag, 7 bis 17 Uhr ",
+    "verbindungen": "Anbindung an die Stadtbahn-Linien 3 und 4",
+    "objectid": 22
+   },
+   "geometry": {
+    "x": 6.8731089281538145,
+    "y": 50.969634794623644
+   }
+  },
+  {
+   "attributes": {
+    "name": "Brück-Mauspfad, Brücker Mauspfad (neben Haus Nummer 631)",
+    "strasse": "Brück-Mauspfad, Brücker Mauspfad (neben Haus Nummer 631)",
+    "plz": 51109,
+    "stadt": "Köln",
+    "stellplaetze": 355,
+    "hyperlink": "https://www.kvb.koeln/mobilitaet/park_and_ride.html",
+    "oeffnungszeiten": "Öffnungszeiten: 24 Stunden Servicezeiten: Montag bis Freitag, 6 bis 22 Uhr; Samstag, 7 bis 17 Uhr ",
+    "verbindungen": "Anbindung an die Stadtbahn-Linie 1",
+    "objectid": 23
+   },
+   "geometry": {
+    "x": 7.0770894539783153,
+    "y": 50.949023571240886
+   }
+  },
+  {
+   "attributes": {
+    "name": "Dellbrück, Dellbrücker Hauptstraße 178/Ottilienstraße",
+    "strasse": "Dellbrück, Dellbrücker Hauptstraße 178/Ottilienstraße",
+    "plz": 51069,
+    "stadt": "Köln",
+    "stellplaetze": 339,
+    "hyperlink": "https://www.kvb.koeln/mobilitaet/park_and_ride.html",
+    "oeffnungszeiten": "Öffnungszeiten: täglich 24 Stunden Servicezeiten: täglich 24 Stunden",
+    "verbindungen": "Anbindung an die Stadtbahn-Linien 3 und 18",
+    "objectid": 25
+   },
+   "geometry": {
+    "x": 7.0694625004567655,
+    "y": 50.981151889779532
+   }
+  },
+  {
+   "attributes": {
+    "name": "Godorf",
+    "strasse": "Godorf, Industriestraße",
+    "plz": 50997,
+    "stadt": "Köln",
+    "stellplaetze": 70,
+    "hyperlink": "https://www.kvb.koeln/mobilitaet/park_and_ride.html",
+    "oeffnungszeiten": "Öffnungszeiten: täglich 24 Stunden",
+    "verbindungen": "Anbindung an die Stadtbahn-Linie 16",
+    "objectid": 30
+   },
+   "geometry": {
+    "x": 6.9786887584616588,
+    "y": 50.848255484537098
+   }
+  },
+  {
+   "attributes": {
+    "name": "Frankfurter Straße S-Bahn, Gotlandstraße 2/Frankfurter Straße ",
+    "strasse": "Frankfurter Straße S-Bahn, Gotlandstraße 2/Frankfurter Straße",
+    "plz": 51149,
+    "stadt": "Köln",
+    "stellplaetze": 134,
+    "hyperlink": "https://www.kvb.koeln/mobilitaet/park_and_ride.html",
+    "oeffnungszeiten": "Öffnungszeiten: täglich 24 Stunden",
+    "verbindungen": "Anbindung an die Linien S19 und RB25",
+    "objectid": 31
+   },
+   "geometry": {
+    "x": 7.0537966172881159,
+    "y": 50.916219165793215
+   }
+  },
+  {
+   "attributes": {
+    "name": "Marsdorf, Haus Vorst, Emmy-Noether-Straße 12",
+    "strasse": "Marsdorf, Haus Vorst, Emmy-Noether-Straße 12",
+    "plz": 50858,
+    "stadt": "Köln",
+    "stellplaetze": 621,
+    "hyperlink": "https://www.kvb.koeln/mobilitaet/park_and_ride.html",
+    "oeffnungszeiten": "Öffnungszeiten: täglich 24 Stunden Servicezeiten: Montag bis Freitag, 6 bis 21 Uhr",
+    "verbindungen": "Anbindung an die Stadtbahn-Linie 7",
+    "objectid": 32
+   },
+   "geometry": {
+    "x": 6.8480024662789978,
+    "y": 50.916159521548991
+   }
+  },
+  {
+   "attributes": {
+    "name": "Heinrich-Lübke-Ufer",
+    "strasse": "Heinrich-Lübke-Ufer/Militärringstraße",
+    "plz": 50996,
+    "stadt": "Köln",
+    "stellplaetze": 128,
+    "hyperlink": "https://www.kvb.koeln/mobilitaet/park_and_ride.html",
+    "oeffnungszeiten": "Öffnungszeiten: täglich 24 Stunden",
+    "verbindungen": "Anbindung an die Stadtbahn-Linie 16",
+    "objectid": 33
+   },
+   "geometry": {
+    "x": 6.9855391708161312,
+    "y": 50.899425727074536
+   }
+  },
+  {
+   "attributes": {
+    "name": "Königsforst, Rather Mauspfad/Rösrather Straße",
+    "strasse": "Königsforst, Rather Mauspfad/Rösrather Straße",
+    "plz": 51107,
+    "stadt": "Köln",
+    "stellplaetze": 180,
+    "hyperlink": "https://www.kvb.koeln/mobilitaet/park_and_ride.html",
+    "oeffnungszeiten": "Öffnungszeiten: täglich 24 Stunden",
+    "verbindungen": "Anbindung an die Stadtbahn-Linie 9",
+    "objectid": 38
+   },
+   "geometry": {
+    "x": 7.09765625560751,
+    "y": 50.919358130118162
+   }
+  },
+  {
+   "attributes": {
+    "name": "Longerich S-Bahn, Volkhovener Weg (neben Haus Nummer 11)/Militärringstraße",
+    "strasse": "Longerich S-Bahn, Volkhovener Weg (neben Haus Nummer 11) /Militärringstraße",
+    "plz": 50739,
+    "stadt": "Köln",
+    "stellplaetze": 68,
+    "hyperlink": "https://www.kvb.koeln/mobilitaet/park_and_ride.html",
+    "oeffnungszeiten": "Öffnungszeiten: täglich 24 Stunden",
+    "verbindungen": "Anbindung an die S-Bahn-Linien 6 und 11",
+    "objectid": 42
+   },
+   "geometry": {
+    "x": 6.9015536094341421,
+    "y": 50.999304429422409
+   }
+  }
+ ]
+}

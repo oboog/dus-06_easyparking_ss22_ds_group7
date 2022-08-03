@@ -1,0 +1,6004 @@
+{
+ "displayFieldName": "bezeichnung",
+ "fieldAliases": {
+  "objectid": "OBJECTID",
+  "bezeichnung": "Bezeichnung",
+  "nr_stadtbezirk": "Stadtbezirk (Nr.)",
+  "stadtteil": "Stadtteil",
+  "anzahl": "Anzahl",
+  "bemerkung": "Bemerkung"
+ },
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 4326,
+  "latestWkid": 4326
+ },
+ "fields": [
+  {
+   "name": "objectid",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "bezeichnung",
+   "type": "esriFieldTypeString",
+   "alias": "Bezeichnung",
+   "length": 100
+  },
+  {
+   "name": "nr_stadtbezirk",
+   "type": "esriFieldTypeString",
+   "alias": "Stadtbezirk (Nr.)",
+   "length": 75
+  },
+  {
+   "name": "stadtteil",
+   "type": "esriFieldTypeString",
+   "alias": "Stadtteil",
+   "length": 75
+  },
+  {
+   "name": "anzahl",
+   "type": "esriFieldTypeInteger",
+   "alias": "Anzahl"
+  },
+  {
+   "name": "bemerkung",
+   "type": "esriFieldTypeString",
+   "alias": "Bemerkung",
+   "length": 254
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "objectid": 1,
+    "bezeichnung": "Am Schwanebitzer Hof",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Urbach",
+    "anzahl": 1,
+    "bemerkung": "Am Schwanebitzer Hof"
+   },
+   "geometry": {
+    "x": 7.0803325993321282,
+    "y": 50.882115731305888
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 2,
+    "bezeichnung": "Dülkenstr. 18",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Porz",
+    "anzahl": 2,
+    "bemerkung": "Dülkenstr. 18"
+   },
+   "geometry": {
+    "x": 7.0525182301080074,
+    "y": 50.890362687931805
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 3,
+    "bezeichnung": "Friedrich-Ebert-Ufer",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Porz",
+    "anzahl": 1,
+    "bemerkung": "Friedrich-Ebert-Ufer"
+   },
+   "geometry": {
+    "x": 7.0545069546948289,
+    "y": 50.883368961020423
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 4,
+    "bezeichnung": "Gütergasse",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Zündorf",
+    "anzahl": 1,
+    "bemerkung": "Gütergasse"
+   },
+   "geometry": {
+    "x": 7.0454599910341722,
+    "y": 50.869548002182235
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 5,
+    "bezeichnung": "Heidestr. (vor Raiffeisenbank)",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Wahn",
+    "anzahl": 1,
+    "bemerkung": "Heidestr. (vor Raiffeisenbank)"
+   },
+   "geometry": {
+    "x": 7.0874422110350519,
+    "y": 50.857666265824221
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 6,
+    "bezeichnung": "Hirschgraben (Gut Leidenhausen)",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Eil",
+    "anzahl": 2,
+    "bemerkung": "Hirschgraben (Gut Leidenhausen)"
+   },
+   "geometry": {
+    "x": 7.0889649369590222,
+    "y": 50.897028938454021
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 7,
+    "bezeichnung": "Hohestr. 20",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Porz",
+    "anzahl": 1,
+    "bemerkung": "Hohestr. 20"
+   },
+   "geometry": {
+    "x": 7.0364683585469363,
+    "y": 50.89641577462853
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 8,
+    "bezeichnung": "Josefstr. 81",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Porz",
+    "anzahl": 1,
+    "bemerkung": "Josefstr. 81"
+   },
+   "geometry": {
+    "x": 7.0566644328935721,
+    "y": 50.889113130447747
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 9,
+    "bezeichnung": "Josefstr. (Altenheim)",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Porz",
+    "anzahl": 1,
+    "bemerkung": "Josefstr. 20"
+   },
+   "geometry": {
+    "x": 7.0580136545888763,
+    "y": 50.88614304224879
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 10,
+    "bezeichnung": "Kaiserstr.",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Urbach",
+    "anzahl": 1,
+    "bemerkung": "Kaiserstr."
+   },
+   "geometry": {
+    "x": 7.0815858002566783,
+    "y": 50.881338079636521
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 11,
+    "bezeichnung": "Rathausstr. (Wendehammer), Mo-.Fr. 7:00-18:00 Uhr",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Porz",
+    "anzahl": 3,
+    "bemerkung": "Rathausstr. (Wendehammer), Mo-.Fr. 7:00-18:00 Uhr"
+   },
+   "geometry": {
+    "x": 7.0543450519237965,
+    "y": 50.885721916367217
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 12,
+    "bezeichnung": "Steinstr./Deutzer Weg",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Porz",
+    "anzahl": 2,
+    "bemerkung": "Steinstr./Deutzer Weg"
+   },
+   "geometry": {
+    "x": 7.0564592354918441,
+    "y": 50.89117848438152
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 13,
+    "bezeichnung": "Urbacher Weg",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Ensen",
+    "anzahl": 4,
+    "bemerkung": "Urbacher Weg"
+   },
+   "geometry": {
+    "x": 7.0527299921987607,
+    "y": 50.892582113603417
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 14,
+    "bezeichnung": "Am Gräfenhof",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Brück",
+    "anzahl": 2,
+    "bemerkung": "Am Gräfenhof"
+   },
+   "geometry": {
+    "x": 7.0760056729967467,
+    "y": 50.944451274847964
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 15,
+    "bezeichnung": "Gottfried-Hagen-Str. (Wendehammer)",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Humboldt/Gremberg",
+    "anzahl": 2,
+    "bemerkung": "Gottfried-Hagen-Str. (Wendehammer)"
+   },
+   "geometry": {
+    "x": 7.0022605261322886,
+    "y": 50.931258581258469
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 16,
+    "bezeichnung": "Kalk-Mülheimer-Str. 2",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Kalk",
+    "anzahl": 1,
+    "bemerkung": "Kalk-Mülheimer-Str. 2"
+   },
+   "geometry": {
+    "x": 7.0005097103033123,
+    "y": 50.937962944310279
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 17,
+    "bezeichnung": "Kalk-Mülheimer-Str. vor Bürgerhaus Kalk",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Kalk",
+    "anzahl": 2,
+    "bemerkung": "Kalk-Mülheimer-Str. vor Bürgerhaus Kalk"
+   },
+   "geometry": {
+    "x": 7.0013455265289108,
+    "y": 50.939989904463197
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 18,
+    "bezeichnung": "Ottmar-Pohl-Platz",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Kalk",
+    "anzahl": 5,
+    "bemerkung": "Ottmar-Pohl-Platz"
+   },
+   "geometry": {
+    "x": 7.0037717400230202,
+    "y": 50.93529230383151
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 19,
+    "bezeichnung": "Rösrather Str. 590 (Apotheke)",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Rath/Heumar",
+    "anzahl": 1,
+    "bemerkung": "Rösrather Str. 590 (Apotheke)"
+   },
+   "geometry": {
+    "x": 7.0829075357551181,
+    "y": 50.921824435139833
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 20,
+    "bezeichnung": "Sieverstr./Kalkler Hauptstr.",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Kalk",
+    "anzahl": 2,
+    "bemerkung": "Sieverstr./Kalkler Hauptstr."
+   },
+   "geometry": {
+    "x": 7.003201827427568,
+    "y": 50.937746902948973
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 21,
+    "bezeichnung": "Straßburger Platz (Mo.-Fr. 9:00-17:00 Uhr)",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Neubrück",
+    "anzahl": 2,
+    "bemerkung": "Straßburger Platz (Mo.-Fr. 9:00-17:00 Uhr)"
+   },
+   "geometry": {
+    "x": 7.0598495037936493,
+    "y": 50.935793459645488
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 22,
+    "bezeichnung": "Theodorichstr./Gremberger Str.",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Humboldt/Gremberg",
+    "anzahl": 1,
+    "bemerkung": "Theodorichstr./Gremberger Str."
+   },
+   "geometry": {
+    "x": 6.9967845939582647,
+    "y": 50.929927620500536
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 23,
+    "bezeichnung": "Alte Wipperfürther Str. vor 18",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Buchheim",
+    "anzahl": 1,
+    "bemerkung": "Alte Wipperfürther Str. vor 18"
+   },
+   "geometry": {
+    "x": 7.0152298026112696,
+    "y": 50.955528773156303
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 24,
+    "bezeichnung": "Bergisch Gladbacher Str./Dellbrücker Hauptstr.",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Dellbrück",
+    "anzahl": 1,
+    "bemerkung": "Bergisch Gladbacher Str./Dellbrücker Hauptstr."
+   },
+   "geometry": {
+    "x": 7.0708369886569464,
+    "y": 50.978720058133213
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 25,
+    "bezeichnung": "Bergisch Gladbacher Str. 589",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Holweide",
+    "anzahl": 1,
+    "bemerkung": "Bergisch Gladbacher Str. 589"
+   },
+   "geometry": {
+    "x": 7.0469035567181262,
+    "y": 50.970265271693002
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 26,
+    "bezeichnung": "Buchheimer Str.",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Mülheim",
+    "anzahl": 4,
+    "bemerkung": "Buchheimer Str."
+   },
+   "geometry": {
+    "x": 7.0026896693328258,
+    "y": 50.962852794231132
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 27,
+    "bezeichnung": "Höhenhauser Ring (Parkplatz)",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Stammheim",
+    "anzahl": 3,
+    "bemerkung": "Höhenhauser Ring (Parkplatz)"
+   },
+   "geometry": {
+    "x": 7.0029662695027479,
+    "y": 50.989835294058672
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 28,
+    "bezeichnung": "Holweider Str., Stichweg zu 4-8",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Mülheim",
+    "anzahl": 3,
+    "bemerkung": "Holweider Str., Stichweg zu 4-8"
+   },
+   "geometry": {
+    "x": 7.0104627107827557,
+    "y": 50.963215547734919
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 29,
+    "bezeichnung": "Im Weidenbruch",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Höhenhaus",
+    "anzahl": 1,
+    "bemerkung": "Im Weidenbruch"
+   },
+   "geometry": {
+    "x": 7.0223425807912019,
+    "y": 50.979830941730476
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 30,
+    "bezeichnung": "Maria-Himmelfahrt-Str. vor Kirche",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Holweide",
+    "anzahl": 1,
+    "bemerkung": "Maria-Himmelfahrt-Str. vor Kirche"
+   },
+   "geometry": {
+    "x": 7.0449524446711438,
+    "y": 50.968956155146188
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 31,
+    "bezeichnung": "Montanusstr., Parkplatz vor Bhf.",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Mülheim",
+    "anzahl": 1,
+    "bemerkung": "Montanusstr., Parkplatz vor Bhf."
+   },
+   "geometry": {
+    "x": 7.0119478027904574,
+    "y": 50.957742417725974
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 32,
+    "bezeichnung": "Parkplatz Jan-Wellem-Str.",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Mülheim",
+    "anzahl": 2,
+    "bemerkung": "Parkplatz Jan-Wellem-Str."
+   },
+   "geometry": {
+    "x": 7.0050292170162667,
+    "y": 50.960518663597334
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 33,
+    "bezeichnung": "Regentenstr./Keupstr.",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Mülheim",
+    "anzahl": 1,
+    "bemerkung": "Regentenstr./Keupstr."
+   },
+   "geometry": {
+    "x": 7.0039134420986739,
+    "y": 50.967287917327745
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 34,
+    "bezeichnung": "Ringenstr.",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Holweide",
+    "anzahl": 1,
+    "bemerkung": "Ringenstr."
+   },
+   "geometry": {
+    "x": 7.037196857846201,
+    "y": 50.968117819757339
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 35,
+    "bezeichnung": "Steyler Str.",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Holweide",
+    "anzahl": 4,
+    "bemerkung": "Steyler Str."
+   },
+   "geometry": {
+    "x": 7.036082188345012,
+    "y": 50.966931547181574
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 36,
+    "bezeichnung": "Ufer Str.",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Mülheim",
+    "anzahl": 1,
+    "bemerkung": "Ufer Str."
+   },
+   "geometry": {
+    "x": 6.999985825562085,
+    "y": 50.966438438733832
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 37,
+    "bezeichnung": "Von-Werth-Str. 37",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 2,
+    "bemerkung": "Von-Werth-Str. 37"
+   },
+   "geometry": {
+    "x": 6.944283975468343,
+    "y": 50.944839004134217
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 38,
+    "bezeichnung": "Lothringer Str.",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Fortschreibung 01/2009"
+   },
+   "geometry": {
+    "x": 6.9511796959564878,
+    "y": 50.923275247194631
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 39,
+    "bezeichnung": "Schillingsrotter Str. (P+R Parkplatz)",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Rodenkirchen",
+    "anzahl": 1,
+    "bemerkung": "gegenüber der Klinik links am Rhein"
+   },
+   "geometry": {
+    "x": 6.9914623805572065,
+    "y": 50.889081659202631
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 40,
+    "bezeichnung": "P+R Parkplatz KVB-Haltestelle Schillingsrotter Str.",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Rodenkirchen",
+    "anzahl": 1,
+    "bemerkung": "Zugangsbereich KVB-Haltestelle"
+   },
+   "geometry": {
+    "x": 6.9906879795930861,
+    "y": 50.890369799287704
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 41,
+    "bezeichnung": "Klettenberggürtel 11",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Klettenberg",
+    "anzahl": 1,
+    "bemerkung": "Klettenberggürtel"
+   },
+   "geometry": {
+    "x": 6.9292264400357482,
+    "y": 50.909465919063308
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 42,
+    "bezeichnung": "Constantinstr. 98",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Deutz",
+    "anzahl": 1,
+    "bemerkung": "Constantinstr."
+   },
+   "geometry": {
+    "x": 6.9789524517210006,
+    "y": 50.938491625926517
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 43,
+    "bezeichnung": "Seidenstr. /Adamsstr.",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Mülheim",
+    "anzahl": 1,
+    "bemerkung": "Umwandlung persönlicher in allgemeinen BHP 7.08.09"
+   },
+   "geometry": {
+    "x": 7.004659596130713,
+    "y": 50.964583263540057
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 44,
+    "bezeichnung": "Gleueler Str.  (Höhe Hausnummer 70)",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Nr. 7065/09 ausgeführt 14.07.2009"
+   },
+   "geometry": {
+    "x": 6.9138928960530306,
+    "y": 50.924529997617931
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 45,
+    "bezeichnung": "Brücker Mauspfad 544",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Brück",
+    "anzahl": 1,
+    "bemerkung": "allgemeiner Behindertenparkplatz"
+   },
+   "geometry": {
+    "x": 7.0817606761062075,
+    "y": 50.944813742531167
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 46,
+    "bezeichnung": "Olpener Str. 526",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Merheim",
+    "anzahl": 1,
+    "bemerkung": "allgemeiner Behindertenparkplatz"
+   },
+   "geometry": {
+    "x": 7.0518108939361452,
+    "y": 50.943250724501425
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 47,
+    "bezeichnung": "Olpener Str. 803",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Brück",
+    "anzahl": 1,
+    "bemerkung": "allgemeiner Behindertenparkplatz"
+   },
+   "geometry": {
+    "x": 7.0755973801191807,
+    "y": 50.945258280725959
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 48,
+    "bezeichnung": "Olpener Str. 855",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Brück",
+    "anzahl": 1,
+    "bemerkung": "allgemeiner Behindertenparkplatz"
+   },
+   "geometry": {
+    "x": 7.0789951140387615,
+    "y": 50.9455594270663
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 49,
+    "bezeichnung": "Straßburger Platz (vor dem Kurbad)",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Neubrück",
+    "anzahl": 2,
+    "bemerkung": "Straßburger Platz "
+   },
+   "geometry": {
+    "x": 7.0602929771176735,
+    "y": 50.935620017987063
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 50,
+    "bezeichnung": "Cäcilienstr. 46",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 4,
+    "bemerkung": "Cäcilienstr. 46"
+   },
+   "geometry": {
+    "x": 6.9503764321226358,
+    "y": 50.935494338797824
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 51,
+    "bezeichnung": "Chlodwigplatz 7",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Chlodwigplatz 7"
+   },
+   "geometry": {
+    "x": 6.9591680626906802,
+    "y": 50.921346189601664
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 52,
+    "bezeichnung": "Dagobertstr. 32",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Dagobertstr. 32"
+   },
+   "geometry": {
+    "x": 6.9598285412124641,
+    "y": 50.94834647224242
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 53,
+    "bezeichnung": "Deutzer Freiheit Nr. 89",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Deutz",
+    "anzahl": 1,
+    "bemerkung": "Deutzer Freiheit 89"
+   },
+   "geometry": {
+    "x": 6.9747806726025336,
+    "y": 50.936830918615406
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 54,
+    "bezeichnung": "Deutzer-Kalker-Str. 2, Mo.-Fr.  8 - 19 h",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Deutz",
+    "anzahl": 1,
+    "bemerkung": "Deutzer-Kalker-Str. 2"
+   },
+   "geometry": {
+    "x": 6.9784454910454432,
+    "y": 50.93700279235145
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 55,
+    "bezeichnung": "Sinziger Str. 6",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Marienburg",
+    "anzahl": 1,
+    "bemerkung": "Sinziger Str. 6"
+   },
+   "geometry": {
+    "x": 6.9644663863538971,
+    "y": 50.897818866347372
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 56,
+    "bezeichnung": "Elisenstr. 3",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Elisenstr. 3"
+   },
+   "geometry": {
+    "x": 6.9495307660047638,
+    "y": 50.940706981878044
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 57,
+    "bezeichnung": "Fleischmengergasse 37",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Fleischmengergasse 37"
+   },
+   "geometry": {
+    "x": 6.9487081918905957,
+    "y": 50.934288096641957
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 58,
+    "bezeichnung": "Friedenstraße 14",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Friedenstr. 14"
+   },
+   "geometry": {
+    "x": 6.9531101111175344,
+    "y": 50.929027779559249
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 59,
+    "bezeichnung": "Theophanostraße 38",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Zollstock",
+    "anzahl": 1,
+    "bemerkung": "Theophanostr. 38"
+   },
+   "geometry": {
+    "x": 6.941123584850704,
+    "y": 50.912227799050413
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 60,
+    "bezeichnung": "Riehler Str. (gegenüber Zooparkhaus)",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Riehl",
+    "anzahl": 3,
+    "bemerkung": "Riehler Str. (gegenüber Zooparkhaus)"
+   },
+   "geometry": {
+    "x": 6.973665772896994,
+    "y": 50.957717821491457
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 61,
+    "bezeichnung": "Cäcilienkloster",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Cäcilienkloster/Cäcilienstr."
+   },
+   "geometry": {
+    "x": 6.9520110414865757,
+    "y": 50.935112267859502
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 62,
+    "bezeichnung": "Vondelstr. 4",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Vondelstr. 4 "
+   },
+   "geometry": {
+    "x": 6.9552101636928301,
+    "y": 50.920618631845109
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 63,
+    "bezeichnung": "Friesenwall 13 - 17",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Friesenwall 13"
+   },
+   "geometry": {
+    "x": 6.940479413931846,
+    "y": 50.937456334016034
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 64,
+    "bezeichnung": "Georgplatz 17",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Georgplatz 17"
+   },
+   "geometry": {
+    "x": 6.9576311844913876,
+    "y": 50.932049636797245
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 65,
+    "bezeichnung": "Georgplatz 5",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Georgplatz 5"
+   },
+   "geometry": {
+    "x": 6.957710738203029,
+    "y": 50.931707938597924
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 66,
+    "bezeichnung": "Gereonshof 11",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Gereonshof 11"
+   },
+   "geometry": {
+    "x": 6.9454473421908887,
+    "y": 50.942697805444695
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 67,
+    "bezeichnung": "Hansaring 48 - 50",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Hansaring 48"
+   },
+   "geometry": {
+    "x": 6.9492870082071843,
+    "y": 50.947748599650168
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 68,
+    "bezeichnung": "Hansaring 76",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Hansaring 76"
+   },
+   "geometry": {
+    "x": 6.9534814107295215,
+    "y": 50.949261974836624
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 69,
+    "bezeichnung": "Helenenwallstr. 12",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Deutz",
+    "anzahl": 1,
+    "bemerkung": "Helenenwallstr. 12"
+   },
+   "geometry": {
+    "x": 6.9757751886519488,
+    "y": 50.935144735568457
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 70,
+    "bezeichnung": "Herkulesstr. 42",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neuehrenfeld",
+    "anzahl": 1,
+    "bemerkung": "Herkulesstr. 42"
+   },
+   "geometry": {
+    "x": 6.933587485377549,
+    "y": 50.952362998485533
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 71,
+    "bezeichnung": "Hohenzollernring 30",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Hohenzollernring 30"
+   },
+   "geometry": {
+    "x": 6.9395454875057228,
+    "y": 50.938508770434659
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 72,
+    "bezeichnung": "Im Ferkulum 35",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Im Ferkulum 35"
+   },
+   "geometry": {
+    "x": 6.9600660383485353,
+    "y": 50.924146466448484
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 73,
+    "bezeichnung": "Im Ferkulum 4",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Im Ferkulum 4"
+   },
+   "geometry": {
+    "x": 6.9594975284034151,
+    "y": 50.922291503750401
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 74,
+    "bezeichnung": "Im Klapperhof 39",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Im Klapperhof 39"
+   },
+   "geometry": {
+    "x": 6.9416544930885111,
+    "y": 50.94165301231795
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 75,
+    "bezeichnung": "Im Laach 18",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Im Laach 18"
+   },
+   "geometry": {
+    "x": 6.9459943385658658,
+    "y": 50.935366614230702
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 77,
+    "bezeichnung": "Jakobstr. 22",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 2,
+    "bemerkung": "Jakobstr. 22"
+   },
+   "geometry": {
+    "x": 6.9571172817657105,
+    "y": 50.925572483269811
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 79,
+    "bezeichnung": "Kaltenbornweg 2, Deutz",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Deutz",
+    "anzahl": 2,
+    "bemerkung": "Kaltenbornweg 2"
+   },
+   "geometry": {
+    "x": 6.9787944570335156,
+    "y": 50.926070812081264
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 80,
+    "bezeichnung": "Kardinal-Frings-Straße 3",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Kardinal-Frings-Str. 3"
+   },
+   "geometry": {
+    "x": 6.9516602129614835,
+    "y": 50.944609940409336
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 81,
+    "bezeichnung": "Kleiner Griechenmarkt 41 - 43",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Kleiner Griechenmarkt 41"
+   },
+   "geometry": {
+    "x": 6.9485196822334192,
+    "y": 50.931906197524512
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 82,
+    "bezeichnung": "Krebsgasse 5",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 2,
+    "bemerkung": "Krebsgasse 5"
+   },
+   "geometry": {
+    "x": 6.9501383655326601,
+    "y": 50.938168178320005
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 83,
+    "bezeichnung": "Kronengasse 7",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Kronengasse 7"
+   },
+   "geometry": {
+    "x": 6.9502245079321492,
+    "y": 50.936037550436481
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 84,
+    "bezeichnung": "Lindenstr. 60",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Lindenstr. 60"
+   },
+   "geometry": {
+    "x": 6.9348330142573564,
+    "y": 50.933337689760222
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 85,
+    "bezeichnung": "Lindenstr. 078",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Lindenstr. 78"
+   },
+   "geometry": {
+    "x": 6.9337831882913372,
+    "y": 50.93277077946243
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 86,
+    "bezeichnung": "Lübecker Str. 20",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Lübecker Str. 20"
+   },
+   "geometry": {
+    "x": 6.9540084776844449,
+    "y": 50.950047471308721
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 87,
+    "bezeichnung": "Lungengasse 11",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 3,
+    "bemerkung": "Lungengasse 11"
+   },
+   "geometry": {
+    "x": 6.9485701801776152,
+    "y": 50.934876441462158
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 88,
+    "bezeichnung": "Lupusstr. 24",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Lupusstr. 24"
+   },
+   "geometry": {
+    "x": 6.9588674187269914,
+    "y": 50.953225767713725
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 89,
+    "bezeichnung": "Luxemburger Str. 9",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Luxemburger Str. 9"
+   },
+   "geometry": {
+    "x": 6.9408593563848671,
+    "y": 50.928414034031952
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 90,
+    "bezeichnung": "Machabäerstr. 26a / AOK",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 2,
+    "bemerkung": "Machabäerstr. 26a"
+   },
+   "geometry": {
+    "x": 6.9580117842621769,
+    "y": 50.946570623414544
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 91,
+    "bezeichnung": "Machabäerstr. 59",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Machabäerstr. 59"
+   },
+   "geometry": {
+    "x": 6.9611046009624094,
+    "y": 50.946293624139862
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 92,
+    "bezeichnung": "Mainzer Straße 5",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Mainzer Str. 5"
+   },
+   "geometry": {
+    "x": 6.9639709387296218,
+    "y": 50.921059866906951
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 93,
+    "bezeichnung": "Marienplatz 8",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Marienplatz 8"
+   },
+   "geometry": {
+    "x": 6.957739223483026,
+    "y": 50.933975315222554
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 94,
+    "bezeichnung": "Mauritiussteinweg 81/ 83",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Mauritiussteinweg 81"
+   },
+   "geometry": {
+    "x": 6.9449423538448887,
+    "y": 50.934633445525897
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 96,
+    "bezeichnung": "Reinoldstraße 13",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Reinoldstr. 13"
+   },
+   "geometry": {
+    "x": 6.9461109572900641,
+    "y": 50.933089727938658
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 97,
+    "bezeichnung": "Richartzstraße 6 - 8",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Richartzstr. 6"
+   },
+   "geometry": {
+    "x": 6.9554972718521633,
+    "y": 50.939347509647526
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 98,
+    "bezeichnung": "Rolandstr. 61",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Rolandstr. 61"
+   },
+   "geometry": {
+    "x": 6.9568417185642737,
+    "y": 50.918884460029467
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 99,
+    "bezeichnung": "Rolandstr. 74",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Rolandstr. 74"
+   },
+   "geometry": {
+    "x": 6.9561667949651822,
+    "y": 50.919266838952275
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 100,
+    "bezeichnung": "Rubensstr. 13",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Rubensstr. 13"
+   },
+   "geometry": {
+    "x": 6.9429822025340409,
+    "y": 50.934041328337649
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 101,
+    "bezeichnung": "Schaafenstrasse, vor Haus-Nr. 7",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Schaafenstr. 7"
+   },
+   "geometry": {
+    "x": 6.942614800095539,
+    "y": 50.934918426802668
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 103,
+    "bezeichnung": "Severinstr. 93",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Severinstr. 93"
+   },
+   "geometry": {
+    "x": 6.958175890683945,
+    "y": 50.925965650053435
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 105,
+    "bezeichnung": "Severinstraße 7",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Severinstr. 7"
+   },
+   "geometry": {
+    "x": 6.9592089994241588,
+    "y": 50.922271388529808
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 106,
+    "bezeichnung": "Spichernstr. 2",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Spichernstr. 2"
+   },
+   "geometry": {
+    "x": 6.9358917185809306,
+    "y": 50.942464703097222
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 107,
+    "bezeichnung": "St.-Apern-Str. 10 - 12",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "St.-Apern-Str. 10"
+   },
+   "geometry": {
+    "x": 6.9453826569443686,
+    "y": 50.939147216678393
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 108,
+    "bezeichnung": "Theodor-Heuss-Ring 62",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Theodor-Heuss-Ring 62"
+   },
+   "geometry": {
+    "x": 6.9655182656985914,
+    "y": 50.949923790438888
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 109,
+    "bezeichnung": "Thürmchenswall 19",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Thürmchenswall 19"
+   },
+   "geometry": {
+    "x": 6.9594971811322814,
+    "y": 50.949338038644427
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 110,
+    "bezeichnung": "Trajanstraße 3",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Ggü. Trajanstr. 3"
+   },
+   "geometry": {
+    "x": 6.9650001933256238,
+    "y": 50.919494612559212
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 111,
+    "bezeichnung": "Trierer Str. 29",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Trierer Str. 29"
+   },
+   "geometry": {
+    "x": 6.9432014937029107,
+    "y": 50.927687550299254
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 112,
+    "bezeichnung": "Von-Sandt-Platz 9",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Deutz",
+    "anzahl": 1,
+    "bemerkung": "Von-Sandt-Platz 9"
+   },
+   "geometry": {
+    "x": 6.9768066592159528,
+    "y": 50.938832897150249
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 113,
+    "bezeichnung": "Vorgebirgstr. 118-120",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 2,
+    "bemerkung": "Vorgebirgstr. 118"
+   },
+   "geometry": {
+    "x": 6.9459521196386724,
+    "y": 50.912837588017616
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 114,
+    "bezeichnung": "Zülpicher Platz 12",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 3,
+    "bemerkung": "Zülpicher Platz 12"
+   },
+   "geometry": {
+    "x": 6.9397230968847481,
+    "y": 50.93072917480194
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 115,
+    "bezeichnung": "Am Vorgebirgstor 9",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Zollstock",
+    "anzahl": 1,
+    "bemerkung": "Am Vorgebirgstor 9"
+   },
+   "geometry": {
+    "x": 6.9459295222510198,
+    "y": 50.915171125504742
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 116,
+    "bezeichnung": "An der Fuhr 4",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Meschenich",
+    "anzahl": 2,
+    "bemerkung": "An der Fuhr 4"
+   },
+   "geometry": {
+    "x": 6.9262696088136755,
+    "y": 50.863168267638287
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 117,
+    "bezeichnung": "Bayenthalgürtel 34",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Marienburg",
+    "anzahl": 1,
+    "bemerkung": "Bayenthalgürtel 34"
+   },
+   "geometry": {
+    "x": 6.9721953205939018,
+    "y": 50.904959481292629
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 118,
+    "bezeichnung": "Bernhard-Feilchenfeld-Str. 11",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Zollstock",
+    "anzahl": 2,
+    "bemerkung": "Bernhard-Feilchenfeld-Str. 11"
+   },
+   "geometry": {
+    "x": 6.9418785369584404,
+    "y": 50.915395037092111
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 119,
+    "bezeichnung": "Bonner Str. 244",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Bayenthal",
+    "anzahl": 1,
+    "bemerkung": "Bonner Str. 244"
+   },
+   "geometry": {
+    "x": 6.9630516392123036,
+    "y": 50.908457271932697
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 120,
+    "bezeichnung": "Brühler Str. 17/19",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Raderberg",
+    "anzahl": 1,
+    "bemerkung": "Brühler Str. 17"
+   },
+   "geometry": {
+    "x": 6.9612697108165138,
+    "y": 50.908949791935896
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 121,
+    "bezeichnung": "Elisabeth-Selbert-Straße 32 - 34",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Sürth",
+    "anzahl": 1,
+    "bemerkung": "Elisabeth-Selbert-Str. 32"
+   },
+   "geometry": {
+    "x": 7.0069454980470871,
+    "y": 50.866937901910667
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 122,
+    "bezeichnung": "Goltsteinstr. 69",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Bayenthal",
+    "anzahl": 1,
+    "bemerkung": "Goltsteinstr. 69"
+   },
+   "geometry": {
+    "x": 6.9693657639298214,
+    "y": 50.910201763258826
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 123,
+    "bezeichnung": "Hauptstr. 41",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Rodenkirchen",
+    "anzahl": 1,
+    "bemerkung": "Hauptstr. 41"
+   },
+   "geometry": {
+    "x": 6.993505871212375,
+    "y": 50.894385690522746
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 124,
+    "bezeichnung": "Hauptstr. 85 (Parkpl./ Rathaus)",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Rodenkirchen",
+    "anzahl": 1,
+    "bemerkung": "Hauptstr. 85"
+   },
+   "geometry": {
+    "x": 6.9967562920309163,
+    "y": 50.892279915329532
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 125,
+    "bezeichnung": "Homburger Straße 16",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Zollstock",
+    "anzahl": 1,
+    "bemerkung": "Homburger Str. 16"
+   },
+   "geometry": {
+    "x": 6.9476463291426036,
+    "y": 50.913263691111936
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 126,
+    "bezeichnung": "Höninger Platz 25",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Zollstock",
+    "anzahl": 1,
+    "bemerkung": "Höninger Platz 25"
+   },
+   "geometry": {
+    "x": 6.9438459767233667,
+    "y": 50.900795537528857
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 127,
+    "bezeichnung": "Höninger Weg 123",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Zollstock",
+    "anzahl": 1,
+    "bemerkung": "Höninger Weg von 115 auf 123"
+   },
+   "geometry": {
+    "x": 6.9410569962440718,
+    "y": 50.914861555552676
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 128,
+    "bezeichnung": "Höninger Weg 210",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Zollstock",
+    "anzahl": 1,
+    "bemerkung": "Höninger Weg 210"
+   },
+   "geometry": {
+    "x": 6.9412270988352764,
+    "y": 50.909753550818117
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 129,
+    "bezeichnung": "Kierberger Str. 23",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Zollstock",
+    "anzahl": 1,
+    "bemerkung": "Kierberger Str. 23"
+   },
+   "geometry": {
+    "x": 6.9461682204640951,
+    "y": 50.909823887958368
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 130,
+    "bezeichnung": "Koblenzer Str. 58",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Bayenthal",
+    "anzahl": 1,
+    "bemerkung": "Koblenzer Str. 58"
+   },
+   "geometry": {
+    "x": 6.9657170988960377,
+    "y": 50.913056848289465
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 131,
+    "bezeichnung": "Marktstr. 61",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Raderberg",
+    "anzahl": 1,
+    "bemerkung": "Marktstr. 61"
+   },
+   "geometry": {
+    "x": 6.9550088661415073,
+    "y": 50.910800070151005
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 132,
+    "bezeichnung": "Nibelungenweg/Schillingsrotter Str.",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Rodenkirchen",
+    "anzahl": 1,
+    "bemerkung": "Ersatz für Maternusplatz 10"
+   },
+   "geometry": {
+    "x": 6.9935485571951563,
+    "y": 50.891702744589324
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 133,
+    "bezeichnung": "Wilhelmstr./Maternusstr.",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Rodenkirchen",
+    "anzahl": 1,
+    "bemerkung": "Ersatz für Maternusplatz "
+   },
+   "geometry": {
+    "x": 6.9929807182690356,
+    "y": 50.892489668818605
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 135,
+    "bezeichnung": "Raderthalgürtel 8-10",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Raderthal",
+    "anzahl": 1,
+    "bemerkung": "Raderthalgürtel 8"
+   },
+   "geometry": {
+    "x": 6.9487448939921679,
+    "y": 50.904323277001126
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 136,
+    "bezeichnung": "Zollstocksweg 13",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Zollstock",
+    "anzahl": 1,
+    "bemerkung": "Zollstocksweg 13"
+   },
+   "geometry": {
+    "x": 6.9417785209593683,
+    "y": 50.909522309552578
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 137,
+    "bezeichnung": "Hauptstraße (Zündorf) 358",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Porz",
+    "anzahl": 1,
+    "bemerkung": "Hauptstraße (Zündorf) 358"
+   },
+   "geometry": {
+    "x": 7.0556112480356257,
+    "y": 50.8810870713138
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 138,
+    "bezeichnung": "Aachener Str. 217",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Aachener Str. 217"
+   },
+   "geometry": {
+    "x": 6.9215800057041887,
+    "y": 50.936443650125675
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 139,
+    "bezeichnung": "Aachener Str. 445",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Aachener Str. 445"
+   },
+   "geometry": {
+    "x": 6.9049293098154996,
+    "y": 50.936944929254217
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 140,
+    "bezeichnung": "Aachener Str. 451",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Aachener Str. 451"
+   },
+   "geometry": {
+    "x": 6.9040530102785818,
+    "y": 50.936835687775854
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 141,
+    "bezeichnung": "Heidestr. 204",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Wahnheide",
+    "anzahl": 1,
+    "bemerkung": "Heidestr. 204"
+   },
+   "geometry": {
+    "x": 7.1036018518828632,
+    "y": 50.858985037418982
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 142,
+    "bezeichnung": "Aachener Str. 455",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Aachener Str. 455"
+   },
+   "geometry": {
+    "x": 6.9032206923222166,
+    "y": 50.936951814710611
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 143,
+    "bezeichnung": "Alter Militärring 18/20",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Müngersdorf",
+    "anzahl": 2,
+    "bemerkung": "Alter Militärring 18"
+   },
+   "geometry": {
+    "x": 6.8814603993735552,
+    "y": 50.938780324736122
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 144,
+    "bezeichnung": "Karlstr. Höhe Haus Nr. 10",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Porz",
+    "anzahl": 1,
+    "bemerkung": "Karlstr. 10"
+   },
+   "geometry": {
+    "x": 7.0563856108464966,
+    "y": 50.885424219372581
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 145,
+    "bezeichnung": "Karlstr., Höhe 6 - 8",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Porz",
+    "anzahl": 2,
+    "bemerkung": "Karlstr. 6"
+   },
+   "geometry": {
+    "x": 7.0562309683981885,
+    "y": 50.885423102403919
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 146,
+    "bezeichnung": "Am Weidenpesch 21",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Junkersdorf",
+    "anzahl": 2,
+    "bemerkung": "Am Weidenpesch 21"
+   },
+   "geometry": {
+    "x": 6.8563454408840574,
+    "y": 50.932273747895863
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 147,
+    "bezeichnung": "Bachemer Straße 201",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Bachemer Str. 201"
+   },
+   "geometry": {
+    "x": 6.9090027820370059,
+    "y": 50.925904717367715
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 148,
+    "bezeichnung": "Emmastr. 21-23",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Sülz",
+    "anzahl": 2,
+    "bemerkung": "Emmastraße vor Haus Nr. 21 und Nr. 23"
+   },
+   "geometry": {
+    "x": 6.9268756691718369,
+    "y": 50.916925100739292
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 149,
+    "bezeichnung": "Berrenrather Str. 230/232",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Sülz",
+    "anzahl": 1,
+    "bemerkung": "Berrenrather Str. 230"
+   },
+   "geometry": {
+    "x": 6.9257485663571083,
+    "y": 50.918793235263657
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 150,
+    "bezeichnung": "Berrenrather Str. 280",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Sülz",
+    "anzahl": 1,
+    "bemerkung": "Berrenrather Str. 280"
+   },
+   "geometry": {
+    "x": 6.923658568641784,
+    "y": 50.917113698255655
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 151,
+    "bezeichnung": "Berrenrather Straße 210",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Sülz",
+    "anzahl": 1,
+    "bemerkung": "Berrenrather Str. 210"
+   },
+   "geometry": {
+    "x": 6.9264771592552101,
+    "y": 50.919378979323952
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 152,
+    "bezeichnung": "Bunzlauer Str. 3",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Weiden",
+    "anzahl": 1,
+    "bemerkung": "Bunzlauer Str. 3"
+   },
+   "geometry": {
+    "x": 6.8369799356030621,
+    "y": 50.937620906691834
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 153,
+    "bezeichnung": "Bunzlauer Straße 5",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Weiden",
+    "anzahl": 2,
+    "bemerkung": "Bunzlauer Str. 5"
+   },
+   "geometry": {
+    "x": 6.8372592157508008,
+    "y": 50.937133046048537
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 154,
+    "bezeichnung": "Dürener Str. 92",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Dürener Str. 92"
+   },
+   "geometry": {
+    "x": 6.9204862395575883,
+    "y": 50.932123405927229
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 155,
+    "bezeichnung": "Dürener Str. 102",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Dürener Str. 102"
+   },
+   "geometry": {
+    "x": 6.9197997250550261,
+    "y": 50.931890205454934
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 156,
+    "bezeichnung": "Dürener Str. 164",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Dürener Str. 164"
+   },
+   "geometry": {
+    "x": 6.9154425079893489,
+    "y": 50.930372441858722
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 157,
+    "bezeichnung": "Dürener Str. 339",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Dürener Str. 339"
+   },
+   "geometry": {
+    "x": 6.8981455668040343,
+    "y": 50.926025539921731
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 158,
+    "bezeichnung": "Dürener Str. 350",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Dürener Str. 350"
+   },
+   "geometry": {
+    "x": 6.8962988035436243,
+    "y": 50.925460051487811
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 159,
+    "bezeichnung": "Eupener Straße 135 - 137",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Braunsfeld",
+    "anzahl": 1,
+    "bemerkung": "Eupener Str. 135"
+   },
+   "geometry": {
+    "x": 6.8894414563237074,
+    "y": 50.94437257806301
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 160,
+    "bezeichnung": "Euskirchener Straße 2",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Sülz",
+    "anzahl": 1,
+    "bemerkung": "Euskirchener Str. 2"
+   },
+   "geometry": {
+    "x": 6.9198972649983768,
+    "y": 50.919891093012922
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 161,
+    "bezeichnung": "Franzstr. 16",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Franzstr. 16"
+   },
+   "geometry": {
+    "x": 6.9129292681291625,
+    "y": 50.925153068633541
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 162,
+    "bezeichnung": "Franzstr. 8 - 10",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Franzstr. 8"
+   },
+   "geometry": {
+    "x": 6.914435283434349,
+    "y": 50.925739239354868
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 163,
+    "bezeichnung": "Gerolsteiner Str. 101",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Sülz",
+    "anzahl": 2,
+    "bemerkung": "Gerolsteiner Str. 101"
+   },
+   "geometry": {
+    "x": 6.9192058154701321,
+    "y": 50.918650766718642
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 164,
+    "bezeichnung": "Gleueler Str. 184",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Gleueler Str. 184"
+   },
+   "geometry": {
+    "x": 6.9091216609002624,
+    "y": 50.922418664953156
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 165,
+    "bezeichnung": "Hans-Willy-Mertens-Straße 2",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Weiden",
+    "anzahl": 1,
+    "bemerkung": "Hans-Willy-Mertens-Str. 2"
+   },
+   "geometry": {
+    "x": 6.8367476954302333,
+    "y": 50.938779761209666
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 166,
+    "bezeichnung": "Lindenthalgürtel 56",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Lindenthalgürtel 56"
+   },
+   "geometry": {
+    "x": 6.9118999071043881,
+    "y": 50.924383059537142
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 167,
+    "bezeichnung": "Luxemburger Str. 101, Landgericht/Amtsgericht",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Sülz",
+    "anzahl": 2,
+    "bemerkung": "Luxemburger Str. 101"
+   },
+   "geometry": {
+    "x": 6.9352027701122809,
+    "y": 50.922598431443042
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 168,
+    "bezeichnung": "Luxemburger Str. 285c",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Klettenberg",
+    "anzahl": 1,
+    "bemerkung": "Luxemburger Str. 285c"
+   },
+   "geometry": {
+    "x": 6.9262486825601384,
+    "y": 50.914328290781256
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 169,
+    "bezeichnung": "Robert-Koch-Straße 4",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Robert-Koch-Str. 4"
+   },
+   "geometry": {
+    "x": 6.9238640654731549,
+    "y": 50.923658905151598
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 170,
+    "bezeichnung": "Rurstraße 11",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Rurstr. 11"
+   },
+   "geometry": {
+    "x": 6.915255177594041,
+    "y": 50.922042213486506
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 171,
+    "bezeichnung": "Scheffelstr. 23-31",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Scheffelstr. 23"
+   },
+   "geometry": {
+    "x": 6.9087946759147547,
+    "y": 50.924639198975136
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 172,
+    "bezeichnung": "Sülzburgstr. 17",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Sülz",
+    "anzahl": 1,
+    "bemerkung": "Sülzburgstr. 17"
+   },
+   "geometry": {
+    "x": 6.9261893823390457,
+    "y": 50.916604376264893
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 173,
+    "bezeichnung": "Sülzburgstr. 261",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Sülzburgstr. 261"
+   },
+   "geometry": {
+    "x": 6.9173406748757396,
+    "y": 50.922173291179007
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 174,
+    "bezeichnung": "Sülzgürtel 16",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Sülz",
+    "anzahl": 1,
+    "bemerkung": "Sülzgürtel 16"
+   },
+   "geometry": {
+    "x": 6.9228091433730983,
+    "y": 50.913150912026595
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 175,
+    "bezeichnung": "Sülzgürtel 42",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Sülz",
+    "anzahl": 1,
+    "bemerkung": "Sülzgürtel 42"
+   },
+   "geometry": {
+    "x": 6.9196351955913054,
+    "y": 50.915290643963196
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 176,
+    "bezeichnung": "Vogelsanger Weg 4",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Junkersdorf",
+    "anzahl": 1,
+    "bemerkung": "Vogelsanger Weg 2"
+   },
+   "geometry": {
+    "x": 6.8535688600635751,
+    "y": 50.932983331827387
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 177,
+    "bezeichnung": "Widdersdorfer Landstraße 10",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lövenich",
+    "anzahl": 2,
+    "bemerkung": "Widdersdorfer Landstr. 10"
+   },
+   "geometry": {
+    "x": 6.8291704168290552,
+    "y": 50.948757707693424
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 178,
+    "bezeichnung": "Zülpicher Straße 223",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Sülz",
+    "anzahl": 2,
+    "bemerkung": "Zülpicher Str. 223"
+   },
+   "geometry": {
+    "x": 6.9257472416703099,
+    "y": 50.923530864217746
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 179,
+    "bezeichnung": "Fridolinstr. 39",
+    "nr_stadtbezirk": "4",
+    "stadtteil": "Neuehrenfeld",
+    "anzahl": 1,
+    "bemerkung": "Fridolinstr. 39"
+   },
+   "geometry": {
+    "x": 6.9216117759087163,
+    "y": 50.954273568726016
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 180,
+    "bezeichnung": "Görlinger Zentrum 2 - 8",
+    "nr_stadtbezirk": "4",
+    "stadtteil": "Bocklemünd/Mengenich",
+    "anzahl": 2,
+    "bemerkung": "Görlinger-Zentrum 2"
+   },
+   "geometry": {
+    "x": 6.8652488384600669,
+    "y": 50.979660134194965
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 181,
+    "bezeichnung": "Görlinger Zentrum 5",
+    "nr_stadtbezirk": "4",
+    "stadtteil": "Bocklemünd/Mengenich",
+    "anzahl": 1,
+    "bemerkung": "Görlinger-Zentrum 5"
+   },
+   "geometry": {
+    "x": 6.8658246949154798,
+    "y": 50.980273929171247
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 182,
+    "bezeichnung": "Graeffstr. 1 - 5",
+    "nr_stadtbezirk": "4",
+    "stadtteil": "Neuehrenfeld",
+    "anzahl": 1,
+    "bemerkung": "Graeffstr. 1"
+   },
+   "geometry": {
+    "x": 6.9331234110059476,
+    "y": 50.950205481801163
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 183,
+    "bezeichnung": "Kolkrabenweg 8 - 10",
+    "nr_stadtbezirk": "4",
+    "stadtteil": "Vogelsang",
+    "anzahl": 4,
+    "bemerkung": "Kolkrabenweg 8, auf Parkplatz Kolkrabenweg"
+   },
+   "geometry": {
+    "x": 6.8783778539003189,
+    "y": 50.96453251328203
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 184,
+    "bezeichnung": "Lenauplatz 5",
+    "nr_stadtbezirk": "4",
+    "stadtteil": "Neuehrenfeld",
+    "anzahl": 1,
+    "bemerkung": "Lenauplatz 5"
+   },
+   "geometry": {
+    "x": 6.9191298538516142,
+    "y": 50.957388839478902
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 185,
+    "bezeichnung": "Maarweg 130",
+    "nr_stadtbezirk": "4",
+    "stadtteil": "Ehrenfeld",
+    "anzahl": 2,
+    "bemerkung": "Maarweg 130"
+   },
+   "geometry": {
+    "x": 6.8984452961841241,
+    "y": 50.94383410149819
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 186,
+    "bezeichnung": "Mechternstr. 27/Barthelstraße",
+    "nr_stadtbezirk": "4",
+    "stadtteil": "Ehrenfeld",
+    "anzahl": 1,
+    "bemerkung": "Mechternstr. 27"
+   },
+   "geometry": {
+    "x": 6.9198701471975363,
+    "y": 50.944185734879284
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 187,
+    "bezeichnung": "Ollenhauerring 41",
+    "nr_stadtbezirk": "4",
+    "stadtteil": "Bocklemünd/Mengenich",
+    "anzahl": 1,
+    "bemerkung": "Ollenhauerring 41"
+   },
+   "geometry": {
+    "x": 6.8667570705971581,
+    "y": 50.97919908358481
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 188,
+    "bezeichnung": "Roßstr. 13",
+    "nr_stadtbezirk": "4",
+    "stadtteil": "Neuehrenfeld",
+    "anzahl": 1,
+    "bemerkung": "Roßstr. 13"
+   },
+   "geometry": {
+    "x": 6.9218808256804758,
+    "y": 50.944239417461944
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 189,
+    "bezeichnung": "Subbelrather Str. 277",
+    "nr_stadtbezirk": "4",
+    "stadtteil": "Ehrenfeld",
+    "anzahl": 1,
+    "bemerkung": "Subbelrather Str. 277"
+   },
+   "geometry": {
+    "x": 6.9167526454414396,
+    "y": 50.955036844828868
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 190,
+    "bezeichnung": "Venloer Str. 425 a - b",
+    "nr_stadtbezirk": "4",
+    "stadtteil": "Ehrenfeld",
+    "anzahl": 3,
+    "bemerkung": "Venloer Str. 425b"
+   },
+   "geometry": {
+    "x": 6.9131007910158688,
+    "y": 50.952485588326823
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 191,
+    "bezeichnung": "Vogelsanger Str. 89",
+    "nr_stadtbezirk": "4",
+    "stadtteil": "Ehrenfeld",
+    "anzahl": 1,
+    "bemerkung": "Vogelsanger Str. 89"
+   },
+   "geometry": {
+    "x": 6.9211422364499988,
+    "y": 50.945365319576872
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 192,
+    "bezeichnung": "An der Schanz 1",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Riehl",
+    "anzahl": 1,
+    "bemerkung": "An der Schanz 1"
+   },
+   "geometry": {
+    "x": 6.981768356961684,
+    "y": 50.961753525001633
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 193,
+    "bezeichnung": "Baudristr. 6",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Nippes",
+    "anzahl": 1,
+    "bemerkung": "Baudristr. 6"
+   },
+   "geometry": {
+    "x": 6.9529825733872528,
+    "y": 50.964397953364099
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 194,
+    "bezeichnung": "Christinastr. 62/Wilhelmstraße",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Nippes",
+    "anzahl": 1,
+    "bemerkung": "Christinastr. 62"
+   },
+   "geometry": {
+    "x": 6.9527196075878139,
+    "y": 50.963013702291917
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 195,
+    "bezeichnung": "Industriestr. 16",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Niehl",
+    "anzahl": 1,
+    "bemerkung": "Industriestr. 16"
+   },
+   "geometry": {
+    "x": 6.9478669901783432,
+    "y": 50.999058209547833
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 197,
+    "bezeichnung": "Kapuzinerstr. 6",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Weidenpesch",
+    "anzahl": 2,
+    "bemerkung": "Kapuzinerstr. 6"
+   },
+   "geometry": {
+    "x": 6.9455243457691891,
+    "y": 50.983401948919116
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 198,
+    "bezeichnung": "Neusser Str. 210",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Nippes",
+    "anzahl": 1,
+    "bemerkung": "Neusser Str. 210"
+   },
+   "geometry": {
+    "x": 6.9544868574059713,
+    "y": 50.961536683935023
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 199,
+    "bezeichnung": "Neusser Str. 234",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Nippes",
+    "anzahl": 3,
+    "bemerkung": "Neusser Str. 234"
+   },
+   "geometry": {
+    "x": 6.9541860234520305,
+    "y": 50.962825481751935
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 201,
+    "bezeichnung": "Neusser Str. 284 - 286",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Nippes",
+    "anzahl": 1,
+    "bemerkung": "Neusser Str. 284"
+   },
+   "geometry": {
+    "x": 6.9537344632108065,
+    "y": 50.964857723385421
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 202,
+    "bezeichnung": "Neusser Str. 352",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Nippes",
+    "anzahl": 1,
+    "bemerkung": "Neusser Str. 352"
+   },
+   "geometry": {
+    "x": 6.9530885721633782,
+    "y": 50.96807955701712
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 203,
+    "bezeichnung": "Neusser Str. 401",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Nippes",
+    "anzahl": 1,
+    "bemerkung": "Neusser Str. 401"
+   },
+   "geometry": {
+    "x": 6.952123540843119,
+    "y": 50.970467614218023
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 204,
+    "bezeichnung": "Neusser Str. 570/Derfflinger Straße",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Weidenpesch",
+    "anzahl": 1,
+    "bemerkung": "Neusser Str. 570"
+   },
+   "geometry": {
+    "x": 6.9482199991718394,
+    "y": 50.980467252927362
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 205,
+    "bezeichnung": "Neusser Str. vor Haus-Nr. 460",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Nippes",
+    "anzahl": 2,
+    "bemerkung": "Neusser Str. 460"
+   },
+   "geometry": {
+    "x": 6.9517387020334489,
+    "y": 50.973311268157985
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 206,
+    "bezeichnung": "Niehler Str. 308",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Niehl",
+    "anzahl": 1,
+    "bemerkung": "Niehler Str. 308"
+   },
+   "geometry": {
+    "x": 6.9599800028528191,
+    "y": 50.975417760431355
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 207,
+    "bezeichnung": "Sechzigstr. 22b/Dormagener Straße",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Nippes",
+    "anzahl": 1,
+    "bemerkung": "Sechzigstr. 22b"
+   },
+   "geometry": {
+    "x": 6.9476661257035008,
+    "y": 50.959758941423878
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 208,
+    "bezeichnung": "Stammheimer Str. 54",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Riehl",
+    "anzahl": 1,
+    "bemerkung": "Stammheimer Str. 54"
+   },
+   "geometry": {
+    "x": 6.9746252429147617,
+    "y": 50.962274421598792
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 209,
+    "bezeichnung": "Viersener Str. 4",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Nippes",
+    "anzahl": 1,
+    "bemerkung": "Viersener Str. 4"
+   },
+   "geometry": {
+    "x": 6.9530580818745928,
+    "y": 50.963594321407143
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 210,
+    "bezeichnung": "Viersener Str. 14/Auguststraße",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Nippes",
+    "anzahl": 2,
+    "bemerkung": "Viersener Str. 14"
+   },
+   "geometry": {
+    "x": 6.9518412762333686,
+    "y": 50.963423509365938
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 211,
+    "bezeichnung": "Wilhelmstr. 56 - 58",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Nippes",
+    "anzahl": 1,
+    "bemerkung": "Wilhelmstr. 56"
+   },
+   "geometry": {
+    "x": 6.9529655095664289,
+    "y": 50.962833201439103
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 212,
+    "bezeichnung": "Wilhelmstr. 59/Auguststraße",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Nippes",
+    "anzahl": 1,
+    "bemerkung": "Wilhelmstr. 59"
+   },
+   "geometry": {
+    "x": 6.9521205103315671,
+    "y": 50.962676381342924
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 213,
+    "bezeichnung": "Yorckstr. 10",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Nippes",
+    "anzahl": 1,
+    "bemerkung": "Yorckstr. 10"
+   },
+   "geometry": {
+    "x": 6.9546552935658905,
+    "y": 50.965208255651675
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 214,
+    "bezeichnung": "Athener Ring 4 (Stadthaus Chorweiler)",
+    "nr_stadtbezirk": "6",
+    "stadtteil": "Chorweiler",
+    "anzahl": 5,
+    "bemerkung": "Athener Ring 4, Zufahrt über Salzburger Hof"
+   },
+   "geometry": {
+    "x": 6.8956632272575504,
+    "y": 51.020469839256052
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 215,
+    "bezeichnung": "Florenzer Str. 82",
+    "nr_stadtbezirk": "6",
+    "stadtteil": "Chorweiler",
+    "anzahl": 1,
+    "bemerkung": "Florenzer Str. 82"
+   },
+   "geometry": {
+    "x": 6.8946371985036583,
+    "y": 51.02137243752059
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 216,
+    "bezeichnung": "Ernst-Mühlendyck-Str. 1",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Porz",
+    "anzahl": 1,
+    "bemerkung": "Ernst-Mühlendyck-Str. 1"
+   },
+   "geometry": {
+    "x": 7.0576894844156666,
+    "y": 50.882521815334698
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 217,
+    "bezeichnung": "Goethestr. Höhe Haus Nr. 17",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Porz",
+    "anzahl": 1,
+    "bemerkung": "Goethestr. 17, Porz"
+   },
+   "geometry": {
+    "x": 7.0601516646439828,
+    "y": 50.884813566121728
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 218,
+    "bezeichnung": "Guntherstr. 78",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Wahnheide",
+    "anzahl": 1,
+    "bemerkung": "Guntherstr. 78, Wahnheide"
+   },
+   "geometry": {
+    "x": 7.1002013520160618,
+    "y": 50.858187368985128
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 219,
+    "bezeichnung": "Hauptstr. 426 (Parkplatz Berufskolleg)",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Porz",
+    "anzahl": 1,
+    "bemerkung": "Hauptstr. 426"
+   },
+   "geometry": {
+    "x": 7.0559588963788205,
+    "y": 50.886450304751698
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 220,
+    "bezeichnung": "Komödienstr. gegenüb. Andreaskloster",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 2,
+    "bemerkung": "Komödienstr. gegenüb. Andreaskloster"
+   },
+   "geometry": {
+    "x": 6.9555653660851888,
+    "y": 50.94165139706498
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 221,
+    "bezeichnung": "Kunibertskloster",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 2,
+    "bemerkung": "Kunibertskloster 11-13, Marien-Hospital"
+   },
+   "geometry": {
+    "x": 6.9626785547229755,
+    "y": 50.947333758090103
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 223,
+    "bezeichnung": "Lindenstr.",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Lindenstr."
+   },
+   "geometry": {
+    "x": 6.936258694870296,
+    "y": 50.9339451874975
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 224,
+    "bezeichnung": "Siegburger Str. 359 in Höhe Kölner Bank",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Poll",
+    "anzahl": 1,
+    "bemerkung": "Siegburger Str. 359"
+   },
+   "geometry": {
+    "x": 6.9905955021142114,
+    "y": 50.91663612550937
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 225,
+    "bezeichnung": "Siegburger Str. 364",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Poll",
+    "anzahl": 1,
+    "bemerkung": "Siegburger Str. 364"
+   },
+   "geometry": {
+    "x": 6.9906897022919425,
+    "y": 50.916458945864733
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 226,
+    "bezeichnung": "Siegburger Str. 368",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Poll",
+    "anzahl": 1,
+    "bemerkung": "Siegburger Str. 368"
+   },
+   "geometry": {
+    "x": 6.9912068930010012,
+    "y": 50.916199949241495
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 227,
+    "bezeichnung": "Stollwerckstraße 35",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Westhoven",
+    "anzahl": 2,
+    "bemerkung": "Stollwerckstr. 35"
+   },
+   "geometry": {
+    "x": 7.0301713459497117,
+    "y": 50.906836931617427
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 228,
+    "bezeichnung": "Brücker Mauspfad 613",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Brück",
+    "anzahl": 1,
+    "bemerkung": "Brücker Mauspfad 613"
+   },
+   "geometry": {
+    "x": 7.0796681473970366,
+    "y": 50.947891996426257
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 229,
+    "bezeichnung": "Buchforststr. gegenüber 1 - 15",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Kalk",
+    "anzahl": 2,
+    "bemerkung": "Buchforststr. 3"
+   },
+   "geometry": {
+    "x": 7.0087828877527167,
+    "y": 50.941131986898938
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 231,
+    "bezeichnung": "Kalker Hauptstr. 64",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Kalk",
+    "anzahl": 1,
+    "bemerkung": "Kalker Hauptstr. 64"
+   },
+   "geometry": {
+    "x": 6.9973800101871753,
+    "y": 50.937313322226842
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 232,
+    "bezeichnung": "Kalker Hauptstr. 166",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Kalk",
+    "anzahl": 1,
+    "bemerkung": "Kalker Hauptstr. 166"
+   },
+   "geometry": {
+    "x": 7.0047261904950471,
+    "y": 50.938148837905345
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 233,
+    "bezeichnung": "Venloer Str. 247",
+    "nr_stadtbezirk": "4",
+    "stadtteil": "Ehrenfeld",
+    "anzahl": 1,
+    "bemerkung": "Venloer Str. 247"
+   },
+   "geometry": {
+    "x": 6.9229415843103927,
+    "y": 50.947181001942937
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 234,
+    "bezeichnung": "Strundener Str.",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Dellbrück",
+    "anzahl": 1,
+    "bemerkung": "Strundener Str. 158"
+   },
+   "geometry": {
+    "x": 7.0876454866865108,
+    "y": 50.971352104913052
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 235,
+    "bezeichnung": "Buchforststr. 14",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Kalk",
+    "anzahl": 2,
+    "bemerkung": "Buchforststr. 14 vor dem Ärztehaus"
+   },
+   "geometry": {
+    "x": 7.0086047624711423,
+    "y": 50.942176557795158
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 236,
+    "bezeichnung": "Thurner Str. 105a",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Dellbrück",
+    "anzahl": 1,
+    "bemerkung": "Parkplatz für die evangelische Kirche"
+   },
+   "geometry": {
+    "x": 7.0845796364869278,
+    "y": 50.973571662060763
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 237,
+    "bezeichnung": "Aachener Str. 555",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Braunsfeld",
+    "anzahl": 1,
+    "bemerkung": "Aachener Str. 555"
+   },
+   "geometry": {
+    "x": 6.8964267920038553,
+    "y": 50.937130271990981
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 238,
+    "bezeichnung": "Nikolausstr. 132",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Nikolausstr. 132"
+   },
+   "geometry": {
+    "x": 6.923539257334717,
+    "y": 50.919906871810767
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 239,
+    "bezeichnung": "Kalker Hauptstr. 275",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Kalk",
+    "anzahl": 1,
+    "bemerkung": "Kalker Hauptstr. 275"
+   },
+   "geometry": {
+    "x": 7.0100353690632975,
+    "y": 50.939259877865062
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 240,
+    "bezeichnung": "Kalker Hauptstr. Höhe Hs. Nr. 82",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Kalk",
+    "anzahl": 1,
+    "bemerkung": "Kalker Hauptstr. 82"
+   },
+   "geometry": {
+    "x": 6.9996450583070766,
+    "y": 50.937565504266402
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 241,
+    "bezeichnung": "Olpener Str. 160",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Höhenberg",
+    "anzahl": 1,
+    "bemerkung": "Olpener Str. 160"
+   },
+   "geometry": {
+    "x": 7.024444658262075,
+    "y": 50.940242943840822
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 243,
+    "bezeichnung": "Rolshover Str. 120",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Humboldt/Gremberg",
+    "anzahl": 1,
+    "bemerkung": "Rolshover Str. 120"
+   },
+   "geometry": {
+    "x": 7.0002932075979842,
+    "y": 50.930708569820858
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 244,
+    "bezeichnung": "Rolshover Str. 4 - 6",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Kalk",
+    "anzahl": 2,
+    "bemerkung": "Rolshover Str. 4"
+   },
+   "geometry": {
+    "x": 7.0002366501999065,
+    "y": 50.937300330517665
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 245,
+    "bezeichnung": "Servatiusstr. 7",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Ostheim",
+    "anzahl": 1,
+    "bemerkung": "Servatiusstr. 7"
+   },
+   "geometry": {
+    "x": 7.0473070827027415,
+    "y": 50.930919945369034
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 246,
+    "bezeichnung": "Taunusstr. 2",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Humboldt/Gremberg",
+    "anzahl": 1,
+    "bemerkung": "Taunusstr. 2"
+   },
+   "geometry": {
+    "x": 6.9974243980426305,
+    "y": 50.934871183738366
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 247,
+    "bezeichnung": "An der Kemperwiese vor Haus Nr. 3",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Dellbrück",
+    "anzahl": 2,
+    "bemerkung": "An der Kemperwiese 3"
+   },
+   "geometry": {
+    "x": 7.0747463412536664,
+    "y": 50.975971474433734
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 248,
+    "bezeichnung": "Augustastraße Höhe Haus Nr. 6",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Mülheim",
+    "anzahl": 1,
+    "bemerkung": "Augustastr. 6"
+   },
+   "geometry": {
+    "x": 7.0088137788679647,
+    "y": 50.957343369511506
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 249,
+    "bezeichnung": "Bergisch Gladbacher Str. 700",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Holweide",
+    "anzahl": 1,
+    "bemerkung": "Bergisch Gladbacher Str. 700"
+   },
+   "geometry": {
+    "x": 7.053406350454285,
+    "y": 50.972484766276509
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 250,
+    "bezeichnung": "Bergisch Gladbacher Str. Höhe 599",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Holweide",
+    "anzahl": 1,
+    "bemerkung": "Bergisch Gladbacher Str. Höhe 599"
+   },
+   "geometry": {
+    "x": 7.0478493122871324,
+    "y": 50.970581180605436
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 251,
+    "bezeichnung": "Berliner Str. vor Hs-Nr. 77 Selbsth.Teestube e.V.",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Mülheim",
+    "anzahl": 1,
+    "bemerkung": "Berliner Str. 77"
+   },
+   "geometry": {
+    "x": 7.0106869207508264,
+    "y": 50.972395227947231
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 252,
+    "bezeichnung": "Buchheimer Straße 53/59",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Mülheim",
+    "anzahl": 2,
+    "bemerkung": "Buchheimer Str. 53"
+   },
+   "geometry": {
+    "x": 7.0033133551556972,
+    "y": 50.962479937538035
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 253,
+    "bezeichnung": "Dellbrücker Hauptstraße 170-172",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Dellbrück",
+    "anzahl": 1,
+    "bemerkung": "Dellbrücker Hauptstr. 170"
+   },
+   "geometry": {
+    "x": 7.0691290929305124,
+    "y": 50.980097766933227
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 254,
+    "bezeichnung": "Dellbrücker Hauptstraße vor Haus 77",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Dellbrück",
+    "anzahl": 1,
+    "bemerkung": "Dellbrücker Hauptstr. 77"
+   },
+   "geometry": {
+    "x": 7.0740061126407241,
+    "y": 50.975200754303856
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 255,
+    "bezeichnung": "Elisabeth-Breuer-Straße 10",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Mülheim",
+    "anzahl": 2,
+    "bemerkung": "Elisabeth-Breuer-Str. 10"
+   },
+   "geometry": {
+    "x": 7.00948725227442,
+    "y": 50.960027151056543
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 256,
+    "bezeichnung": "Elisabeth-Breuer-Straße 24",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Mülheim",
+    "anzahl": 1,
+    "bemerkung": "Elisabeth-Breuer-Str. 24"
+   },
+   "geometry": {
+    "x": 7.0100029826570944,
+    "y": 50.960458985960805
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 257,
+    "bezeichnung": "Eulenbergstraße Höhe Haus Nr. 8",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Mülheim",
+    "anzahl": 2,
+    "bemerkung": "Eulenbergstr. 8"
+   },
+   "geometry": {
+    "x": 7.0065805097863096,
+    "y": 50.961667373725518
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 258,
+    "bezeichnung": "Evergerstr. 27",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Flittard",
+    "anzahl": 1,
+    "bemerkung": "Evergerstr. 27"
+   },
+   "geometry": {
+    "x": 6.9797251590853033,
+    "y": 51.00119756853362
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 259,
+    "bezeichnung": "Frankfurter Straße 89",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Mülheim",
+    "anzahl": 1,
+    "bemerkung": "Frankfurter Str. 89"
+   },
+   "geometry": {
+    "x": 7.0133503494481104,
+    "y": 50.956068852896948
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 260,
+    "bezeichnung": "Frankfurter Straße Höhe Haus Nr. 30/32",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Mülheim",
+    "anzahl": 1,
+    "bemerkung": "Frankfurter Str. 30"
+   },
+   "geometry": {
+    "x": 7.0068843624037696,
+    "y": 50.960505150671366
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 261,
+    "bezeichnung": "Frankfurter Straße Höhe Haus Nr. 91",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Buchheim",
+    "anzahl": 1,
+    "bemerkung": "Frankfurter Str. 91"
+   },
+   "geometry": {
+    "x": 7.013391861984795,
+    "y": 50.956043211366989
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 262,
+    "bezeichnung": "Idastraße zwischen Haus Nr. 48-46",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Dellbrück",
+    "anzahl": 2,
+    "bemerkung": "Idastr. 48"
+   },
+   "geometry": {
+    "x": 7.0709769578115402,
+    "y": 50.977888150499368
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 263,
+    "bezeichnung": "Jan-Wellem-Straße Höhe Haus Nr. 1",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Mülheim",
+    "anzahl": 3,
+    "bemerkung": "Jan-Wellem-Str. 1"
+   },
+   "geometry": {
+    "x": 7.0052920444648903,
+    "y": 50.960650937227683
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 264,
+    "bezeichnung": "Lassallestraße 59",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Mülheim",
+    "anzahl": 1,
+    "bemerkung": "Lassallestr. 59"
+   },
+   "geometry": {
+    "x": 7.0080211177087284,
+    "y": 50.958490914152996
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 265,
+    "bezeichnung": "Merkerhofstraße vor Haus Nr. 9",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Mülheim",
+    "anzahl": 1,
+    "bemerkung": "Merkerhofstr. 9"
+   },
+   "geometry": {
+    "x": 7.0064937899416213,
+    "y": 50.960025531980804
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 266,
+    "bezeichnung": "Modemannstr.25",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Buchheim",
+    "anzahl": 3,
+    "bemerkung": "Modemannstr. 25"
+   },
+   "geometry": {
+    "x": 7.0191525484696156,
+    "y": 50.950873100936697
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 267,
+    "bezeichnung": "Schweidnitzer Str.27",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Dünnwald",
+    "anzahl": 1,
+    "bemerkung": "Schweidnitzer Str. 27"
+   },
+   "geometry": {
+    "x": 7.0323416993104706,
+    "y": 50.996871332807622
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 268,
+    "bezeichnung": "Agrippastr.",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Agrippastr. 1"
+   },
+   "geometry": {
+    "x": 6.9558986754300953,
+    "y": 50.933452294222207
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 269,
+    "bezeichnung": "Alter Mühlenweg, gegü Kita",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Deutz",
+    "anzahl": 2,
+    "bemerkung": "Alter Mühlenweg, gegü Kita"
+   },
+   "geometry": {
+    "x": 6.9761876274117078,
+    "y": 50.930482919730416
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 270,
+    "bezeichnung": "An den Dominikanern",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "An den Dominikanern 2a"
+   },
+   "geometry": {
+    "x": 6.9551525081256313,
+    "y": 50.942628048846068
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 271,
+    "bezeichnung": "An der Rechtschule",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 2,
+    "bemerkung": "An der Rechtschule 2"
+   },
+   "geometry": {
+    "x": 6.9552577848994286,
+    "y": 50.940216439106443
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 272,
+    "bezeichnung": "Auenweg/Eingang Rheinpark",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Deutz",
+    "anzahl": 2,
+    "bemerkung": "Auenweg/Eingang Rheinpark"
+   },
+   "geometry": {
+    "x": 6.9751191660459435,
+    "y": 50.946019174078252
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 273,
+    "bezeichnung": "Auf dem Berlich/Schwalbengasse",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Auf dem Berlich 24"
+   },
+   "geometry": {
+    "x": 6.947832356180224,
+    "y": 50.939949906034194
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 274,
+    "bezeichnung": "Bischofsgartenstr. (Philharmonie)",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 2,
+    "bemerkung": "Bischofsgartenstr. (Philharmonie)"
+   },
+   "geometry": {
+    "x": 6.9610652645884183,
+    "y": 50.940414629369201
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 275,
+    "bezeichnung": "Blaubach",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 2,
+    "bemerkung": "Blaubach"
+   },
+   "geometry": {
+    "x": 6.9569886093454798,
+    "y": 50.933122537105028
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 276,
+    "bezeichnung": "Bolzengasse",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Bolzengasse 5"
+   },
+   "geometry": {
+    "x": 6.9593305200191233,
+    "y": 50.936666859825309
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 277,
+    "bezeichnung": "Breslauer Platz",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 2,
+    "bemerkung": "Breslauer Platz gegenüber Hausnummer 4/HRS"
+   },
+   "geometry": {
+    "x": 6.9594569448769192,
+    "y": 50.94393425568947
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 279,
+    "bezeichnung": "Rathausplatz",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 3,
+    "bemerkung": "Rathausplatz"
+   },
+   "geometry": {
+    "x": 6.9587987517426955,
+    "y": 50.938270245861787
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 280,
+    "bezeichnung": "Kasinostr.",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 2,
+    "bemerkung": "Kasinostr. 5"
+   },
+   "geometry": {
+    "x": 6.9572048589442774,
+    "y": 50.934795726196249
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 281,
+    "bezeichnung": "Claudiusstr. (vor FH)",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Claudiusstr. (vor FH)"
+   },
+   "geometry": {
+    "x": 6.9667398025027527,
+    "y": 50.919570376820573
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 282,
+    "bezeichnung": "Constantinstr.",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Deutz",
+    "anzahl": 1,
+    "bemerkung": "Constantinstr. 94"
+   },
+   "geometry": {
+    "x": 6.9780202070229915,
+    "y": 50.93904208650055
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 283,
+    "bezeichnung": "Custodiusstr.",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Deutz",
+    "anzahl": 2,
+    "bemerkung": "Custodiusstr. 10"
+   },
+   "geometry": {
+    "x": 6.9799225191224705,
+    "y": 50.932995835015106
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 284,
+    "bezeichnung": "Dagobertstr., vor Rewe",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 2,
+    "bemerkung": "Dagobertstr., vor Rewe"
+   },
+   "geometry": {
+    "x": 6.9570039018622936,
+    "y": 50.948488484853137
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 285,
+    "bezeichnung": "Ehrenstr.",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Ehrenstr."
+   },
+   "geometry": {
+    "x": 6.9440201817736185,
+    "y": 50.938484106882981
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 287,
+    "bezeichnung": "Eifelwall",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Eifelwall"
+   },
+   "geometry": {
+    "x": 6.9390078741636882,
+    "y": 50.923902419353929
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 288,
+    "bezeichnung": "Fleischmengergasse/Lungengasse",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 3,
+    "bemerkung": "Fleischmengergasse/Lungengasse"
+   },
+   "geometry": {
+    "x": 6.9488498421332352,
+    "y": 50.935046389039321
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 289,
+    "bezeichnung": "Glockengasse (gegenüb. Oper)",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 2,
+    "bemerkung": "Glockengasse (gegenüb. Oper)"
+   },
+   "geometry": {
+    "x": 6.9520929494314947,
+    "y": 50.938297077984622
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 293,
+    "bezeichnung": "Händelstr./Richard-Wagner-Str.",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 2,
+    "bemerkung": "Händelstr. 28"
+   },
+   "geometry": {
+    "x": 6.936765020852838,
+    "y": 50.935192779824725
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 294,
+    "bezeichnung": "Heinrichstr./Steinstr.",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Heinrichstr. 50"
+   },
+   "geometry": {
+    "x": 6.9517926441529356,
+    "y": 50.927542710462085
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 295,
+    "bezeichnung": "Hohenstauffenring/Jahnstr.",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 2,
+    "bemerkung": "Hohenstauffenring 30"
+   },
+   "geometry": {
+    "x": 6.9407683760186316,
+    "y": 50.931426088987109
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 296,
+    "bezeichnung": "Im Laach",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Im Laach"
+   },
+   "geometry": {
+    "x": 6.9458709882265151,
+    "y": 50.935618010897677
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 297,
+    "bezeichnung": "Innere Kanalstr. (Finanzamt)",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Nord",
+    "anzahl": 2,
+    "bemerkung": "Innere Kanalstr. (Finanzamt)"
+   },
+   "geometry": {
+    "x": 6.9531944559260737,
+    "y": 50.956201213546976
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 298,
+    "bezeichnung": "Johannisstr. (vor dem Jarkordenhaus)",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Johannisstr. (vor dem Jarkordenhaus)"
+   },
+   "geometry": {
+    "x": 6.9607774144537595,
+    "y": 50.945301434045376
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 299,
+    "bezeichnung": "Kamekestr./Werderstr.",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Kamekestr./Werderstr."
+   },
+   "geometry": {
+    "x": 6.9377984420065184,
+    "y": 50.942502177625315
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 300,
+    "bezeichnung": "Kennedy-Ufer",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Deutz",
+    "anzahl": 1,
+    "bemerkung": "Kennedy-Ufer"
+   },
+   "geometry": {
+    "x": 6.9689840143539774,
+    "y": 50.938514053624687
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 301,
+    "bezeichnung": "Lungengasse gegenüb. Sanitätshaus Stortz",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Lungengasse gegenüb. Sanitätshaus Stortz"
+   },
+   "geometry": {
+    "x": 6.9486614275437528,
+    "y": 50.934923752286252
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 302,
+    "bezeichnung": "Lützowstr.",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 2,
+    "bemerkung": "Lützowstr."
+   },
+   "geometry": {
+    "x": 6.9325830087290266,
+    "y": 50.933088757436494
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 303,
+    "bezeichnung": "Magnusstr./Hohenzollernring",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 2,
+    "bemerkung": "Magnusstr./Hohenzollernring"
+   },
+   "geometry": {
+    "x": 6.9404585285761859,
+    "y": 50.94043152474493
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 304,
+    "bezeichnung": "Markmannsgasse/Buttermarkt",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 3,
+    "bemerkung": "Markmannsgasse/Buttermarkt"
+   },
+   "geometry": {
+    "x": 6.9623873202606603,
+    "y": 50.936638849390235
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 305,
+    "bezeichnung": "Marsilstein",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Marsilstein"
+   },
+   "geometry": {
+    "x": 6.9444401457745721,
+    "y": 50.935248150504414
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 306,
+    "bezeichnung": "Martinstr./Obermarspforten",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 2,
+    "bemerkung": "Martinstr. 39"
+   },
+   "geometry": {
+    "x": 6.9588012390665535,
+    "y": 50.937429117628554
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 307,
+    "bezeichnung": "Mauritiuskirchplatz",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Mauritiuskirchplatz"
+   },
+   "geometry": {
+    "x": 6.9439384841712091,
+    "y": 50.933519933458072
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 308,
+    "bezeichnung": "Maybachstr. (MediaPark Klinik)",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Nord",
+    "anzahl": 2,
+    "bemerkung": "Maybachstr. (MediaPark Klinik)"
+   },
+   "geometry": {
+    "x": 6.9478553897462838,
+    "y": 50.948284626286046
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 309,
+    "bezeichnung": "Merowinger Str. 57",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Merowinger Str. 57"
+   },
+   "geometry": {
+    "x": 6.9557827986631242,
+    "y": 50.920259225069827
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 310,
+    "bezeichnung": "Merowinger Str. 5-7",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Merowinger Str. 5-7"
+   },
+   "geometry": {
+    "x": 6.9586365397563998,
+    "y": 50.920840948558272
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 311,
+    "bezeichnung": "Mittelstr./Apostelnkloster",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 2,
+    "bemerkung": "Mittelstr./Apostelnkloster"
+   },
+   "geometry": {
+    "x": 6.9436707331312872,
+    "y": 50.936871404629699
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 312,
+    "bezeichnung": "Moltkestr. 88",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Moltkestr. 88"
+   },
+   "geometry": {
+    "x": 6.9327820556391488,
+    "y": 50.939706764804981
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 313,
+    "bezeichnung": "Mörsergasse (gegenüb. WDR)",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Mörsergasse (gegenüb. WDR)"
+   },
+   "geometry": {
+    "x": 6.9519413833038222,
+    "y": 50.939627180124958
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 314,
+    "bezeichnung": "Neumarkt (Westseite Westfb.)",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 2,
+    "bemerkung": "Neumarkt (Westseite Westfb.)"
+   },
+   "geometry": {
+    "x": 6.945986366678004,
+    "y": 50.936234924573334
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 315,
+    "bezeichnung": "Neusser Wall",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Neusser Wall"
+   },
+   "geometry": {
+    "x": 6.9580317105540717,
+    "y": 50.955712899137346
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 316,
+    "bezeichnung": "Neven-Du-Mont-Str.",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Neven-Du-Mont-Str."
+   },
+   "geometry": {
+    "x": 6.9506807661242718,
+    "y": 50.939214574080971
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 317,
+    "bezeichnung": "Pastor-Könn-Platz (Neumarkt 24)",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 2,
+    "bemerkung": "Pastor-Könn-Platz (Neumarkt 24)"
+   },
+   "geometry": {
+    "x": 6.9457051217147283,
+    "y": 50.936522968725335
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 318,
+    "bezeichnung": "Prälat-Otto-Müller-Platz",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Prälat-Otto-Müller-Platz"
+   },
+   "geometry": {
+    "x": 6.9537175669315765,
+    "y": 50.954503390308631
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 319,
+    "bezeichnung": "Reichenspergerplatz (vor Gericht)",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Nord",
+    "anzahl": 2,
+    "bemerkung": "Reichenspergerplatz (vor Gericht)"
+   },
+   "geometry": {
+    "x": 6.9628899889512308,
+    "y": 50.954458753029463
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 320,
+    "bezeichnung": "Reischplatz/Deutzer Freiheit",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Deutz",
+    "anzahl": 1,
+    "bemerkung": "Reischplatz/Deutzer Freiheit"
+   },
+   "geometry": {
+    "x": 6.9765238141813404,
+    "y": 50.936778370282816
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 321,
+    "bezeichnung": "Sachsenbergstr. (Thermalbad Köln-Deutz)",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Deutz",
+    "anzahl": 5,
+    "bemerkung": "Sachsenbergstr. (Thermalbad Köln-Deutz)"
+   },
+   "geometry": {
+    "x": 6.9802338957090972,
+    "y": 50.951109940021638
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 323,
+    "bezeichnung": "Schillingstr./Riehler Str.",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Schillingstr./Riehler Str."
+   },
+   "geometry": {
+    "x": 6.9601227954354767,
+    "y": 50.95203199544634
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 324,
+    "bezeichnung": "Siegfriedstr. geg. Nr. 15",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 2,
+    "bemerkung": "Siegfriedstr. geg. Nr. 15"
+   },
+   "geometry": {
+    "x": 6.9627083081786241,
+    "y": 50.917543240787751
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 325,
+    "bezeichnung": "Spielmannsgasse",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd/Süd",
+    "anzahl": 2,
+    "bemerkung": "Spielmannsgasse"
+   },
+   "geometry": {
+    "x": 6.959253950064757,
+    "y": 50.92924705349715
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 326,
+    "bezeichnung": "St.-Apern-Str. 44-46",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "St.-Apern-Str. 44-46"
+   },
+   "geometry": {
+    "x": 6.9461777011023891,
+    "y": 50.940250307008853
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 327,
+    "bezeichnung": "Stolkgasse (Seniorenresidenz)",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Stolkgasse (Seniorenresidenz)"
+   },
+   "geometry": {
+    "x": 6.9538718664242243,
+    "y": 50.943245371346976
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 328,
+    "bezeichnung": "Sudermannplatz",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Nord",
+    "anzahl": 2,
+    "bemerkung": "Sudermannplatz"
+   },
+   "geometry": {
+    "x": 6.9551454707403852,
+    "y": 50.951250841998473
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 329,
+    "bezeichnung": "Tempelstr. 41/43",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Deutz",
+    "anzahl": 1,
+    "bemerkung": "Tempelstr."
+   },
+   "geometry": {
+    "x": 6.9731868073652929,
+    "y": 50.934902251031431
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 330,
+    "bezeichnung": "Teuteburger Str. 10",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Teuteburger Str. 10"
+   },
+   "geometry": {
+    "x": 6.9614643264267002,
+    "y": 50.918521991801825
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 331,
+    "bezeichnung": "Thieboldsgasse/Lungengasse",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 2,
+    "bemerkung": "Thieboldsgasse/Lungengasse"
+   },
+   "geometry": {
+    "x": 6.9476570008765268,
+    "y": 50.934831494681085
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 333,
+    "bezeichnung": "Weyerstr. 40-42",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 2,
+    "bemerkung": "Weyerstr. 40-42"
+   },
+   "geometry": {
+    "x": 6.9454428390178604,
+    "y": 50.93036287728733
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 334,
+    "bezeichnung": "Zeughausstr. (vor Stadtmuseum)",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 2,
+    "bemerkung": "Zeughausstr. (vor Stadtmuseum)"
+   },
+   "geometry": {
+    "x": 6.9500176231436832,
+    "y": 50.941410293223242
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 335,
+    "bezeichnung": "Zugweg",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 2,
+    "bemerkung": "Zugweg"
+   },
+   "geometry": {
+    "x": 6.956272953360477,
+    "y": 50.917279708971392
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 336,
+    "bezeichnung": "Mauritiussteinweg 3-5",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Mauritiussteinweg in Höhe Häusergrenze 3-5"
+   },
+   "geometry": {
+    "x": 6.9468521505776781,
+    "y": 50.930755566167953
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 337,
+    "bezeichnung": "Clarenbachstr. 180",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 2,
+    "bemerkung": "vor Clarenbachstr. 180 "
+   },
+   "geometry": {
+    "x": 6.9146885088435388,
+    "y": 50.935916961648886
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 338,
+    "bezeichnung": "Berlin-Kölnische-Allee",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Zollstock",
+    "anzahl": 1,
+    "bemerkung": "Berlin-Kölnische-Allee"
+   },
+   "geometry": {
+    "x": 6.9394165730122763,
+    "y": 50.917567007076414
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 339,
+    "bezeichnung": "Fronhofstr., Köln-Sürth",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Sürth",
+    "anzahl": 1,
+    "bemerkung": "Fronhofstr., Köln-Sürth"
+   },
+   "geometry": {
+    "x": 7.0075185375730342,
+    "y": 50.862006810081297
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 340,
+    "bezeichnung": "Gottesweg (hinter Einm. Willigisstr.)",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Zollstock",
+    "anzahl": 1,
+    "bemerkung": "Gottesweg (hinter Einm. Willigisstr.)"
+   },
+   "geometry": {
+    "x": 6.9424673135997264,
+    "y": 50.910726521081372
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 341,
+    "bezeichnung": "Gustav-Radbruch-Str.",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Rodenkirchen",
+    "anzahl": 2,
+    "bemerkung": "Gustav-Radbruch-Str."
+   },
+   "geometry": {
+    "x": 6.9954049692619851,
+    "y": 50.892486133154343
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 342,
+    "bezeichnung": "Kröverstr. 8",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Zollstock",
+    "anzahl": 1,
+    "bemerkung": "Kröverstr. 8"
+   },
+   "geometry": {
+    "x": 6.9397656041341502,
+    "y": 50.913218926106431
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 343,
+    "bezeichnung": "Oststr.",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Rodenkirchen",
+    "anzahl": 2,
+    "bemerkung": "Oststr."
+   },
+   "geometry": {
+    "x": 6.9959488214547045,
+    "y": 50.892628215050514
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 344,
+    "bezeichnung": "Oststr. (vor Einm. Barbarastr.)",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Rodenkirchen",
+    "anzahl": 1,
+    "bemerkung": "Oststr. (vor Einm. Barbarastr.)"
+   },
+   "geometry": {
+    "x": 6.9965937573746624,
+    "y": 50.893439262474566
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 345,
+    "bezeichnung": "Schanzenstr. (vor E-Werk)",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Mülheim",
+    "anzahl": 1,
+    "bemerkung": "Schanzenstr. (vor E-Werk)"
+   },
+   "geometry": {
+    "x": 7.0164146631322852,
+    "y": 50.969264367413018
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 346,
+    "bezeichnung": "Aachener Str., vor Oskar-Jäger-Str. (Melatenfriedhof)",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 2,
+    "bemerkung": "Aachener Str., vor Oskar-Jäger-Str. (Melatenfriedhof)"
+   },
+   "geometry": {
+    "x": 6.9137832393657037,
+    "y": 50.936976610988332
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 347,
+    "bezeichnung": "Am Sportpark Müngersdorf",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Müngersdorf",
+    "anzahl": 5,
+    "bemerkung": "ehemals Carl-Diem-Weg"
+   },
+   "geometry": {
+    "x": 6.8701864274245157,
+    "y": 50.934645589484688
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 348,
+    "bezeichnung": "Euskirchener Str./Blankenheimer Str.",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Sülz",
+    "anzahl": 1,
+    "bemerkung": "Euskirchener Str./Blankenheimer Str."
+   },
+   "geometry": {
+    "x": 6.9176617557222508,
+    "y": 50.918531895262184
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 349,
+    "bezeichnung": "Girlitzweg (S-Bahn Haltestelle)",
+    "nr_stadtbezirk": "4",
+    "stadtteil": "Vogelsang",
+    "anzahl": 1,
+    "bemerkung": "Girlitzweg (S-Bahn Haltestelle)"
+   },
+   "geometry": {
+    "x": 6.8875443444892896,
+    "y": 50.949152857083554
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 350,
+    "bezeichnung": "Kerpener Str./Universitätsstr.",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 2,
+    "bemerkung": "Kerpener Str./Universitätsstr."
+   },
+   "geometry": {
+    "x": 6.9287803307108264,
+    "y": 50.925478904012024
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 351,
+    "bezeichnung": "Kronstädter Str., gegenüb. 77-101",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Weiden",
+    "anzahl": 1,
+    "bemerkung": "Kronstädter Str., gegenüb. 77-101"
+   },
+   "geometry": {
+    "x": 6.841796542187474,
+    "y": 50.931230180899547
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 352,
+    "bezeichnung": "Landgrafenstr./Uhlandstr.",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Landgrafenstr./Uhlandstr."
+   },
+   "geometry": {
+    "x": 6.9109397109329089,
+    "y": 50.927536275421637
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 353,
+    "bezeichnung": "Oskar-Jäger-Str./Stolberger Str.",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Braunsfeld",
+    "anzahl": 1,
+    "bemerkung": "Oskar-Jäger-Str./Stolberger Str."
+   },
+   "geometry": {
+    "x": 6.9091609932905218,
+    "y": 50.941767955706496
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 354,
+    "bezeichnung": "Paul-Schällück-Str.",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Sülz",
+    "anzahl": 2,
+    "bemerkung": "Paul-Schällück-Str."
+   },
+   "geometry": {
+    "x": 6.9343149491632214,
+    "y": 50.921499742917142
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 355,
+    "bezeichnung": "Piusstr.,Eingang Melatenfriedhof",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 2,
+    "bemerkung": "Piusstr.,Eingang Melatenfriedhof"
+   },
+   "geometry": {
+    "x": 6.922242307567684,
+    "y": 50.939113767700889
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 356,
+    "bezeichnung": "Stolberger Str./Geilenkircher Str.",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Braunsfeld",
+    "anzahl": 2,
+    "bemerkung": "Stolberger Str./Geilenkircher Str."
+   },
+   "geometry": {
+    "x": 6.8958972931136042,
+    "y": 50.942039511967181
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 357,
+    "bezeichnung": "Sülzburgstr. (vor City-Bank)",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Sülz",
+    "anzahl": 1,
+    "bemerkung": "Sülzburgstr. (vor City-Bank)"
+   },
+   "geometry": {
+    "x": 6.9254306641664263,
+    "y": 50.916977455928098
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 358,
+    "bezeichnung": "Weishausstr./Luxemburger Str.",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Klettenberg",
+    "anzahl": 1,
+    "bemerkung": "Weishausstr./Luxemburger Str."
+   },
+   "geometry": {
+    "x": 6.9333155323744782,
+    "y": 50.920534958013064
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 359,
+    "bezeichnung": "Görlinger Zentrum, gegenüb. Nr.26",
+    "nr_stadtbezirk": "4",
+    "stadtteil": "Bocklemünd/Mengenich",
+    "anzahl": 1,
+    "bemerkung": "Görlinger Zentrum, gegenüb. Nr.26"
+   },
+   "geometry": {
+    "x": 6.8683879754043033,
+    "y": 50.979624327430265
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 360,
+    "bezeichnung": "Iltisstr.",
+    "nr_stadtbezirk": "4",
+    "stadtteil": "Neuehrenfeld",
+    "anzahl": 1,
+    "bemerkung": "Iltisstr. (vor Hausnummer 18)"
+   },
+   "geometry": {
+    "x": 6.9184637451048321,
+    "y": 50.95859082980062
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 361,
+    "bezeichnung": "Landmannstr./Försterstr.",
+    "nr_stadtbezirk": "4",
+    "stadtteil": "Neuehrenfeld",
+    "anzahl": 1,
+    "bemerkung": "Landmannstr./Försterstr."
+   },
+   "geometry": {
+    "x": 6.9193680016243029,
+    "y": 50.956880074595446
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 362,
+    "bezeichnung": "Stammstr., geg. Gaststätte \"Am Bahnhof\"",
+    "nr_stadtbezirk": "4",
+    "stadtteil": "Ehrenfeld",
+    "anzahl": 1,
+    "bemerkung": "Stammstr., geg. Gaststätte \"Am Bahnhof\""
+   },
+   "geometry": {
+    "x": 6.9192035548176847,
+    "y": 50.951452479532328
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 363,
+    "bezeichnung": "Subbelrather Str. geg. 260-262",
+    "nr_stadtbezirk": "4",
+    "stadtteil": "Ehrenfeld",
+    "anzahl": 2,
+    "bemerkung": "Subbelrather Str. geg. 260-262"
+   },
+   "geometry": {
+    "x": 6.9181999283850129,
+    "y": 50.954469791148114
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 364,
+    "bezeichnung": "Baudriplatz",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Nippes",
+    "anzahl": 2,
+    "bemerkung": "Baudriplatz"
+   },
+   "geometry": {
+    "x": 6.9515739570071089,
+    "y": 50.964392533310594
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 365,
+    "bezeichnung": "Lohsestr., geg. 1",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Nippes",
+    "anzahl": 1,
+    "bemerkung": "Lohsestr., geg. 1"
+   },
+   "geometry": {
+    "x": 6.9544562370591931,
+    "y": 50.959001101334024
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 366,
+    "bezeichnung": "Neusser Str./Gürtel vor Eingang U-Bahn",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Nippes",
+    "anzahl": 2,
+    "bemerkung": "Neusser Str./Gürtel vor Eingang U-Bahn"
+   },
+   "geometry": {
+    "x": 6.9511889291450686,
+    "y": 50.972952333590527
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 367,
+    "bezeichnung": "Riehler Gürtel (Nebeneingang Zoo)",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Riehl",
+    "anzahl": 3,
+    "bemerkung": "Riehler Gürtel (Nebeneingang Zoo)"
+   },
+   "geometry": {
+    "x": 6.9764736686954016,
+    "y": 50.963757277565186
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 368,
+    "bezeichnung": "Schillstr. geg. Nr. 1",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Nippes",
+    "anzahl": 1,
+    "bemerkung": "Schillstr. geg. Nr. 1"
+   },
+   "geometry": {
+    "x": 6.9528823341190211,
+    "y": 50.966624223203937
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 369,
+    "bezeichnung": "Siebachstr. 22b",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Nippes",
+    "anzahl": 1,
+    "bemerkung": "Siebachstr. 22b"
+   },
+   "geometry": {
+    "x": 6.9501374614472056,
+    "y": 50.959646225484676
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 370,
+    "bezeichnung": "Siebachstr. geg. Nr. 29-31",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Nippes",
+    "anzahl": 1,
+    "bemerkung": "Siebachstr. 29"
+   },
+   "geometry": {
+    "x": 6.9502173505441034,
+    "y": 50.959322465429132
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 371,
+    "bezeichnung": "Bruchstr.",
+    "nr_stadtbezirk": "6",
+    "stadtteil": "Roggendorf/Thenhoven",
+    "anzahl": 1,
+    "bemerkung": "P+R Bruchstr."
+   },
+   "geometry": {
+    "x": 6.8526060886839035,
+    "y": 51.051651458678528
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 372,
+    "bezeichnung": "Hermann-Pünder-Str.",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Deutz",
+    "anzahl": 1,
+    "bemerkung": "Hermann-Pünder-Str."
+   },
+   "geometry": {
+    "x": 6.9708653279448924,
+    "y": 50.939857955501992
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 373,
+    "bezeichnung": "Zülpicher Str.",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 2,
+    "bemerkung": "Zülpicher Str."
+   },
+   "geometry": {
+    "x": 6.9329249862290787,
+    "y": 50.927120414650759
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 374,
+    "bezeichnung": "Friedrichstr.",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Friedrichstr. 60"
+   },
+   "geometry": {
+    "x": 6.9414729116830607,
+    "y": 50.930779977302329
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 375,
+    "bezeichnung": "Rösrather Str. 603",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Rath/Heumar",
+    "anzahl": 2,
+    "bemerkung": "Parkplatz Bürgerzentrum Kalk"
+   },
+   "geometry": {
+    "x": 7.0845640111002002,
+    "y": 50.922443936915975
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 376,
+    "bezeichnung": "Aachener Str. 3",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 2,
+    "bemerkung": "Aachener Str. 3"
+   },
+   "geometry": {
+    "x": 6.9370597105678335,
+    "y": 50.936422322338615
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 377,
+    "bezeichnung": "Aachener Str. 8",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 2,
+    "bemerkung": "Aachener Str. 8"
+   },
+   "geometry": {
+    "x": 6.9380360071497371,
+    "y": 50.936499726569977
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 378,
+    "bezeichnung": "Aachener Str. 96",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Aachener Str. 96"
+   },
+   "geometry": {
+    "x": 6.929652066571836,
+    "y": 50.936868101095143
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 379,
+    "bezeichnung": "Albertusstr. 55",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Albertusstr. 55"
+   },
+   "geometry": {
+    "x": 6.9439448831455506,
+    "y": 50.940705114441862
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 380,
+    "bezeichnung": "An der Bottmühle",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 3,
+    "bemerkung": "An der Bottmühle 3"
+   },
+   "geometry": {
+    "x": 6.9630537811160949,
+    "y": 50.922275783023458
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 381,
+    "bezeichnung": "Auf dem Berlich 1",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Auf dem Berlich 1"
+   },
+   "geometry": {
+    "x": 6.9477234447494585,
+    "y": 50.939011512512451
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 382,
+    "bezeichnung": "Bernhard-Letterhaus-Straße 2-4",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Bernhard-Letterhaus-Str. 2"
+   },
+   "geometry": {
+    "x": 6.9514633396931185,
+    "y": 50.954915419616306
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 383,
+    "bezeichnung": "Boissereestr. 1",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Boissereestr. 1"
+   },
+   "geometry": {
+    "x": 6.9344724542659497,
+    "y": 50.931705645455587
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 384,
+    "bezeichnung": "Brabanter Str. 2",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Brabanter Str. 2"
+   },
+   "geometry": {
+    "x": 6.9375747735140463,
+    "y": 50.937024864544874
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 385,
+    "bezeichnung": "Brabanter Straße 23",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Brabanter Str. 23"
+   },
+   "geometry": {
+    "x": 6.9374276711295142,
+    "y": 50.938566633515642
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 386,
+    "bezeichnung": "Brückenstr. 19",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Brückenstr. 19"
+   },
+   "geometry": {
+    "x": 6.9545793669521991,
+    "y": 50.93815046345356
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 388,
+    "bezeichnung": "Haselnußweg geg. Zypressenstr.",
+    "nr_stadtbezirk": "6",
+    "stadtteil": "Heimersdorf",
+    "anzahl": 1,
+    "bemerkung": "Haselnußweg geg. Zypressenstr."
+   },
+   "geometry": {
+    "x": 6.9061250107577701,
+    "y": 51.011851366795433
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 389,
+    "bezeichnung": "Liverpooler Platz",
+    "nr_stadtbezirk": "6",
+    "stadtteil": "Chorweiler",
+    "anzahl": 8,
+    "bemerkung": "Liverpooler Platz"
+   },
+   "geometry": {
+    "x": 6.8982829752377306,
+    "y": 51.02171880229286
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 390,
+    "bezeichnung": "Taborplatz",
+    "nr_stadtbezirk": "6",
+    "stadtteil": "Heimersdorf",
+    "anzahl": 2,
+    "bemerkung": "Taborplatz"
+   },
+   "geometry": {
+    "x": 6.9050094728213143,
+    "y": 51.011163187131665
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 391,
+    "bezeichnung": "Volkhovener Weg in Höhe Damiansapotheke",
+    "nr_stadtbezirk": "6",
+    "stadtteil": "Heimersdorf",
+    "anzahl": 1,
+    "bemerkung": "Volkhovener Weg in Höhe Damiansapotheke"
+   },
+   "geometry": {
+    "x": 6.8960694314681072,
+    "y": 51.010149038696497
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 392,
+    "bezeichnung": "Volkhovener Weg/Stallagsweg",
+    "nr_stadtbezirk": "6",
+    "stadtteil": "Heimersdorf",
+    "anzahl": 2,
+    "bemerkung": "Volkhovener Weg/Stallagsweg"
+   },
+   "geometry": {
+    "x": 6.8954051232581843,
+    "y": 51.010802377818663
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 641,
+    "bezeichnung": "Salmstr. 7",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Poll",
+    "anzahl": 1,
+    "bemerkung": "Salmstr. (vor Hausnummer 7)"
+   },
+   "geometry": {
+    "x": 6.9920615678167239,
+    "y": 50.91526008135623
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 642,
+    "bezeichnung": "Josefstr. (Sanitätshaus)",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Porz",
+    "anzahl": 1,
+    "bemerkung": "Josefstr. 20"
+   },
+   "geometry": {
+    "x": 7.0580171800818814,
+    "y": 50.88588553317387
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 643,
+    "bezeichnung": "Weinsbergstr./Geisselstr.",
+    "nr_stadtbezirk": "4",
+    "stadtteil": "Ehrenfeld",
+    "anzahl": 1,
+    "bemerkung": "Weinsbergstr./Geisselstr. Rückseite Fleischhauer"
+   },
+   "geometry": {
+    "x": 6.9164269825306448,
+    "y": 50.943600780588866
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 961,
+    "bezeichnung": "Venloer Str. 308 ",
+    "nr_stadtbezirk": "4",
+    "stadtteil": "Ehrenfeld",
+    "anzahl": 1,
+    "bemerkung": "Venloer Str. 308 (Nähe Woolworth)"
+   },
+   "geometry": {
+    "x": 6.9188656591787874,
+    "y": 50.948975927255965
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 962,
+    "bezeichnung": "Kopischstr.",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Dellbrück",
+    "anzahl": 2,
+    "bemerkung": "Für Kita Berg.-Gladbacher-Str. 888a"
+   },
+   "geometry": {
+    "x": 7.0654668639084264,
+    "y": 50.9760917085163
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1281,
+    "bezeichnung": "Haydnstr. ",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Am Stadtwald/Haydnstr."
+   },
+   "geometry": {
+    "x": 6.8996533492421825,
+    "y": 50.927853484825562
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1297,
+    "bezeichnung": "Lindenthalgürtel/Evangelische Kirche",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Vor der evang. Kirche"
+   },
+   "geometry": {
+    "x": 6.9120894285487626,
+    "y": 50.923220824785687
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1298,
+    "bezeichnung": "An der Decksteiner Mühle",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Vor der evang. Kirche, An der Decksteiner Mühle"
+   },
+   "geometry": {
+    "x": 6.8983250210197404,
+    "y": 50.916217527883404
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1601,
+    "bezeichnung": "Tempelstr. 39",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Deutz",
+    "anzahl": 1,
+    "bemerkung": "Tempelstr."
+   },
+   "geometry": {
+    "x": 6.9732615917480931,
+    "y": 50.935052442864368
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1602,
+    "bezeichnung": "Tempelstr./Ecke Deutzer Freiheit",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Deutz",
+    "anzahl": 1,
+    "bemerkung": "Tempelstr."
+   },
+   "geometry": {
+    "x": 6.9733883613533774,
+    "y": 50.936668454905117
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1921,
+    "bezeichnung": "Hovenstr.",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Brück",
+    "anzahl": 1,
+    "bemerkung": "Hovenstr. vor Friedhof"
+   },
+   "geometry": {
+    "x": 7.0803566884163907,
+    "y": 50.94401901554636
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 2241,
+    "bezeichnung": "Bachemer Str.",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 2,
+    "bemerkung": "Bachemer Str. 29 (vor dem Krankenhaus)"
+   },
+   "geometry": {
+    "x": 6.9232511622102866,
+    "y": 50.930974016843948
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 2561,
+    "bezeichnung": "Severinsstr. 189",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Höhe Severinsstr. 189"
+   },
+   "geometry": {
+    "x": 6.9573501158879054,
+    "y": 50.928736514687458
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 2881,
+    "bezeichnung": "Mauenheimer Str. 92 ",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Nippes",
+    "anzahl": 1,
+    "bemerkung": "Mauenheimer Str. 92 vor Bürgerzentrum"
+   },
+   "geometry": {
+    "x": 6.9484371491195169,
+    "y": 50.96834253124608
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 2882,
+    "bezeichnung": "Lindenburger Allee 44",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Lindenburger Allee 44"
+   },
+   "geometry": {
+    "x": 6.9158109141152231,
+    "y": 50.926356767593724
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 2883,
+    "bezeichnung": "Gleueler Str. ",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Gleueler Str. vor Unireha"
+   },
+   "geometry": {
+    "x": 6.9162970358544467,
+    "y": 50.926447861627011
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 2884,
+    "bezeichnung": "Hansaring 15",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Hansaring 15"
+   },
+   "geometry": {
+    "x": 6.944489369904411,
+    "y": 50.946039772926731
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 2885,
+    "bezeichnung": "Richmodstr.",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Richmodstr. /Am Alten Posthof"
+   },
+   "geometry": {
+    "x": 6.9477092888756999,
+    "y": 50.937893186740332
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 2886,
+    "bezeichnung": "Nobelstr. 51",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Vingst",
+    "anzahl": 1,
+    "bemerkung": "Nobelstr. vor Supermarkt"
+   },
+   "geometry": {
+    "x": 7.0271463272479755,
+    "y": 50.932720291877558
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 2887,
+    "bezeichnung": "Venloer Str. 385",
+    "nr_stadtbezirk": "4",
+    "stadtteil": "Ehrenfeld",
+    "anzahl": 1,
+    "bemerkung": "Venloer Str. 385"
+   },
+   "geometry": {
+    "x": 6.9155824080007875,
+    "y": 50.950886213696627
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 3201,
+    "bezeichnung": "St.-Tönnisstr. 61",
+    "nr_stadtbezirk": "6",
+    "stadtteil": "Worringen",
+    "anzahl": 1,
+    "bemerkung": "St.-Tönnisstr. 61 (vor Apotheke)"
+   },
+   "geometry": {
+    "x": 6.8630332278726423,
+    "y": 51.063392038406214
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 3202,
+    "bezeichnung": "An den Kreutzmorgen 2",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Weidenpesch",
+    "anzahl": 1,
+    "bemerkung": "An den Kreuzmorgen (vor Orthopädiepraxis)"
+   },
+   "geometry": {
+    "x": 6.9460955358214473,
+    "y": 50.984727766143919
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 3203,
+    "bezeichnung": "Am Bahnhof",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Wahn",
+    "anzahl": 3,
+    "bemerkung": "Am Bahnhof Porz Wahn"
+   },
+   "geometry": {
+    "x": 7.0793249737611976,
+    "y": 50.859202174907487
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 3521,
+    "bezeichnung": "Hallenbad Chorweiler",
+    "nr_stadtbezirk": "6",
+    "stadtteil": "Chorweiler",
+    "anzahl": 2,
+    "bemerkung": "Hallenbad Chorweiler / Liller Str."
+   },
+   "geometry": {
+    "x": 6.8999518285134647,
+    "y": 51.022454036796404
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 3841,
+    "bezeichnung": "Dellbrücker Hauptstr. /Im Wieschen",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Dellbrück",
+    "anzahl": 1,
+    "bemerkung": "Vor Dellbrücker Hauptstr. 49"
+   },
+   "geometry": {
+    "x": 7.0749786034257998,
+    "y": 50.974288858628135
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 3842,
+    "bezeichnung": "Am Wildpark/Dünnwalder Mauspfad",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Dünnwald",
+    "anzahl": 2,
+    "bemerkung": "Parkplatz Dünnwalder Mauspfad/Am Wildpark"
+   },
+   "geometry": {
+    "x": 7.0464708321829219,
+    "y": 50.992929828037745
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 3843,
+    "bezeichnung": "Pohlmanstr. 13",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "504",
+    "anzahl": 1,
+    "bemerkung": "Vor Beratungsstelle Pohlmanstr.13"
+   },
+   "geometry": {
+    "x": 6.9675574052642402,
+    "y": 50.976389470273809
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 3844,
+    "bezeichnung": "Stolberger Str.",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Braunsfeld",
+    "anzahl": 1,
+    "bemerkung": "Vor Stolberger Str. 309"
+   },
+   "geometry": {
+    "x": 6.8938583236242499,
+    "y": 50.942103259844167
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 4161,
+    "bezeichnung": "Margaretastr. 8",
+    "nr_stadtbezirk": "4",
+    "stadtteil": "Ossendorf",
+    "anzahl": 1,
+    "bemerkung": "vor Margaretastr. 8"
+   },
+   "geometry": {
+    "x": 6.9066954751306264,
+    "y": 50.96769982778774
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 4162,
+    "bezeichnung": "St.-Martin-Str. 1",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Zündorf",
+    "anzahl": 1,
+    "bemerkung": "gegenüber St.-Martin-Str. Friedhof"
+   },
+   "geometry": {
+    "x": 7.0353124958213575,
+    "y": 50.863002007969854
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 4481,
+    "bezeichnung": "Berliner Str. 76",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Mülheim",
+    "anzahl": 1,
+    "bemerkung": "Berliner Str. vor Nr. 76"
+   },
+   "geometry": {
+    "x": 7.0110359770953758,
+    "y": 50.972269471820965
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 4801,
+    "bezeichnung": "Haselnußweg 39",
+    "nr_stadtbezirk": "6",
+    "stadtteil": "Heimersdorf",
+    "anzahl": 1,
+    "bemerkung": "Rückseite Aufbaugymnasium"
+   },
+   "geometry": {
+    "x": 6.9068424340528498,
+    "y": 51.010960772757514
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 4803,
+    "bezeichnung": "Urbanstr. /An St.Heribert",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Deutz",
+    "anzahl": 3,
+    "bemerkung": "Platzfläche An St.Heribert"
+   },
+   "geometry": {
+    "x": 6.9697378347607728,
+    "y": 50.937762271851106
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 5122,
+    "bezeichnung": "Weißenburgstr. 31",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Neustadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Weißenburgstr. 31"
+   },
+   "geometry": {
+    "x": 6.9582225808502809,
+    "y": 50.954146094992772
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 5458,
+    "bezeichnung": "Pfarrer-Oermann-Platz",
+    "nr_stadtbezirk": "7",
+    "stadtteil": "Eil",
+    "anzahl": 1,
+    "bemerkung": "Pfarrer-Oermann-Platz"
+   },
+   "geometry": {
+    "x": 7.0781154879684784,
+    "y": 50.893709220040044
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 5460,
+    "bezeichnung": "Escher Str. 160",
+    "nr_stadtbezirk": "5",
+    "stadtteil": "Bilderstöckchen",
+    "anzahl": 1,
+    "bemerkung": "Escher Str. 160"
+   },
+   "geometry": {
+    "x": 6.9344109892478079,
+    "y": 50.96422733862358
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 5461,
+    "bezeichnung": "Osloer Str. (Wendehammer)",
+    "nr_stadtbezirk": "6",
+    "stadtteil": "Chorweiler",
+    "anzahl": 1,
+    "bemerkung": "Osloer Str. 7"
+   },
+   "geometry": {
+    "x": 6.8985042833477594,
+    "y": 51.023173452866914
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 5463,
+    "bezeichnung": "Peter-Baum-Weg 24",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Mülheim",
+    "anzahl": 2,
+    "bemerkung": "Peter-Baum-Weg 24"
+   },
+   "geometry": {
+    "x": 7.0598663045804164,
+    "y": 50.994770897644507
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 5761,
+    "bezeichnung": "Ludwigstr. 8",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Ludwigstr. 8"
+   },
+   "geometry": {
+    "x": 6.9551412272602091,
+    "y": 50.938851979990282
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 6081,
+    "bezeichnung": "Sürther Hauptstr. 124",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Sürth",
+    "anzahl": 2,
+    "bemerkung": "vor der Kirche St. Remigius"
+   },
+   "geometry": {
+    "x": 7.0115938881844695,
+    "y": 50.864567832194702
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 6082,
+    "bezeichnung": "Große Sandkaul/Gürzenichstr.",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 2,
+    "bemerkung": "Große Sandkaul 18"
+   },
+   "geometry": {
+    "x": 6.9569344224370564,
+    "y": 50.936445762831795
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 6083,
+    "bezeichnung": "Schaevenstr. 4",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 1,
+    "bemerkung": "Schaevenstr. 6"
+   },
+   "geometry": {
+    "x": 6.9419030324038022,
+    "y": 50.933387950034643
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 6084,
+    "bezeichnung": "Brüderstr. 7",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 1,
+    "bemerkung": "Brüderstr. (Ecke Kreuzgasse)"
+   },
+   "geometry": {
+    "x": 6.9515612425262567,
+    "y": 50.93711667489206
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 6085,
+    "bezeichnung": "Brüderstr. 3",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Nord",
+    "anzahl": 2,
+    "bemerkung": "Brüderstr. 3"
+   },
+   "geometry": {
+    "x": 6.9520581007822519,
+    "y": 50.937117589604625
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 6086,
+    "bezeichnung": "Olpener Str. 61-63",
+    "nr_stadtbezirk": "8",
+    "stadtteil": "Höhenberg",
+    "anzahl": 1,
+    "bemerkung": "Olpener Str. 61"
+   },
+   "geometry": {
+    "x": 7.0224679080923682,
+    "y": 50.940350626921443
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 6087,
+    "bezeichnung": "Jakobstraße/Seitenfront Isabellenstr. 1",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Altstadt/Süd",
+    "anzahl": 2,
+    "bemerkung": "Jakobstraße 54"
+   },
+   "geometry": {
+    "x": 6.9562898531476964,
+    "y": 50.925399900774622
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 6407,
+    "bezeichnung": "Kierberger Str. 24",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Zollstock",
+    "anzahl": 1,
+    "bemerkung": "Kierberger Str. 24"
+   },
+   "geometry": {
+    "x": 6.9460439344999196,
+    "y": 50.910288264116254
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 6727,
+    "bezeichnung": "Friedhofsweg",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Am Eingang Friedhof Widdersdorf"
+   },
+   "geometry": {
+    "x": 6.8293477733983279,
+    "y": 50.964769735278757
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 6728,
+    "bezeichnung": "Gleueler Str. ",
+    "nr_stadtbezirk": "3",
+    "stadtteil": "Lindenthal",
+    "anzahl": 1,
+    "bemerkung": "Gleueler Str. vor Unireha"
+   },
+   "geometry": {
+    "x": 6.9161324541686673,
+    "y": 50.926326656378897
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 7128,
+    "bezeichnung": "Schanzenstr. (vor E-Werk)",
+    "nr_stadtbezirk": "9",
+    "stadtteil": "Mülheim",
+    "anzahl": 1,
+    "bemerkung": "Schanzenstr. (vor E-Werk)"
+   },
+   "geometry": {
+    "x": 7.0158542869740579,
+    "y": 50.969217975256221
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 7129,
+    "bezeichnung": "Höninger Platz 25",
+    "nr_stadtbezirk": "2",
+    "stadtteil": "Zollstock",
+    "anzahl": 1,
+    "bemerkung": "Höninger Platz 25"
+   },
+   "geometry": {
+    "x": 6.9440578213723017,
+    "y": 50.900590933895245
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 7528,
+    "bezeichnung": "Hermann-Pünder-Str.",
+    "nr_stadtbezirk": "1",
+    "stadtteil": "Deutz",
+    "anzahl": 2,
+    "bemerkung": "Hermann-Pünder-Str."
+   },
+   "geometry": {
+    "x": 6.9702849275189971,
+    "y": 50.939845485824918
+   }
+  }
+ ]
+}

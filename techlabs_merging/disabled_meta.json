@@ -1,0 +1,152 @@
+{
+ "currentVersion": 10.81,
+ "id": 0,
+ "name": "Behindertenparkplatz",
+ "type": "Feature Layer",
+ "description": "Behindertenparkplatz",
+ "geometryType": "esriGeometryPoint",
+ "sourceSpatialReference": {
+  "wkid": 25832,
+  "latestWkid": 25832
+ },
+ "copyrightText": "",
+ "parentLayer": null,
+ "subLayers": [],
+ "minScale": 0,
+ "maxScale": 0,
+ "drawingInfo": {
+  "renderer": {
+   "type": "simple",
+   "symbol": {
+    "type": "esriPMS",
+    "url": "d5922ec20921180fadf3d9ce81c7b575",
+    "imageData": "iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAA5tJREFUSInFlu9PW1UYxz/n3vaWIoIFM2ACgqNj2kXrMMM1Zos6l0VfLIq6V77UBKYmJsvkVRE0GPkDRuILX5lMNyQuJL4QFWYz45K6TJTVpGO4wTLIthZK1q739t7jizJoabuVH5nf5CY35zz3+Tzf+5xzcmw8YNn+N6CUUk5OR/D4vyd5LbIpyV/aWcfgJ4dwlTsRQogs4OR0hGZvN7hr8bQ2sKe+ckOwuViC4aE/qRweR4b7lseXgR8NjELr48gfjxaVcDIuaf7dgKjFoafsDO5QsYlVQX3tiB1+ur8cywUOB6fwv/lc0Q6aAzpcsQA4HdCpNjRuPa3mxHle3k7vYDAXCNBU80hRMMMCEjJrLLJoArnAXdUVTIRn8wPvp4ghafvH4lJSQoMNFg1IAFsEv3nyp3Jo2UWsCVgVNOAvEwTQoHCpvYRwXPKCS6Es11xeFQ0cuWVB2IRyQBFw08ICDj6qrKXm4oEHZixIAk4BSQkuhWpt9bLcRCAzJkjSTxyIW1R8lcgKke85NwaMpaA1ZPJKCRBLbwGSEkqXoOtQQWAgarH3Jx2ikjKfBubSRAIoBa9P48KCyZDbxutblPRWWS9wPkUaFpeMtDvYWSao/SMjIAEXwgbYBW+c1SEFqHB8t0ZH3b0XUV7gtosmRCU9Bxzsr1pK4Fbh7yWbErhxt6Er6jyv8+5jJblH3P2AkbABFXC0fqXa2G6N1ypMAjET1AwXdmAqBTclzEo+/deip6mwy/w9TEgoF5RmbOaHbfCrRyXz+JLAXFLyfongu4AOQG/IoKfJsUZguYAFScSQVNoL/5/xRYn35B18z2vwpAohE2YsBmasgr3MC3yrxc6pMzpHLlucaCl8ZnnHDTChb6tgrsrG4VC6x50TBh11aZdJ3cz6Ji/wxHaVU5MK35zRcSkax93Z0JQEezAFEyY8Y2efK+3mcIMCVy2Iy3xpCwNVAVMvajSN6gyM6gyMC6i3UesUXF80YdqEBaBFJdq6kuK8T2NXjcnQ1iIXzdTs/PJ7o1OgH3Tw+VWL7sspuJLiekqCQ0Ctyrf7bLxdk5342XKB9GZ7uDZ/Oz/Q466hdzDIsXd8POTUALAr4G9U8DdqBSu+l24ndH754SLHjuylf2QV8HTXqzR7u6nq/JqP9zyxLkCm7iRT9P8cghtRvvhgP/0frgJuq6/k3FgXbZ8NZ91BNiRXGefGurKGloF3742brbaTHfmBD0r/AU66PVxw2yvuAAAAAElFTkSuQmCC",
+    "contentType": "image/png",
+    "width": 21,
+    "height": 21,
+    "angle": 0,
+    "xoffset": 0,
+    "yoffset": 0
+   },
+   "label": "Behindertenparkplatz",
+   "description": ""
+  },
+  "transparency": 0,
+  "labelingInfo": null
+ },
+ "defaultVisibility": true,
+ "extent": {
+  "xmin": 347513.5270999996,
+  "ymin": 5635739.779100001,
+  "xmax": 366569.7511999998,
+  "ymax": 5659046.862500001,
+  "spatialReference": {
+   "wkid": 25832,
+   "latestWkid": 25832
+  }
+ },
+ "hasAttachments": false,
+ "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+ "displayField": "bezeichnung",
+ "typeIdField": null,
+ "subtypeFieldName": null,
+ "subtypeField": null,
+ "defaultSubtypeCode": null,
+ "fields": [
+  {
+   "name": "objectid",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID",
+   "domain": null
+  },
+  {
+   "name": "bezeichnung",
+   "type": "esriFieldTypeString",
+   "alias": "Bezeichnung",
+   "length": 100,
+   "domain": null
+  },
+  {
+   "name": "nr_stadtbezirk",
+   "type": "esriFieldTypeString",
+   "alias": "Stadtbezirk (Nr.)",
+   "length": 75,
+   "domain": null
+  },
+  {
+   "name": "stadtteil",
+   "type": "esriFieldTypeString",
+   "alias": "Stadtteil",
+   "length": 75,
+   "domain": null
+  },
+  {
+   "name": "anzahl",
+   "type": "esriFieldTypeInteger",
+   "alias": "Anzahl",
+   "domain": null
+  },
+  {
+   "name": "bemerkung",
+   "type": "esriFieldTypeString",
+   "alias": "Bemerkung",
+   "length": 254,
+   "domain": null
+  },
+  {
+   "name": "shape",
+   "type": "esriFieldTypeGeometry",
+   "alias": "Shape",
+   "domain": null
+  }
+ ],
+ "geometryField": {
+  "name": "shape",
+  "type": "esriFieldTypeGeometry",
+  "alias": "Shape"
+ },
+ "indexes": [
+  {
+   "name": "r56_sde_rowid_uk",
+   "fields": "objectid",
+   "isAscending": true,
+   "isUnique": true,
+   "description": ""
+  },
+  {
+   "name": "a45_ix1",
+   "fields": "shape",
+   "isAscending": true,
+   "isUnique": true,
+   "description": ""
+  }
+ ],
+ "subtypes": [],
+ "relationships": [],
+ "canModifyLayer": true,
+ "canScaleSymbols": false,
+ "hasLabels": false,
+ "capabilities": "Map,Query,Data",
+ "maxRecordCount": 1000,
+ "supportsStatistics": true,
+ "supportsAdvancedQueries": true,
+ "supportedQueryFormats": "JSON, geoJSON",
+ "isDataVersioned": false,
+ "ownershipBasedAccessControlForFeatures": {"allowOthersToQuery": true},
+ "useStandardizedQueries": true,
+ "advancedQueryCapabilities": {
+  "useStandardizedQueries": true,
+  "supportsStatistics": true,
+  "supportsHavingClause": true,
+  "supportsCountDistinct": true,
+  "supportsOrderBy": true,
+  "supportsDistinct": true,
+  "supportsPagination": true,
+  "supportsTrueCurve": true,
+  "supportsReturningQueryExtent": true,
+  "supportsQueryWithDistance": true,
+  "supportsSqlExpression": true
+ },
+ "supportsDatumTransformation": true,
+ "supportsCoordinatesQuantization": true
+}
