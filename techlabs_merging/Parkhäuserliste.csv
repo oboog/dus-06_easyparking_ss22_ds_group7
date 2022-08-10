@@ -1,0 +1,53 @@
+,identifier,parkhaus,kapazitaet,tendenz,x,y,type
+0,PH08,,-1,-1,6.9446990644397,50.944858434604,parking garage
+1,PH06,Maastrichter Straße,224,0,6.9379774159288,50.938607761777,parking garage
+2,PH07,Im Klapperhof,200,0,6.9441022354946,50.94208004413,parking garage
+3,PH10,Cäcilienstraße,339,0,6.9513660318013,50.934957685307,parking garage
+4,PH23,Lungengasse,191,0,6.9461361828018,50.934757900476,parking garage
+5,PH24,Wolfsstraße,315,0,6.9469644789811,50.937915083986,parking garage
+6,PH25,Bazaar de Cologne,136,0,6.9436098712696,50.937536974373,parking garage
+7,PH34,,-1,-1,7.0774615474986,50.948819109922,parking garage
+8,W_P08W,Stadion P8 PKW - nur bei Veranstaltungen geöffnet,-1,-1,6.8672853225813,50.923908142879,parking garage
+9,PH11,Galeria Kaufhof,860,0,6.9549356496049,50.935512139849,parking garage
+10,PH12,Hohe Straße,90,0,6.956969426138,50.938818322033,parking garage
+11,PH13,Schildergasse,298,0,6.9511556847312,50.935622642381,parking garage
+12,PH14,Theater-Parkhaus,340,0,6.9498329955019,50.937197867911,parking garage
+13,PH15,Opernpassagen,0,0,6.9522635846511,50.938733309515,parking garage
+14,PH16,Maritim,59,0,6.9621927836308,50.935596356231,parking garage
+15,PH17,Am Neumarkt,225,0,6.9473120749781,50.934765505168,parking garage
+16,PH18,Alte Wallgasse,176,0,6.9424662370438,50.939834944491,parking garage
+17,PH19,Gürzenich,187,0,6.9578148716144,50.936952558885,parking garage
+18,PH20,Galeria Karstadt ,362,0,6.9479966003791,50.938493006043,parking garage
+19,PH21,Kreissparkasse,160,0,6.9473746831007,50.937201409194,parking garage
+20,PH22,Heumarkt,200,0,6.9616086276332,50.936458695559,parking garage
+21,PH26,Quincy,348,0,6.9503004467856,50.939400441073,parking garage
+22,PH27,Sparkasse KölnBonn,-1,-1,6.9413430495362,50.93512012092,parking garage
+23,PH28,P+R Stadion,579,0,6.874751228488,50.937498145559,parking garage
+24,PH37-2,Rheinauhafen Bayenturm,60,-1,6.9639700487528,50.927293521788,parking garage
+25,PH37-3,Rheinauhafen Oberländer Wall,20,-1,6.9684058903415,50.921036162375,parking garage
+26,PH38,Rhein Triadem,261,0,6.9617373040871,50.944105491975,parking garage
+27,W_P001,Stadion P1 - nur bei Veranstaltungen geöffnet,600,0,6.8841564936308,50.939818411048,parking garage
+28,W_P003,Stadion P3  - nur bei Veranstaltungen geöffnet,937,0,6.869058667277,50.93892502667,parking garage
+29,W_P004,Stadion P4 - nur bei Veranstaltungen geöffnet,500,0,6.8733040228654,50.939225935799,parking garage
+30,W_P006,Stadion P6 - nur bei Veranstaltungen geöffnet,1000,0,6.8680070835227,50.927534449508,parking garage
+31,W_P007,Stadion P7 - nur bei Veranstaltungen geöffnet,1000,0,6.8683022070552,50.925815299455,parking garage
+32,W_P08o,Stadion P8 Bus - nur bei Veranstaltungen geöffnet,40,0,6.8688680063616,50.924121100435,parking garage
+33,D_P001,LANXESS arena 1,1640,0,6.9833329558643,50.938961932268,parking garage
+34,D_P002,LANXESS arena 2,119,0,6.9802124264528,50.938736483894,parking garage
+35,D_P003,,634,0,6.9835133222035,50.938070468774,parking garage
+36,D_P004,LANXESS arena 4,236,0,6.9851099157387,50.93889301039,parking garage
+37,D_P006,Köln Arcaden,1391,0,6.99758595913,50.938166761925,parking garage
+38,PH01,Hauptbahnhof,311,0,6.9600578052561,50.943542812224,parking garage
+39,PH02,Am Dom,365,0,6.9596401539269,50.940296956501,parking garage
+40,PH03,Groß Sankt Martin,101,0,6.9604378359559,50.939874386219,parking garage
+41,PH04,Brückenstraße,488,0,6.955146608644,50.937442399658,parking garage
+42,PH05,REWE,186,0,6.9566578451201,50.935551969417,parking garage
+43,PH09,Philharmonie,296,0,6.9614107915603,50.940454921949,parking garage
+44,PH29,Kaiser-Wilhelm-Ring,336,0,6.9418557264947,50.943669087684,parking garage
+45,PH30,Rudolfplatz,0,0,6.9382153635307,50.935998350898,parking garage
+46,PH31,An Farina,146,2,6.957707484662,50.938337727929,parking garage
+47,PH33,Mediapark,229,2,6.9445472822496,50.947637036798,parking garage
+48,PH35,Gerling Ring Karree,160,0,6.9408824061594,50.941262592717,parking garage
+49,PH36,P+R Marsdorf,610,0,6.8483183597997,50.916252642632,parking garage
+50,PH37-1,Rheinauhafen Museen,60,-1,6.9629598573074,50.931409990224,parking garage
+51,PH32,Zoo/Flora,-1,-1,6.9750651613406,50.957234672796,parking garage

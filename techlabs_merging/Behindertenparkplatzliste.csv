@@ -1,0 +1,426 @@
+,objectid,bezeichnung,nr_stadtbezirk,stadtteil,anzahl,bemerkung,x,y,type
+0,1,Am Schwanebitzer Hof,7,Urbach,1,Am Schwanebitzer Hof,7.080332599332128,50.88211573130589,disabled parking slot
+1,2,Dülkenstr. 18,7,Porz,2,Dülkenstr. 18,7.052518230108007,50.890362687931805,disabled parking slot
+2,3,Friedrich-Ebert-Ufer,7,Porz,1,Friedrich-Ebert-Ufer,7.054506954694829,50.88336896102042,disabled parking slot
+3,4,Gütergasse,7,Zündorf,1,Gütergasse,7.045459991034172,50.869548002182235,disabled parking slot
+4,5,Heidestr. (vor Raiffeisenbank),7,Wahn,1,Heidestr. (vor Raiffeisenbank),7.087442211035052,50.85766626582422,disabled parking slot
+5,6,Hirschgraben (Gut Leidenhausen),7,Eil,2,Hirschgraben (Gut Leidenhausen),7.088964936959022,50.89702893845402,disabled parking slot
+6,7,Hohestr. 20,7,Porz,1,Hohestr. 20,7.036468358546936,50.89641577462853,disabled parking slot
+7,8,Josefstr. 81,7,Porz,1,Josefstr. 81,7.056664432893572,50.88911313044775,disabled parking slot
+8,9,Josefstr. (Altenheim),7,Porz,1,Josefstr. 20,7.058013654588876,50.88614304224879,disabled parking slot
+9,10,Kaiserstr.,7,Urbach,1,Kaiserstr.,7.081585800256678,50.88133807963652,disabled parking slot
+10,11,"Rathausstr. (Wendehammer), Mo-.Fr. 7:00-18:00 Uhr",7,Porz,3,"Rathausstr. (Wendehammer), Mo-.Fr. 7:00-18:00 Uhr",7.0543450519237965,50.88572191636722,disabled parking slot
+11,12,Steinstr./Deutzer Weg,7,Porz,2,Steinstr./Deutzer Weg,7.056459235491844,50.89117848438152,disabled parking slot
+12,13,Urbacher Weg,7,Ensen,4,Urbacher Weg,7.052729992198761,50.89258211360342,disabled parking slot
+13,14,Am Gräfenhof,8,Brück,2,Am Gräfenhof,7.076005672996747,50.944451274847964,disabled parking slot
+14,15,Gottfried-Hagen-Str. (Wendehammer),8,Humboldt/Gremberg,2,Gottfried-Hagen-Str. (Wendehammer),7.0022605261322886,50.93125858125847,disabled parking slot
+15,16,Kalk-Mülheimer-Str. 2,8,Kalk,1,Kalk-Mülheimer-Str. 2,7.000509710303312,50.93796294431028,disabled parking slot
+16,17,Kalk-Mülheimer-Str. vor Bürgerhaus Kalk,8,Kalk,2,Kalk-Mülheimer-Str. vor Bürgerhaus Kalk,7.001345526528911,50.9399899044632,disabled parking slot
+17,18,Ottmar-Pohl-Platz,8,Kalk,5,Ottmar-Pohl-Platz,7.00377174002302,50.93529230383151,disabled parking slot
+18,19,Rösrather Str. 590 (Apotheke),8,Rath/Heumar,1,Rösrather Str. 590 (Apotheke),7.082907535755118,50.92182443513983,disabled parking slot
+19,20,Sieverstr./Kalkler Hauptstr.,8,Kalk,2,Sieverstr./Kalkler Hauptstr.,7.003201827427568,50.93774690294897,disabled parking slot
+20,21,Straßburger Platz (Mo.-Fr. 9:00-17:00 Uhr),8,Neubrück,2,Straßburger Platz (Mo.-Fr. 9:00-17:00 Uhr),7.059849503793649,50.93579345964549,disabled parking slot
+21,22,Theodorichstr./Gremberger Str.,8,Humboldt/Gremberg,1,Theodorichstr./Gremberger Str.,6.996784593958265,50.929927620500536,disabled parking slot
+22,23,Alte Wipperfürther Str. vor 18,9,Buchheim,1,Alte Wipperfürther Str. vor 18,7.01522980261127,50.9555287731563,disabled parking slot
+23,24,Bergisch Gladbacher Str./Dellbrücker Hauptstr.,9,Dellbrück,1,Bergisch Gladbacher Str./Dellbrücker Hauptstr.,7.070836988656946,50.97872005813321,disabled parking slot
+24,25,Bergisch Gladbacher Str. 589,9,Holweide,1,Bergisch Gladbacher Str. 589,7.046903556718126,50.970265271693,disabled parking slot
+25,26,Buchheimer Str.,9,Mülheim,4,Buchheimer Str.,7.002689669332826,50.96285279423113,disabled parking slot
+26,27,Höhenhauser Ring (Parkplatz),9,Stammheim,3,Höhenhauser Ring (Parkplatz),7.002966269502748,50.98983529405867,disabled parking slot
+27,28,"Holweider Str., Stichweg zu 4-8",9,Mülheim,3,"Holweider Str., Stichweg zu 4-8",7.010462710782756,50.96321554773492,disabled parking slot
+28,29,Im Weidenbruch,9,Höhenhaus,1,Im Weidenbruch,7.022342580791202,50.97983094173048,disabled parking slot
+29,30,Maria-Himmelfahrt-Str. vor Kirche,9,Holweide,1,Maria-Himmelfahrt-Str. vor Kirche,7.044952444671144,50.96895615514619,disabled parking slot
+30,31,"Montanusstr., Parkplatz vor Bhf.",9,Mülheim,1,"Montanusstr., Parkplatz vor Bhf.",7.011947802790457,50.957742417725974,disabled parking slot
+31,32,Parkplatz Jan-Wellem-Str.,9,Mülheim,2,Parkplatz Jan-Wellem-Str.,7.005029217016267,50.960518663597334,disabled parking slot
+32,33,Regentenstr./Keupstr.,9,Mülheim,1,Regentenstr./Keupstr.,7.003913442098674,50.967287917327745,disabled parking slot
+33,34,Ringenstr.,9,Holweide,1,Ringenstr.,7.037196857846201,50.96811781975734,disabled parking slot
+34,35,Steyler Str.,9,Holweide,4,Steyler Str.,7.036082188345012,50.966931547181574,disabled parking slot
+35,36,Ufer Str.,9,Mülheim,1,Ufer Str.,6.999985825562085,50.96643843873383,disabled parking slot
+36,37,Von-Werth-Str. 37,1,Altstadt/Nord,2,Von-Werth-Str. 37,6.944283975468343,50.94483900413422,disabled parking slot
+37,38,Lothringer Str.,1,Neustadt/Süd,1,Fortschreibung 01/2009,6.951179695956488,50.92327524719463,disabled parking slot
+38,39,Schillingsrotter Str. (P+R Parkplatz),2,Rodenkirchen,1,gegenüber der Klinik links am Rhein,6.9914623805572065,50.88908165920263,disabled parking slot
+39,40,P+R Parkplatz KVB-Haltestelle Schillingsrotter Str.,2,Rodenkirchen,1,Zugangsbereich KVB-Haltestelle,6.990687979593086,50.890369799287704,disabled parking slot
+40,41,Klettenberggürtel 11,3,Klettenberg,1,Klettenberggürtel,6.929226440035748,50.90946591906331,disabled parking slot
+41,42,Constantinstr. 98,1,Deutz,1,Constantinstr.,6.978952451721001,50.93849162592652,disabled parking slot
+42,43,Seidenstr. /Adamsstr.,9,Mülheim,1,Umwandlung persönlicher in allgemeinen BHP 7.08.09,7.004659596130713,50.96458326354006,disabled parking slot
+43,44,Gleueler Str.  (Höhe Hausnummer 70),3,Lindenthal,1,Nr. 7065/09 ausgeführt 14.07.2009,6.913892896053031,50.92452999761793,disabled parking slot
+44,45,Brücker Mauspfad 544,8,Brück,1,allgemeiner Behindertenparkplatz,7.0817606761062075,50.94481374253117,disabled parking slot
+45,46,Olpener Str. 526,8,Merheim,1,allgemeiner Behindertenparkplatz,7.051810893936145,50.943250724501425,disabled parking slot
+46,47,Olpener Str. 803,8,Brück,1,allgemeiner Behindertenparkplatz,7.075597380119181,50.94525828072596,disabled parking slot
+47,48,Olpener Str. 855,8,Brück,1,allgemeiner Behindertenparkplatz,7.0789951140387615,50.9455594270663,disabled parking slot
+48,49,Straßburger Platz (vor dem Kurbad),8,Neubrück,2,Straßburger Platz ,7.0602929771176735,50.93562001798706,disabled parking slot
+49,50,Cäcilienstr. 46,1,Altstadt/Süd,4,Cäcilienstr. 46,6.950376432122636,50.935494338797824,disabled parking slot
+50,51,Chlodwigplatz 7,1,Neustadt/Süd,1,Chlodwigplatz 7,6.95916806269068,50.921346189601664,disabled parking slot
+51,52,Dagobertstr. 32,1,Altstadt/Nord,1,Dagobertstr. 32,6.959828541212464,50.94834647224242,disabled parking slot
+52,53,Deutzer Freiheit Nr. 89,1,Deutz,1,Deutzer Freiheit 89,6.974780672602534,50.93683091861541,disabled parking slot
+53,54,"Deutzer-Kalker-Str. 2, Mo.-Fr.  8 - 19 h",1,Deutz,1,Deutzer-Kalker-Str. 2,6.978445491045443,50.93700279235145,disabled parking slot
+54,55,Sinziger Str. 6,2,Marienburg,1,Sinziger Str. 6,6.964466386353897,50.89781886634737,disabled parking slot
+55,56,Elisenstr. 3,1,Altstadt/Nord,1,Elisenstr. 3,6.949530766004764,50.940706981878044,disabled parking slot
+56,57,Fleischmengergasse 37,1,Altstadt/Süd,1,Fleischmengergasse 37,6.948708191890596,50.93428809664196,disabled parking slot
+57,58,Friedenstraße 14,1,Altstadt/Süd,1,Friedenstr. 14,6.953110111117534,50.92902777955925,disabled parking slot
+58,59,Theophanostraße 38,2,Zollstock,1,Theophanostr. 38,6.941123584850704,50.91222779905041,disabled parking slot
+59,60,Riehler Str. (gegenüber Zooparkhaus),5,Riehl,3,Riehler Str. (gegenüber Zooparkhaus),6.973665772896994,50.95771782149146,disabled parking slot
+60,61,Cäcilienkloster,1,Altstadt/Süd,1,Cäcilienkloster/Cäcilienstr.,6.952011041486576,50.9351122678595,disabled parking slot
+61,62,Vondelstr. 4,1,Neustadt/Süd,1,Vondelstr. 4 ,6.95521016369283,50.92061863184511,disabled parking slot
+62,63,Friesenwall 13 - 17,1,Neustadt/Nord,1,Friesenwall 13,6.940479413931846,50.937456334016034,disabled parking slot
+63,64,Georgplatz 17,1,Altstadt/Süd,1,Georgplatz 17,6.957631184491388,50.932049636797245,disabled parking slot
+64,65,Georgplatz 5,1,Altstadt/Süd,1,Georgplatz 5,6.957710738203029,50.931707938597924,disabled parking slot
+65,66,Gereonshof 11,1,Altstadt/Nord,1,Gereonshof 11,6.945447342190889,50.942697805444695,disabled parking slot
+66,67,Hansaring 48 - 50,1,Neustadt/Nord,1,Hansaring 48,6.949287008207184,50.94774859965017,disabled parking slot
+67,68,Hansaring 76,1,Neustadt/Nord,1,Hansaring 76,6.9534814107295215,50.949261974836624,disabled parking slot
+68,69,Helenenwallstr. 12,1,Deutz,1,Helenenwallstr. 12,6.975775188651949,50.93514473556846,disabled parking slot
+69,70,Herkulesstr. 42,1,Neuehrenfeld,1,Herkulesstr. 42,6.933587485377549,50.95236299848553,disabled parking slot
+70,71,Hohenzollernring 30,1,Neustadt/Nord,1,Hohenzollernring 30,6.939545487505723,50.93850877043466,disabled parking slot
+71,72,Im Ferkulum 35,1,Altstadt/Süd,1,Im Ferkulum 35,6.960066038348535,50.924146466448484,disabled parking slot
+72,73,Im Ferkulum 4,1,Altstadt/Süd,1,Im Ferkulum 4,6.959497528403415,50.9222915037504,disabled parking slot
+73,74,Im Klapperhof 39,1,Altstadt/Nord,1,Im Klapperhof 39,6.941654493088511,50.94165301231795,disabled parking slot
+74,75,Im Laach 18,1,Altstadt/Süd,1,Im Laach 18,6.945994338565866,50.9353666142307,disabled parking slot
+75,77,Jakobstr. 22,1,Altstadt/Süd,2,Jakobstr. 22,6.9571172817657105,50.92557248326981,disabled parking slot
+76,79,"Kaltenbornweg 2, Deutz",1,Deutz,2,Kaltenbornweg 2,6.978794457033516,50.926070812081264,disabled parking slot
+77,80,Kardinal-Frings-Straße 3,1,Altstadt/Nord,1,Kardinal-Frings-Str. 3,6.9516602129614835,50.944609940409336,disabled parking slot
+78,81,Kleiner Griechenmarkt 41 - 43,1,Neustadt/Süd,1,Kleiner Griechenmarkt 41,6.948519682233419,50.93190619752451,disabled parking slot
+79,82,Krebsgasse 5,1,Altstadt/Nord,2,Krebsgasse 5,6.95013836553266,50.938168178320005,disabled parking slot
+80,83,Kronengasse 7,1,Altstadt/Nord,1,Kronengasse 7,6.950224507932149,50.93603755043648,disabled parking slot
+81,84,Lindenstr. 60,1,Neustadt/Süd,1,Lindenstr. 60,6.934833014257356,50.93333768976022,disabled parking slot
+82,85,Lindenstr. 078,1,Neustadt/Süd,1,Lindenstr. 78,6.933783188291337,50.93277077946243,disabled parking slot
+83,86,Lübecker Str. 20,1,Neustadt/Nord,1,Lübecker Str. 20,6.954008477684445,50.95004747130872,disabled parking slot
+84,87,Lungengasse 11,1,Altstadt/Süd,3,Lungengasse 11,6.948570180177615,50.93487644146216,disabled parking slot
+85,88,Lupusstr. 24,1,Neustadt/Nord,1,Lupusstr. 24,6.958867418726991,50.953225767713725,disabled parking slot
+86,89,Luxemburger Str. 9,1,Neustadt/Süd,1,Luxemburger Str. 9,6.940859356384867,50.92841403403195,disabled parking slot
+87,90,Machabäerstr. 26a / AOK,1,Altstadt/Nord,2,Machabäerstr. 26a,6.958011784262177,50.946570623414544,disabled parking slot
+88,91,Machabäerstr. 59,1,Altstadt/Nord,1,Machabäerstr. 59,6.961104600962409,50.94629362413986,disabled parking slot
+89,92,Mainzer Straße 5,1,Neustadt/Süd,1,Mainzer Str. 5,6.963970938729622,50.92105986690695,disabled parking slot
+90,93,Marienplatz 8,1,Altstadt/Süd,1,Marienplatz 8,6.957739223483026,50.933975315222554,disabled parking slot
+91,94,Mauritiussteinweg 81/ 83,1,Altstadt/Süd,1,Mauritiussteinweg 81,6.944942353844889,50.9346334455259,disabled parking slot
+92,96,Reinoldstraße 13,1,Altstadt/Süd,1,Reinoldstr. 13,6.946110957290064,50.93308972793866,disabled parking slot
+93,97,Richartzstraße 6 - 8,1,Altstadt/Nord,1,Richartzstr. 6,6.955497271852163,50.939347509647526,disabled parking slot
+94,98,Rolandstr. 61,1,Neustadt/Süd,1,Rolandstr. 61,6.956841718564274,50.91888446002947,disabled parking slot
+95,99,Rolandstr. 74,1,Neustadt/Süd,1,Rolandstr. 74,6.956166794965182,50.919266838952275,disabled parking slot
+96,100,Rubensstr. 13,1,Altstadt/Süd,1,Rubensstr. 13,6.942982202534041,50.93404132833765,disabled parking slot
+97,101,"Schaafenstrasse, vor Haus-Nr. 7",1,Altstadt/Süd,1,Schaafenstr. 7,6.942614800095539,50.93491842680267,disabled parking slot
+98,103,Severinstr. 93,1,Altstadt/Süd,1,Severinstr. 93,6.958175890683945,50.925965650053435,disabled parking slot
+99,105,Severinstraße 7,1,Altstadt/Süd,1,Severinstr. 7,6.959208999424159,50.92227138852981,disabled parking slot
+100,106,Spichernstr. 2,1,Neustadt/Nord,1,Spichernstr. 2,6.935891718580931,50.94246470309722,disabled parking slot
+101,107,St.-Apern-Str. 10 - 12,1,Altstadt/Nord,1,St.-Apern-Str. 10,6.945382656944369,50.93914721667839,disabled parking slot
+102,108,Theodor-Heuss-Ring 62,1,Neustadt/Nord,1,Theodor-Heuss-Ring 62,6.9655182656985914,50.94992379043889,disabled parking slot
+103,109,Thürmchenswall 19,1,Altstadt/Nord,1,Thürmchenswall 19,6.959497181132281,50.94933803864443,disabled parking slot
+104,110,Trajanstraße 3,1,Neustadt/Süd,1,Ggü. Trajanstr. 3,6.965000193325624,50.91949461255921,disabled parking slot
+105,111,Trierer Str. 29,1,Neustadt/Süd,1,Trierer Str. 29,6.943201493702911,50.927687550299254,disabled parking slot
+106,112,Von-Sandt-Platz 9,1,Deutz,1,Von-Sandt-Platz 9,6.976806659215953,50.93883289715025,disabled parking slot
+107,113,Vorgebirgstr. 118-120,1,Altstadt/Nord,2,Vorgebirgstr. 118,6.945952119638672,50.91283758801762,disabled parking slot
+108,114,Zülpicher Platz 12,1,Neustadt/Süd,3,Zülpicher Platz 12,6.939723096884748,50.93072917480194,disabled parking slot
+109,115,Am Vorgebirgstor 9,2,Zollstock,1,Am Vorgebirgstor 9,6.94592952225102,50.91517112550474,disabled parking slot
+110,116,An der Fuhr 4,2,Meschenich,2,An der Fuhr 4,6.9262696088136755,50.86316826763829,disabled parking slot
+111,117,Bayenthalgürtel 34,2,Marienburg,1,Bayenthalgürtel 34,6.972195320593902,50.90495948129263,disabled parking slot
+112,118,Bernhard-Feilchenfeld-Str. 11,2,Zollstock,2,Bernhard-Feilchenfeld-Str. 11,6.94187853695844,50.91539503709211,disabled parking slot
+113,119,Bonner Str. 244,2,Bayenthal,1,Bonner Str. 244,6.963051639212304,50.9084572719327,disabled parking slot
+114,120,Brühler Str. 17/19,2,Raderberg,1,Brühler Str. 17,6.961269710816514,50.908949791935896,disabled parking slot
+115,121,Elisabeth-Selbert-Straße 32 - 34,2,Sürth,1,Elisabeth-Selbert-Str. 32,7.006945498047087,50.86693790191067,disabled parking slot
+116,122,Goltsteinstr. 69,2,Bayenthal,1,Goltsteinstr. 69,6.969365763929821,50.910201763258826,disabled parking slot
+117,123,Hauptstr. 41,2,Rodenkirchen,1,Hauptstr. 41,6.993505871212375,50.894385690522746,disabled parking slot
+118,124,Hauptstr. 85 (Parkpl./ Rathaus),2,Rodenkirchen,1,Hauptstr. 85,6.996756292030916,50.89227991532953,disabled parking slot
+119,125,Homburger Straße 16,2,Zollstock,1,Homburger Str. 16,6.947646329142604,50.913263691111936,disabled parking slot
+120,126,Höninger Platz 25,2,Zollstock,1,Höninger Platz 25,6.943845976723367,50.90079553752886,disabled parking slot
+121,127,Höninger Weg 123,2,Zollstock,1,Höninger Weg von 115 auf 123,6.941056996244072,50.914861555552676,disabled parking slot
+122,128,Höninger Weg 210,2,Zollstock,1,Höninger Weg 210,6.941227098835276,50.90975355081812,disabled parking slot
+123,129,Kierberger Str. 23,2,Zollstock,1,Kierberger Str. 23,6.946168220464095,50.90982388795837,disabled parking slot
+124,130,Koblenzer Str. 58,2,Bayenthal,1,Koblenzer Str. 58,6.965717098896038,50.913056848289465,disabled parking slot
+125,131,Marktstr. 61,2,Raderberg,1,Marktstr. 61,6.955008866141507,50.910800070151005,disabled parking slot
+126,132,Nibelungenweg/Schillingsrotter Str.,2,Rodenkirchen,1,Ersatz für Maternusplatz 10,6.993548557195156,50.891702744589324,disabled parking slot
+127,133,Wilhelmstr./Maternusstr.,1,Rodenkirchen,1,Ersatz für Maternusplatz ,6.992980718269036,50.892489668818605,disabled parking slot
+128,135,Raderthalgürtel 8-10,2,Raderthal,1,Raderthalgürtel 8,6.948744893992168,50.904323277001126,disabled parking slot
+129,136,Zollstocksweg 13,2,Zollstock,1,Zollstocksweg 13,6.941778520959368,50.90952230955258,disabled parking slot
+130,137,Hauptstraße (Zündorf) 358,7,Porz,1,Hauptstraße (Zündorf) 358,7.055611248035626,50.8810870713138,disabled parking slot
+131,138,Aachener Str. 217,3,Lindenthal,1,Aachener Str. 217,6.921580005704189,50.936443650125675,disabled parking slot
+132,139,Aachener Str. 445,3,Lindenthal,1,Aachener Str. 445,6.9049293098155,50.93694492925422,disabled parking slot
+133,140,Aachener Str. 451,3,Lindenthal,1,Aachener Str. 451,6.904053010278582,50.936835687775854,disabled parking slot
+134,141,Heidestr. 204,7,Wahnheide,1,Heidestr. 204,7.103601851882863,50.85898503741898,disabled parking slot
+135,142,Aachener Str. 455,3,Lindenthal,1,Aachener Str. 455,6.903220692322217,50.93695181471061,disabled parking slot
+136,143,Alter Militärring 18/20,3,Müngersdorf,2,Alter Militärring 18,6.881460399373555,50.93878032473612,disabled parking slot
+137,144,Karlstr. Höhe Haus Nr. 10,7,Porz,1,Karlstr. 10,7.056385610846497,50.88542421937258,disabled parking slot
+138,145,"Karlstr., Höhe 6 - 8",7,Porz,2,Karlstr. 6,7.0562309683981885,50.88542310240392,disabled parking slot
+139,146,Am Weidenpesch 21,3,Junkersdorf,2,Am Weidenpesch 21,6.856345440884057,50.93227374789586,disabled parking slot
+140,147,Bachemer Straße 201,3,Lindenthal,1,Bachemer Str. 201,6.909002782037006,50.925904717367715,disabled parking slot
+141,148,Emmastr. 21-23,3,Sülz,2,Emmastraße vor Haus Nr. 21 und Nr. 23,6.926875669171837,50.91692510073929,disabled parking slot
+142,149,Berrenrather Str. 230/232,3,Sülz,1,Berrenrather Str. 230,6.925748566357108,50.91879323526366,disabled parking slot
+143,150,Berrenrather Str. 280,3,Sülz,1,Berrenrather Str. 280,6.923658568641784,50.917113698255655,disabled parking slot
+144,151,Berrenrather Straße 210,3,Sülz,1,Berrenrather Str. 210,6.92647715925521,50.91937897932395,disabled parking slot
+145,152,Bunzlauer Str. 3,3,Weiden,1,Bunzlauer Str. 3,6.836979935603062,50.93762090669183,disabled parking slot
+146,153,Bunzlauer Straße 5,3,Weiden,2,Bunzlauer Str. 5,6.837259215750801,50.93713304604854,disabled parking slot
+147,154,Dürener Str. 92,3,Lindenthal,1,Dürener Str. 92,6.920486239557588,50.93212340592723,disabled parking slot
+148,155,Dürener Str. 102,3,Lindenthal,1,Dürener Str. 102,6.919799725055026,50.931890205454934,disabled parking slot
+149,156,Dürener Str. 164,3,Lindenthal,1,Dürener Str. 164,6.915442507989349,50.93037244185872,disabled parking slot
+150,157,Dürener Str. 339,3,Lindenthal,1,Dürener Str. 339,6.898145566804034,50.92602553992173,disabled parking slot
+151,158,Dürener Str. 350,3,Lindenthal,1,Dürener Str. 350,6.896298803543624,50.92546005148781,disabled parking slot
+152,159,Eupener Straße 135 - 137,3,Braunsfeld,1,Eupener Str. 135,6.889441456323707,50.94437257806301,disabled parking slot
+153,160,Euskirchener Straße 2,3,Sülz,1,Euskirchener Str. 2,6.919897264998377,50.91989109301292,disabled parking slot
+154,161,Franzstr. 16,3,Lindenthal,1,Franzstr. 16,6.9129292681291625,50.92515306863354,disabled parking slot
+155,162,Franzstr. 8 - 10,3,Lindenthal,1,Franzstr. 8,6.914435283434349,50.92573923935487,disabled parking slot
+156,163,Gerolsteiner Str. 101,3,Sülz,2,Gerolsteiner Str. 101,6.919205815470132,50.91865076671864,disabled parking slot
+157,164,Gleueler Str. 184,3,Lindenthal,1,Gleueler Str. 184,6.909121660900262,50.922418664953156,disabled parking slot
+158,165,Hans-Willy-Mertens-Straße 2,3,Weiden,1,Hans-Willy-Mertens-Str. 2,6.836747695430233,50.938779761209666,disabled parking slot
+159,166,Lindenthalgürtel 56,3,Lindenthal,1,Lindenthalgürtel 56,6.911899907104388,50.92438305953714,disabled parking slot
+160,167,"Luxemburger Str. 101, Landgericht/Amtsgericht",3,Sülz,2,Luxemburger Str. 101,6.935202770112281,50.92259843144304,disabled parking slot
+161,168,Luxemburger Str. 285c,3,Klettenberg,1,Luxemburger Str. 285c,6.926248682560138,50.914328290781256,disabled parking slot
+162,169,Robert-Koch-Straße 4,3,Lindenthal,1,Robert-Koch-Str. 4,6.923864065473155,50.9236589051516,disabled parking slot
+163,170,Rurstraße 11,3,Lindenthal,1,Rurstr. 11,6.915255177594041,50.922042213486506,disabled parking slot
+164,171,Scheffelstr. 23-31,3,Lindenthal,1,Scheffelstr. 23,6.908794675914755,50.924639198975136,disabled parking slot
+165,172,Sülzburgstr. 17,3,Sülz,1,Sülzburgstr. 17,6.926189382339046,50.91660437626489,disabled parking slot
+166,173,Sülzburgstr. 261,3,Lindenthal,1,Sülzburgstr. 261,6.91734067487574,50.92217329117901,disabled parking slot
+167,174,Sülzgürtel 16,3,Sülz,1,Sülzgürtel 16,6.922809143373098,50.913150912026595,disabled parking slot
+168,175,Sülzgürtel 42,3,Sülz,1,Sülzgürtel 42,6.919635195591305,50.915290643963196,disabled parking slot
+169,176,Vogelsanger Weg 4,3,Junkersdorf,1,Vogelsanger Weg 2,6.853568860063575,50.93298333182739,disabled parking slot
+170,177,Widdersdorfer Landstraße 10,3,Lövenich,2,Widdersdorfer Landstr. 10,6.829170416829055,50.948757707693424,disabled parking slot
+171,178,Zülpicher Straße 223,3,Sülz,2,Zülpicher Str. 223,6.92574724167031,50.923530864217746,disabled parking slot
+172,179,Fridolinstr. 39,4,Neuehrenfeld,1,Fridolinstr. 39,6.921611775908716,50.954273568726016,disabled parking slot
+173,180,Görlinger Zentrum 2 - 8,4,Bocklemünd/Mengenich,2,Görlinger-Zentrum 2,6.865248838460067,50.979660134194965,disabled parking slot
+174,181,Görlinger Zentrum 5,4,Bocklemünd/Mengenich,1,Görlinger-Zentrum 5,6.86582469491548,50.98027392917125,disabled parking slot
+175,182,Graeffstr. 1 - 5,4,Neuehrenfeld,1,Graeffstr. 1,6.933123411005948,50.95020548180116,disabled parking slot
+176,183,Kolkrabenweg 8 - 10,4,Vogelsang,4,"Kolkrabenweg 8, auf Parkplatz Kolkrabenweg",6.878377853900319,50.96453251328203,disabled parking slot
+177,184,Lenauplatz 5,4,Neuehrenfeld,1,Lenauplatz 5,6.919129853851614,50.9573888394789,disabled parking slot
+178,185,Maarweg 130,4,Ehrenfeld,2,Maarweg 130,6.898445296184124,50.94383410149819,disabled parking slot
+179,186,Mechternstr. 27/Barthelstraße,4,Ehrenfeld,1,Mechternstr. 27,6.919870147197536,50.944185734879284,disabled parking slot
+180,187,Ollenhauerring 41,4,Bocklemünd/Mengenich,1,Ollenhauerring 41,6.866757070597158,50.97919908358481,disabled parking slot
+181,188,Roßstr. 13,4,Neuehrenfeld,1,Roßstr. 13,6.921880825680476,50.944239417461944,disabled parking slot
+182,189,Subbelrather Str. 277,4,Ehrenfeld,1,Subbelrather Str. 277,6.91675264544144,50.95503684482887,disabled parking slot
+183,190,Venloer Str. 425 a - b,4,Ehrenfeld,3,Venloer Str. 425b,6.913100791015869,50.95248558832682,disabled parking slot
+184,191,Vogelsanger Str. 89,4,Ehrenfeld,1,Vogelsanger Str. 89,6.921142236449999,50.94536531957687,disabled parking slot
+185,192,An der Schanz 1,5,Riehl,1,An der Schanz 1,6.981768356961684,50.96175352500163,disabled parking slot
+186,193,Baudristr. 6,5,Nippes,1,Baudristr. 6,6.952982573387253,50.9643979533641,disabled parking slot
+187,194,Christinastr. 62/Wilhelmstraße,5,Nippes,1,Christinastr. 62,6.952719607587814,50.96301370229192,disabled parking slot
+188,195,Industriestr. 16,5,Niehl,1,Industriestr. 16,6.947866990178343,50.99905820954783,disabled parking slot
+189,197,Kapuzinerstr. 6,5,Weidenpesch,2,Kapuzinerstr. 6,6.945524345769189,50.983401948919116,disabled parking slot
+190,198,Neusser Str. 210,5,Nippes,1,Neusser Str. 210,6.954486857405971,50.96153668393502,disabled parking slot
+191,199,Neusser Str. 234,5,Nippes,3,Neusser Str. 234,6.9541860234520305,50.962825481751935,disabled parking slot
+192,201,Neusser Str. 284 - 286,5,Nippes,1,Neusser Str. 284,6.9537344632108065,50.96485772338542,disabled parking slot
+193,202,Neusser Str. 352,5,Nippes,1,Neusser Str. 352,6.953088572163378,50.96807955701712,disabled parking slot
+194,203,Neusser Str. 401,5,Nippes,1,Neusser Str. 401,6.952123540843119,50.97046761421802,disabled parking slot
+195,204,Neusser Str. 570/Derfflinger Straße,5,Weidenpesch,1,Neusser Str. 570,6.948219999171839,50.98046725292736,disabled parking slot
+196,205,Neusser Str. vor Haus-Nr. 460,5,Nippes,2,Neusser Str. 460,6.951738702033449,50.973311268157985,disabled parking slot
+197,206,Niehler Str. 308,5,Niehl,1,Niehler Str. 308,6.959980002852819,50.975417760431355,disabled parking slot
+198,207,Sechzigstr. 22b/Dormagener Straße,5,Nippes,1,Sechzigstr. 22b,6.947666125703501,50.95975894142388,disabled parking slot
+199,208,Stammheimer Str. 54,5,Riehl,1,Stammheimer Str. 54,6.974625242914762,50.96227442159879,disabled parking slot
+200,209,Viersener Str. 4,5,Nippes,1,Viersener Str. 4,6.953058081874593,50.96359432140714,disabled parking slot
+201,210,Viersener Str. 14/Auguststraße,5,Nippes,2,Viersener Str. 14,6.951841276233369,50.96342350936594,disabled parking slot
+202,211,Wilhelmstr. 56 - 58,5,Nippes,1,Wilhelmstr. 56,6.952965509566429,50.9628332014391,disabled parking slot
+203,212,Wilhelmstr. 59/Auguststraße,5,Nippes,1,Wilhelmstr. 59,6.952120510331567,50.96267638134292,disabled parking slot
+204,213,Yorckstr. 10,5,Nippes,1,Yorckstr. 10,6.9546552935658905,50.965208255651675,disabled parking slot
+205,214,Athener Ring 4 (Stadthaus Chorweiler),6,Chorweiler,5,"Athener Ring 4, Zufahrt über Salzburger Hof",6.89566322725755,51.02046983925605,disabled parking slot
+206,215,Florenzer Str. 82,6,Chorweiler,1,Florenzer Str. 82,6.894637198503658,51.02137243752059,disabled parking slot
+207,216,Ernst-Mühlendyck-Str. 1,7,Porz,1,Ernst-Mühlendyck-Str. 1,7.057689484415667,50.8825218153347,disabled parking slot
+208,217,Goethestr. Höhe Haus Nr. 17,7,Porz,1,"Goethestr. 17, Porz",7.060151664643983,50.88481356612173,disabled parking slot
+209,218,Guntherstr. 78,7,Wahnheide,1,"Guntherstr. 78, Wahnheide",7.100201352016062,50.85818736898513,disabled parking slot
+210,219,Hauptstr. 426 (Parkplatz Berufskolleg),7,Porz,1,Hauptstr. 426,7.0559588963788205,50.8864503047517,disabled parking slot
+211,220,Komödienstr. gegenüb. Andreaskloster,1,Altstadt/Nord,2,Komödienstr. gegenüb. Andreaskloster,6.955565366085189,50.94165139706498,disabled parking slot
+212,221,Kunibertskloster,1,Altstadt/Nord,2,"Kunibertskloster 11-13, Marien-Hospital",6.9626785547229755,50.9473337580901,disabled parking slot
+213,223,Lindenstr.,1,Neustadt/Süd,1,Lindenstr.,6.936258694870296,50.9339451874975,disabled parking slot
+214,224,Siegburger Str. 359 in Höhe Kölner Bank,7,Poll,1,Siegburger Str. 359,6.990595502114211,50.91663612550937,disabled parking slot
+215,225,Siegburger Str. 364,7,Poll,1,Siegburger Str. 364,6.9906897022919425,50.91645894586473,disabled parking slot
+216,226,Siegburger Str. 368,7,Poll,1,Siegburger Str. 368,6.991206893001001,50.916199949241495,disabled parking slot
+217,227,Stollwerckstraße 35,7,Westhoven,2,Stollwerckstr. 35,7.030171345949712,50.90683693161743,disabled parking slot
+218,228,Brücker Mauspfad 613,8,Brück,1,Brücker Mauspfad 613,7.079668147397037,50.94789199642626,disabled parking slot
+219,229,Buchforststr. gegenüber 1 - 15,8,Kalk,2,Buchforststr. 3,7.008782887752717,50.94113198689894,disabled parking slot
+220,231,Kalker Hauptstr. 64,8,Kalk,1,Kalker Hauptstr. 64,6.997380010187175,50.93731332222684,disabled parking slot
+221,232,Kalker Hauptstr. 166,8,Kalk,1,Kalker Hauptstr. 166,7.004726190495047,50.938148837905345,disabled parking slot
+222,233,Venloer Str. 247,4,Ehrenfeld,1,Venloer Str. 247,6.922941584310393,50.94718100194294,disabled parking slot
+223,234,Strundener Str.,9,Dellbrück,1,Strundener Str. 158,7.087645486686511,50.97135210491305,disabled parking slot
+224,235,Buchforststr. 14,8,Kalk,2,Buchforststr. 14 vor dem Ärztehaus,7.008604762471142,50.94217655779516,disabled parking slot
+225,236,Thurner Str. 105a,9,Dellbrück,1,Parkplatz für die evangelische Kirche,7.084579636486928,50.97357166206076,disabled parking slot
+226,237,Aachener Str. 555,3,Braunsfeld,1,Aachener Str. 555,6.896426792003855,50.93713027199098,disabled parking slot
+227,238,Nikolausstr. 132,3,Lindenthal,1,Nikolausstr. 132,6.923539257334717,50.91990687181077,disabled parking slot
+228,239,Kalker Hauptstr. 275,8,Kalk,1,Kalker Hauptstr. 275,7.0100353690632975,50.93925987786506,disabled parking slot
+229,240,Kalker Hauptstr. Höhe Hs. Nr. 82,8,Kalk,1,Kalker Hauptstr. 82,6.999645058307077,50.9375655042664,disabled parking slot
+230,241,Olpener Str. 160,8,Höhenberg,1,Olpener Str. 160,7.024444658262075,50.94024294384082,disabled parking slot
+231,243,Rolshover Str. 120,8,Humboldt/Gremberg,1,Rolshover Str. 120,7.000293207597984,50.93070856982086,disabled parking slot
+232,244,Rolshover Str. 4 - 6,8,Kalk,2,Rolshover Str. 4,7.0002366501999065,50.937300330517665,disabled parking slot
+233,245,Servatiusstr. 7,8,Ostheim,1,Servatiusstr. 7,7.0473070827027415,50.930919945369034,disabled parking slot
+234,246,Taunusstr. 2,8,Humboldt/Gremberg,1,Taunusstr. 2,6.9974243980426305,50.934871183738366,disabled parking slot
+235,247,An der Kemperwiese vor Haus Nr. 3,9,Dellbrück,2,An der Kemperwiese 3,7.074746341253666,50.975971474433734,disabled parking slot
+236,248,Augustastraße Höhe Haus Nr. 6,9,Mülheim,1,Augustastr. 6,7.008813778867965,50.957343369511506,disabled parking slot
+237,249,Bergisch Gladbacher Str. 700,9,Holweide,1,Bergisch Gladbacher Str. 700,7.053406350454285,50.97248476627651,disabled parking slot
+238,250,Bergisch Gladbacher Str. Höhe 599,9,Holweide,1,Bergisch Gladbacher Str. Höhe 599,7.047849312287132,50.970581180605436,disabled parking slot
+239,251,Berliner Str. vor Hs-Nr. 77 Selbsth.Teestube e.V.,9,Mülheim,1,Berliner Str. 77,7.0106869207508264,50.97239522794723,disabled parking slot
+240,252,Buchheimer Straße 53/59,9,Mülheim,2,Buchheimer Str. 53,7.003313355155697,50.962479937538035,disabled parking slot
+241,253,Dellbrücker Hauptstraße 170-172,9,Dellbrück,1,Dellbrücker Hauptstr. 170,7.069129092930512,50.98009776693323,disabled parking slot
+242,254,Dellbrücker Hauptstraße vor Haus 77,9,Dellbrück,1,Dellbrücker Hauptstr. 77,7.074006112640724,50.975200754303856,disabled parking slot
+243,255,Elisabeth-Breuer-Straße 10,9,Mülheim,2,Elisabeth-Breuer-Str. 10,7.00948725227442,50.96002715105654,disabled parking slot
+244,256,Elisabeth-Breuer-Straße 24,9,Mülheim,1,Elisabeth-Breuer-Str. 24,7.010002982657094,50.960458985960805,disabled parking slot
+245,257,Eulenbergstraße Höhe Haus Nr. 8,9,Mülheim,2,Eulenbergstr. 8,7.00658050978631,50.96166737372552,disabled parking slot
+246,258,Evergerstr. 27,9,Flittard,1,Evergerstr. 27,6.979725159085303,51.00119756853362,disabled parking slot
+247,259,Frankfurter Straße 89,9,Mülheim,1,Frankfurter Str. 89,7.01335034944811,50.95606885289695,disabled parking slot
+248,260,Frankfurter Straße Höhe Haus Nr. 30/32,9,Mülheim,1,Frankfurter Str. 30,7.0068843624037696,50.960505150671366,disabled parking slot
+249,261,Frankfurter Straße Höhe Haus Nr. 91,9,Buchheim,1,Frankfurter Str. 91,7.013391861984795,50.95604321136699,disabled parking slot
+250,262,Idastraße zwischen Haus Nr. 48-46,9,Dellbrück,2,Idastr. 48,7.07097695781154,50.97788815049937,disabled parking slot
+251,263,Jan-Wellem-Straße Höhe Haus Nr. 1,9,Mülheim,3,Jan-Wellem-Str. 1,7.00529204446489,50.96065093722768,disabled parking slot
+252,264,Lassallestraße 59,9,Mülheim,1,Lassallestr. 59,7.008021117708728,50.958490914152996,disabled parking slot
+253,265,Merkerhofstraße vor Haus Nr. 9,9,Mülheim,1,Merkerhofstr. 9,7.006493789941621,50.960025531980804,disabled parking slot
+254,266,Modemannstr.25,9,Buchheim,3,Modemannstr. 25,7.019152548469616,50.9508731009367,disabled parking slot
+255,267,Schweidnitzer Str.27,9,Dünnwald,1,Schweidnitzer Str. 27,7.032341699310471,50.99687133280762,disabled parking slot
+256,268,Agrippastr.,1,Altstadt/Süd,1,Agrippastr. 1,6.955898675430095,50.93345229422221,disabled parking slot
+257,269,"Alter Mühlenweg, gegü Kita",1,Deutz,2,"Alter Mühlenweg, gegü Kita",6.976187627411708,50.930482919730416,disabled parking slot
+258,270,An den Dominikanern,1,Altstadt/Nord,1,An den Dominikanern 2a,6.955152508125631,50.94262804884607,disabled parking slot
+259,271,An der Rechtschule,1,Altstadt/Nord,2,An der Rechtschule 2,6.955257784899429,50.94021643910644,disabled parking slot
+260,272,Auenweg/Eingang Rheinpark,1,Deutz,2,Auenweg/Eingang Rheinpark,6.9751191660459435,50.94601917407825,disabled parking slot
+261,273,Auf dem Berlich/Schwalbengasse,1,Altstadt/Nord,1,Auf dem Berlich 24,6.947832356180224,50.939949906034194,disabled parking slot
+262,274,Bischofsgartenstr. (Philharmonie),1,Altstadt/Nord,2,Bischofsgartenstr. (Philharmonie),6.961065264588418,50.9404146293692,disabled parking slot
+263,275,Blaubach,1,Altstadt/Süd,2,Blaubach,6.95698860934548,50.93312253710503,disabled parking slot
+264,276,Bolzengasse,1,Altstadt/Nord,1,Bolzengasse 5,6.959330520019123,50.93666685982531,disabled parking slot
+265,277,Breslauer Platz,1,Altstadt/Nord,2,Breslauer Platz gegenüber Hausnummer 4/HRS,6.959456944876919,50.94393425568947,disabled parking slot
+266,279,Rathausplatz,1,Altstadt/Nord,3,Rathausplatz,6.9587987517426955,50.93827024586179,disabled parking slot
+267,280,Kasinostr.,1,Altstadt/Süd,2,Kasinostr. 5,6.957204858944277,50.93479572619625,disabled parking slot
+268,281,Claudiusstr. (vor FH),1,Neustadt/Süd,1,Claudiusstr. (vor FH),6.966739802502753,50.91957037682057,disabled parking slot
+269,282,Constantinstr.,1,Deutz,1,Constantinstr. 94,6.9780202070229915,50.93904208650055,disabled parking slot
+270,283,Custodiusstr.,1,Deutz,2,Custodiusstr. 10,6.9799225191224705,50.932995835015106,disabled parking slot
+271,284,"Dagobertstr., vor Rewe",1,Altstadt/Nord,2,"Dagobertstr., vor Rewe",6.957003901862294,50.94848848485314,disabled parking slot
+272,285,Ehrenstr.,1,Altstadt/Nord,1,Ehrenstr.,6.9440201817736185,50.93848410688298,disabled parking slot
+273,287,Eifelwall,1,Neustadt/Süd,1,Eifelwall,6.939007874163688,50.92390241935393,disabled parking slot
+274,288,Fleischmengergasse/Lungengasse,1,Altstadt/Süd,3,Fleischmengergasse/Lungengasse,6.948849842133235,50.93504638903932,disabled parking slot
+275,289,Glockengasse (gegenüb. Oper),1,Altstadt/Nord,2,Glockengasse (gegenüb. Oper),6.952092949431495,50.93829707798462,disabled parking slot
+276,293,Händelstr./Richard-Wagner-Str.,1,Neustadt/Süd,2,Händelstr. 28,6.936765020852838,50.935192779824725,disabled parking slot
+277,294,Heinrichstr./Steinstr.,1,Altstadt/Süd,1,Heinrichstr. 50,6.951792644152936,50.927542710462085,disabled parking slot
+278,295,Hohenstauffenring/Jahnstr.,1,Neustadt/Süd,2,Hohenstauffenring 30,6.940768376018632,50.93142608898711,disabled parking slot
+279,296,Im Laach,1,Altstadt/Süd,1,Im Laach,6.945870988226515,50.93561801089768,disabled parking slot
+280,297,Innere Kanalstr. (Finanzamt),1,Neustadt/Nord,2,Innere Kanalstr. (Finanzamt),6.953194455926074,50.956201213546976,disabled parking slot
+281,298,Johannisstr. (vor dem Jarkordenhaus),1,Altstadt/Nord,1,Johannisstr. (vor dem Jarkordenhaus),6.9607774144537595,50.945301434045376,disabled parking slot
+282,299,Kamekestr./Werderstr.,1,Neustadt/Nord,1,Kamekestr./Werderstr.,6.937798442006518,50.942502177625315,disabled parking slot
+283,300,Kennedy-Ufer,1,Deutz,1,Kennedy-Ufer,6.968984014353977,50.93851405362469,disabled parking slot
+284,301,Lungengasse gegenüb. Sanitätshaus Stortz,1,Altstadt/Süd,1,Lungengasse gegenüb. Sanitätshaus Stortz,6.948661427543753,50.93492375228625,disabled parking slot
+285,302,Lützowstr.,1,Neustadt/Süd,2,Lützowstr.,6.9325830087290266,50.933088757436494,disabled parking slot
+286,303,Magnusstr./Hohenzollernring,1,Altstadt/Nord,2,Magnusstr./Hohenzollernring,6.940458528576186,50.94043152474493,disabled parking slot
+287,304,Markmannsgasse/Buttermarkt,1,Altstadt/Nord,3,Markmannsgasse/Buttermarkt,6.96238732026066,50.936638849390235,disabled parking slot
+288,305,Marsilstein,1,Altstadt/Süd,1,Marsilstein,6.944440145774572,50.935248150504414,disabled parking slot
+289,306,Martinstr./Obermarspforten,1,Altstadt/Nord,2,Martinstr. 39,6.9588012390665535,50.937429117628554,disabled parking slot
+290,307,Mauritiuskirchplatz,1,Altstadt/Süd,1,Mauritiuskirchplatz,6.943938484171209,50.93351993345807,disabled parking slot
+291,308,Maybachstr. (MediaPark Klinik),1,Neustadt/Nord,2,Maybachstr. (MediaPark Klinik),6.947855389746284,50.948284626286046,disabled parking slot
+292,309,Merowinger Str. 57,1,Neustadt/Süd,1,Merowinger Str. 57,6.955782798663124,50.92025922506983,disabled parking slot
+293,310,Merowinger Str. 5-7,1,Neustadt/Süd,1,Merowinger Str. 5-7,6.9586365397564,50.92084094855827,disabled parking slot
+294,311,Mittelstr./Apostelnkloster,1,Altstadt/Nord,2,Mittelstr./Apostelnkloster,6.943670733131287,50.9368714046297,disabled parking slot
+295,312,Moltkestr. 88,1,Neustadt/Nord,1,Moltkestr. 88,6.932782055639149,50.93970676480498,disabled parking slot
+296,313,Mörsergasse (gegenüb. WDR),1,Altstadt/Nord,1,Mörsergasse (gegenüb. WDR),6.951941383303822,50.93962718012496,disabled parking slot
+297,314,Neumarkt (Westseite Westfb.),1,Altstadt/Nord,2,Neumarkt (Westseite Westfb.),6.945986366678004,50.936234924573334,disabled parking slot
+298,315,Neusser Wall,1,Neustadt/Nord,1,Neusser Wall,6.958031710554072,50.955712899137346,disabled parking slot
+299,316,Neven-Du-Mont-Str.,1,Altstadt/Nord,1,Neven-Du-Mont-Str.,6.950680766124272,50.93921457408097,disabled parking slot
+300,317,Pastor-Könn-Platz (Neumarkt 24),1,Altstadt/Nord,2,Pastor-Könn-Platz (Neumarkt 24),6.945705121714728,50.936522968725335,disabled parking slot
+301,318,Prälat-Otto-Müller-Platz,1,Neustadt/Nord,1,Prälat-Otto-Müller-Platz,6.9537175669315765,50.95450339030863,disabled parking slot
+302,319,Reichenspergerplatz (vor Gericht),1,Neustadt/Nord,2,Reichenspergerplatz (vor Gericht),6.962889988951231,50.95445875302946,disabled parking slot
+303,320,Reischplatz/Deutzer Freiheit,1,Deutz,1,Reischplatz/Deutzer Freiheit,6.97652381418134,50.936778370282816,disabled parking slot
+304,321,Sachsenbergstr. (Thermalbad Köln-Deutz),1,Deutz,5,Sachsenbergstr. (Thermalbad Köln-Deutz),6.980233895709097,50.95110994002164,disabled parking slot
+305,323,Schillingstr./Riehler Str.,1,Neustadt/Nord,1,Schillingstr./Riehler Str.,6.960122795435477,50.95203199544634,disabled parking slot
+306,324,Siegfriedstr. geg. Nr. 15,1,Neustadt/Süd,2,Siegfriedstr. geg. Nr. 15,6.962708308178624,50.91754324078775,disabled parking slot
+307,325,Spielmannsgasse,1,Altstadt/Süd/Süd,2,Spielmannsgasse,6.959253950064757,50.92924705349715,disabled parking slot
+308,326,St.-Apern-Str. 44-46,1,Altstadt/Nord,1,St.-Apern-Str. 44-46,6.946177701102389,50.94025030700885,disabled parking slot
+309,327,Stolkgasse (Seniorenresidenz),1,Altstadt/Nord,1,Stolkgasse (Seniorenresidenz),6.953871866424224,50.943245371346976,disabled parking slot
+310,328,Sudermannplatz,1,Neustadt/Nord,2,Sudermannplatz,6.955145470740385,50.95125084199847,disabled parking slot
+311,329,Tempelstr. 41/43,1,Deutz,1,Tempelstr.,6.973186807365293,50.93490225103143,disabled parking slot
+312,330,Teuteburger Str. 10,1,Neustadt/Süd,1,Teuteburger Str. 10,6.9614643264267,50.918521991801825,disabled parking slot
+313,331,Thieboldsgasse/Lungengasse,1,Altstadt/Süd,2,Thieboldsgasse/Lungengasse,6.947657000876527,50.934831494681085,disabled parking slot
+314,333,Weyerstr. 40-42,1,Altstadt/Süd,2,Weyerstr. 40-42,6.94544283901786,50.93036287728733,disabled parking slot
+315,334,Zeughausstr. (vor Stadtmuseum),1,Altstadt/Nord,2,Zeughausstr. (vor Stadtmuseum),6.950017623143683,50.94141029322324,disabled parking slot
+316,335,Zugweg,1,Neustadt/Süd,2,Zugweg,6.956272953360477,50.91727970897139,disabled parking slot
+317,336,Mauritiussteinweg 3-5,1,Altstadt/Süd,1,Mauritiussteinweg in Höhe Häusergrenze 3-5,6.946852150577678,50.93075556616795,disabled parking slot
+318,337,Clarenbachstr. 180,3,Lindenthal,2,vor Clarenbachstr. 180 ,6.914688508843539,50.935916961648886,disabled parking slot
+319,338,Berlin-Kölnische-Allee,2,Zollstock,1,Berlin-Kölnische-Allee,6.939416573012276,50.917567007076414,disabled parking slot
+320,339,"Fronhofstr., Köln-Sürth",2,Sürth,1,"Fronhofstr., Köln-Sürth",7.007518537573034,50.8620068100813,disabled parking slot
+321,340,Gottesweg (hinter Einm. Willigisstr.),2,Zollstock,1,Gottesweg (hinter Einm. Willigisstr.),6.942467313599726,50.91072652108137,disabled parking slot
+322,341,Gustav-Radbruch-Str.,2,Rodenkirchen,2,Gustav-Radbruch-Str.,6.995404969261985,50.89248613315434,disabled parking slot
+323,342,Kröverstr. 8,2,Zollstock,1,Kröverstr. 8,6.93976560413415,50.91321892610643,disabled parking slot
+324,343,Oststr.,2,Rodenkirchen,2,Oststr.,6.9959488214547045,50.892628215050514,disabled parking slot
+325,344,Oststr. (vor Einm. Barbarastr.),2,Rodenkirchen,1,Oststr. (vor Einm. Barbarastr.),6.996593757374662,50.893439262474566,disabled parking slot
+326,345,Schanzenstr. (vor E-Werk),9,Mülheim,1,Schanzenstr. (vor E-Werk),7.016414663132285,50.96926436741302,disabled parking slot
+327,346,"Aachener Str., vor Oskar-Jäger-Str. (Melatenfriedhof)",3,Lindenthal,2,"Aachener Str., vor Oskar-Jäger-Str. (Melatenfriedhof)",6.913783239365704,50.93697661098833,disabled parking slot
+328,347,Am Sportpark Müngersdorf,3,Müngersdorf,5,ehemals Carl-Diem-Weg,6.870186427424516,50.93464558948469,disabled parking slot
+329,348,Euskirchener Str./Blankenheimer Str.,3,Sülz,1,Euskirchener Str./Blankenheimer Str.,6.917661755722251,50.918531895262184,disabled parking slot
+330,349,Girlitzweg (S-Bahn Haltestelle),4,Vogelsang,1,Girlitzweg (S-Bahn Haltestelle),6.88754434448929,50.949152857083554,disabled parking slot
+331,350,Kerpener Str./Universitätsstr.,3,Lindenthal,2,Kerpener Str./Universitätsstr.,6.928780330710826,50.925478904012024,disabled parking slot
+332,351,"Kronstädter Str., gegenüb. 77-101",3,Weiden,1,"Kronstädter Str., gegenüb. 77-101",6.841796542187474,50.93123018089955,disabled parking slot
+333,352,Landgrafenstr./Uhlandstr.,3,Lindenthal,1,Landgrafenstr./Uhlandstr.,6.910939710932909,50.92753627542164,disabled parking slot
+334,353,Oskar-Jäger-Str./Stolberger Str.,3,Braunsfeld,1,Oskar-Jäger-Str./Stolberger Str.,6.909160993290522,50.941767955706496,disabled parking slot
+335,354,Paul-Schällück-Str.,3,Sülz,2,Paul-Schällück-Str.,6.934314949163221,50.92149974291714,disabled parking slot
+336,355,"Piusstr.,Eingang Melatenfriedhof",3,Lindenthal,2,"Piusstr.,Eingang Melatenfriedhof",6.922242307567684,50.93911376770089,disabled parking slot
+337,356,Stolberger Str./Geilenkircher Str.,3,Braunsfeld,2,Stolberger Str./Geilenkircher Str.,6.895897293113604,50.94203951196718,disabled parking slot
+338,357,Sülzburgstr. (vor City-Bank),3,Sülz,1,Sülzburgstr. (vor City-Bank),6.925430664166426,50.9169774559281,disabled parking slot
+339,358,Weishausstr./Luxemburger Str.,3,Klettenberg,1,Weishausstr./Luxemburger Str.,6.933315532374478,50.920534958013064,disabled parking slot
+340,359,"Görlinger Zentrum, gegenüb. Nr.26",4,Bocklemünd/Mengenich,1,"Görlinger Zentrum, gegenüb. Nr.26",6.868387975404303,50.979624327430265,disabled parking slot
+341,360,Iltisstr.,4,Neuehrenfeld,1,Iltisstr. (vor Hausnummer 18),6.918463745104832,50.95859082980062,disabled parking slot
+342,361,Landmannstr./Försterstr.,4,Neuehrenfeld,1,Landmannstr./Försterstr.,6.919368001624303,50.956880074595446,disabled parking slot
+343,362,"Stammstr., geg. Gaststätte ""Am Bahnhof""",4,Ehrenfeld,1,"Stammstr., geg. Gaststätte ""Am Bahnhof""",6.919203554817685,50.95145247953233,disabled parking slot
+344,363,Subbelrather Str. geg. 260-262,4,Ehrenfeld,2,Subbelrather Str. geg. 260-262,6.918199928385013,50.954469791148114,disabled parking slot
+345,364,Baudriplatz,5,Nippes,2,Baudriplatz,6.951573957007109,50.964392533310594,disabled parking slot
+346,365,"Lohsestr., geg. 1",5,Nippes,1,"Lohsestr., geg. 1",6.954456237059193,50.959001101334024,disabled parking slot
+347,366,Neusser Str./Gürtel vor Eingang U-Bahn,5,Nippes,2,Neusser Str./Gürtel vor Eingang U-Bahn,6.951188929145069,50.97295233359053,disabled parking slot
+348,367,Riehler Gürtel (Nebeneingang Zoo),5,Riehl,3,Riehler Gürtel (Nebeneingang Zoo),6.976473668695402,50.963757277565186,disabled parking slot
+349,368,Schillstr. geg. Nr. 1,5,Nippes,1,Schillstr. geg. Nr. 1,6.952882334119021,50.96662422320394,disabled parking slot
+350,369,Siebachstr. 22b,5,Nippes,1,Siebachstr. 22b,6.950137461447206,50.959646225484676,disabled parking slot
+351,370,Siebachstr. geg. Nr. 29-31,5,Nippes,1,Siebachstr. 29,6.950217350544103,50.95932246542913,disabled parking slot
+352,371,Bruchstr.,6,Roggendorf/Thenhoven,1,P+R Bruchstr.,6.8526060886839035,51.05165145867853,disabled parking slot
+353,372,Hermann-Pünder-Str.,1,Deutz,1,Hermann-Pünder-Str.,6.970865327944892,50.93985795550199,disabled parking slot
+354,373,Zülpicher Str.,3,Lindenthal,2,Zülpicher Str.,6.932924986229079,50.92712041465076,disabled parking slot
+355,374,Friedrichstr.,1,Neustadt/Süd,1,Friedrichstr. 60,6.941472911683061,50.93077997730233,disabled parking slot
+356,375,Rösrather Str. 603,8,Rath/Heumar,2,Parkplatz Bürgerzentrum Kalk,7.0845640111002,50.922443936915975,disabled parking slot
+357,376,Aachener Str. 3,1,Neustadt/Süd,2,Aachener Str. 3,6.9370597105678335,50.936422322338615,disabled parking slot
+358,377,Aachener Str. 8,1,Neustadt/Süd,2,Aachener Str. 8,6.938036007149737,50.93649972656998,disabled parking slot
+359,378,Aachener Str. 96,1,Lindenthal,1,Aachener Str. 96,6.929652066571836,50.93686810109514,disabled parking slot
+360,379,Albertusstr. 55,1,Altstadt/Nord,1,Albertusstr. 55,6.943944883145551,50.94070511444186,disabled parking slot
+361,380,An der Bottmühle,1,Altstadt/Süd,3,An der Bottmühle 3,6.963053781116095,50.92227578302346,disabled parking slot
+362,381,Auf dem Berlich 1,1,Altstadt/Nord,1,Auf dem Berlich 1,6.9477234447494585,50.93901151251245,disabled parking slot
+363,382,Bernhard-Letterhaus-Straße 2-4,1,Neustadt/Nord,1,Bernhard-Letterhaus-Str. 2,6.9514633396931185,50.954915419616306,disabled parking slot
+364,383,Boissereestr. 1,1,Neustadt/Süd,1,Boissereestr. 1,6.93447245426595,50.93170564545559,disabled parking slot
+365,384,Brabanter Str. 2,1,Neustadt/Nord,1,Brabanter Str. 2,6.937574773514046,50.937024864544874,disabled parking slot
+366,385,Brabanter Straße 23,1,Neustadt/Nord,1,Brabanter Str. 23,6.937427671129514,50.93856663351564,disabled parking slot
+367,386,Brückenstr. 19,1,Altstadt/Nord,1,Brückenstr. 19,6.954579366952199,50.93815046345356,disabled parking slot
+368,388,Haselnußweg geg. Zypressenstr.,6,Heimersdorf,1,Haselnußweg geg. Zypressenstr.,6.90612501075777,51.01185136679543,disabled parking slot
+369,389,Liverpooler Platz,6,Chorweiler,8,Liverpooler Platz,6.898282975237731,51.02171880229286,disabled parking slot
+370,390,Taborplatz,6,Heimersdorf,2,Taborplatz,6.905009472821314,51.011163187131665,disabled parking slot
+371,391,Volkhovener Weg in Höhe Damiansapotheke,6,Heimersdorf,1,Volkhovener Weg in Höhe Damiansapotheke,6.896069431468107,51.0101490386965,disabled parking slot
+372,392,Volkhovener Weg/Stallagsweg,6,Heimersdorf,2,Volkhovener Weg/Stallagsweg,6.895405123258184,51.01080237781866,disabled parking slot
+373,641,Salmstr. 7,7,Poll,1,Salmstr. (vor Hausnummer 7),6.992061567816724,50.91526008135623,disabled parking slot
+374,642,Josefstr. (Sanitätshaus),7,Porz,1,Josefstr. 20,7.058017180081881,50.88588553317387,disabled parking slot
+375,643,Weinsbergstr./Geisselstr.,4,Ehrenfeld,1,Weinsbergstr./Geisselstr. Rückseite Fleischhauer,6.916426982530645,50.943600780588866,disabled parking slot
+376,961,Venloer Str. 308 ,4,Ehrenfeld,1,Venloer Str. 308 (Nähe Woolworth),6.918865659178787,50.948975927255965,disabled parking slot
+377,962,Kopischstr.,9,Dellbrück,2,Für Kita Berg.-Gladbacher-Str. 888a,7.065466863908426,50.9760917085163,disabled parking slot
+378,1281,Haydnstr. ,3,Lindenthal,1,Am Stadtwald/Haydnstr.,6.8996533492421825,50.92785348482556,disabled parking slot
+379,1297,Lindenthalgürtel/Evangelische Kirche,3,Lindenthal,1,Vor der evang. Kirche,6.912089428548763,50.92322082478569,disabled parking slot
+380,1298,An der Decksteiner Mühle,3,Lindenthal,1,"Vor der evang. Kirche, An der Decksteiner Mühle",6.89832502101974,50.916217527883404,disabled parking slot
+381,1601,Tempelstr. 39,1,Deutz,1,Tempelstr.,6.973261591748093,50.93505244286437,disabled parking slot
+382,1602,Tempelstr./Ecke Deutzer Freiheit,1,Deutz,1,Tempelstr.,6.973388361353377,50.93666845490512,disabled parking slot
+383,1921,Hovenstr.,8,Brück,1,Hovenstr. vor Friedhof,7.080356688416391,50.94401901554636,disabled parking slot
+384,2241,Bachemer Str.,3,Lindenthal,2,Bachemer Str. 29 (vor dem Krankenhaus),6.923251162210287,50.93097401684395,disabled parking slot
+385,2561,Severinsstr. 189,1,Altstadt/Süd,1,Höhe Severinsstr. 189,6.957350115887905,50.92873651468746,disabled parking slot
+386,2881,Mauenheimer Str. 92 ,5,Nippes,1,Mauenheimer Str. 92 vor Bürgerzentrum,6.948437149119517,50.96834253124608,disabled parking slot
+387,2882,Lindenburger Allee 44,3,Lindenthal,1,Lindenburger Allee 44,6.915810914115223,50.926356767593724,disabled parking slot
+388,2883,Gleueler Str. ,3,Lindenthal,1,Gleueler Str. vor Unireha,6.916297035854447,50.92644786162701,disabled parking slot
+389,2884,Hansaring 15,1,Neustadt/Nord,1,Hansaring 15,6.944489369904411,50.94603977292673,disabled parking slot
+390,2885,Richmodstr.,1,Altstadt/Nord,1,Richmodstr. /Am Alten Posthof,6.9477092888757,50.93789318674033,disabled parking slot
+391,2886,Nobelstr. 51,8,Vingst,1,Nobelstr. vor Supermarkt,7.0271463272479755,50.93272029187756,disabled parking slot
+392,2887,Venloer Str. 385,4,Ehrenfeld,1,Venloer Str. 385,6.9155824080007875,50.95088621369663,disabled parking slot
+393,3201,St.-Tönnisstr. 61,6,Worringen,1,St.-Tönnisstr. 61 (vor Apotheke),6.863033227872642,51.063392038406214,disabled parking slot
+394,3202,An den Kreutzmorgen 2,5,Weidenpesch,1,An den Kreuzmorgen (vor Orthopädiepraxis),6.946095535821447,50.98472776614392,disabled parking slot
+395,3203,Am Bahnhof,7,Wahn,3,Am Bahnhof Porz Wahn,7.079324973761198,50.85920217490749,disabled parking slot
+396,3521,Hallenbad Chorweiler,6,Chorweiler,2,Hallenbad Chorweiler / Liller Str.,6.899951828513465,51.022454036796404,disabled parking slot
+397,3841,Dellbrücker Hauptstr. /Im Wieschen,9,Dellbrück,1,Vor Dellbrücker Hauptstr. 49,7.0749786034258,50.974288858628135,disabled parking slot
+398,3842,Am Wildpark/Dünnwalder Mauspfad,9,Dünnwald,2,Parkplatz Dünnwalder Mauspfad/Am Wildpark,7.046470832182922,50.992929828037745,disabled parking slot
+399,3843,Pohlmanstr. 13,5,504,1,Vor Beratungsstelle Pohlmanstr.13,6.96755740526424,50.97638947027381,disabled parking slot
+400,3844,Stolberger Str.,3,Braunsfeld,1,Vor Stolberger Str. 309,6.89385832362425,50.94210325984417,disabled parking slot
+401,4161,Margaretastr. 8,4,Ossendorf,1,vor Margaretastr. 8,6.906695475130626,50.96769982778774,disabled parking slot
+402,4162,St.-Martin-Str. 1,7,Zündorf,1,gegenüber St.-Martin-Str. Friedhof,7.0353124958213575,50.863002007969854,disabled parking slot
+403,4481,Berliner Str. 76,9,Mülheim,1,Berliner Str. vor Nr. 76,7.011035977095376,50.972269471820965,disabled parking slot
+404,4801,Haselnußweg 39,6,Heimersdorf,1,Rückseite Aufbaugymnasium,6.90684243405285,51.010960772757514,disabled parking slot
+405,4803,Urbanstr. /An St.Heribert,1,Deutz,3,Platzfläche An St.Heribert,6.969737834760773,50.937762271851106,disabled parking slot
+406,5122,Weißenburgstr. 31,1,Neustadt/Nord,1,Weißenburgstr. 31,6.958222580850281,50.95414609499277,disabled parking slot
+407,5458,Pfarrer-Oermann-Platz,7,Eil,1,Pfarrer-Oermann-Platz,7.0781154879684784,50.893709220040044,disabled parking slot
+408,5460,Escher Str. 160,5,Bilderstöckchen,1,Escher Str. 160,6.934410989247808,50.96422733862358,disabled parking slot
+409,5461,Osloer Str. (Wendehammer),6,Chorweiler,1,Osloer Str. 7,6.8985042833477594,51.023173452866914,disabled parking slot
+410,5463,Peter-Baum-Weg 24,9,Mülheim,2,Peter-Baum-Weg 24,7.059866304580416,50.99477089764451,disabled parking slot
+411,5761,Ludwigstr. 8,1,Altstadt/Nord,1,Ludwigstr. 8,6.955141227260209,50.93885197999028,disabled parking slot
+412,6081,Sürther Hauptstr. 124,2,Sürth,2,vor der Kirche St. Remigius,7.0115938881844695,50.8645678321947,disabled parking slot
+413,6082,Große Sandkaul/Gürzenichstr.,1,Altstadt/Nord,2,Große Sandkaul 18,6.956934422437056,50.936445762831795,disabled parking slot
+414,6083,Schaevenstr. 4,1,Altstadt/Süd,1,Schaevenstr. 6,6.941903032403802,50.93338795003464,disabled parking slot
+415,6084,Brüderstr. 7,1,Altstadt/Nord,1,Brüderstr. (Ecke Kreuzgasse),6.951561242526257,50.93711667489206,disabled parking slot
+416,6085,Brüderstr. 3,1,Altstadt/Nord,2,Brüderstr. 3,6.952058100782252,50.937117589604625,disabled parking slot
+417,6086,Olpener Str. 61-63,8,Höhenberg,1,Olpener Str. 61,7.022467908092368,50.94035062692144,disabled parking slot
+418,6087,Jakobstraße/Seitenfront Isabellenstr. 1,1,Altstadt/Süd,2,Jakobstraße 54,6.956289853147696,50.92539990077462,disabled parking slot
+419,6407,Kierberger Str. 24,2,Zollstock,1,Kierberger Str. 24,6.94604393449992,50.910288264116254,disabled parking slot
+420,6727,Friedhofsweg,3,Lindenthal,1,Am Eingang Friedhof Widdersdorf,6.829347773398328,50.96476973527876,disabled parking slot
+421,6728,Gleueler Str. ,3,Lindenthal,1,Gleueler Str. vor Unireha,6.916132454168667,50.9263266563789,disabled parking slot
+422,7128,Schanzenstr. (vor E-Werk),9,Mülheim,1,Schanzenstr. (vor E-Werk),7.015854286974058,50.96921797525622,disabled parking slot
+423,7129,Höninger Platz 25,2,Zollstock,1,Höninger Platz 25,6.944057821372302,50.900590933895245,disabled parking slot
+424,7528,Hermann-Pünder-Str.,1,Deutz,2,Hermann-Pünder-Str.,6.970284927518997,50.93984548582492,disabled parking slot
